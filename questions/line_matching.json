@@ -1,0 +1,542 @@
+[{
+		"type": "LINE_MATCHING",
+		"question": "次のクラシック音楽の作品と作曲家を正しく結びなさい。",
+		"leftChoices": [
+			"交響曲第9番",
+			"トルコ行進曲",
+			"革命のエチュード",
+			"四季"
+		],
+		"rightChoices": [
+			"ベートーヴェン",
+			"モーツァルト",
+			"ショパン",
+			"ヴィヴァルディ"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の日本の観光名所と所在地を正しく結びなさい。",
+		"leftChoices": [
+			"姫路城",
+			"厳島神社",
+			"善光寺",
+			"首里城"
+		],
+		"rightChoices": [
+			"兵庫県",
+			"広島県",
+			"長野県",
+			"沖縄県"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の人体の器官と主な働きを正しく結びなさい。",
+		"leftChoices": [
+			"肝臓",
+			"肺",
+			"腎臓",
+			"胃"
+		],
+		"rightChoices": [
+			"解毒作用",
+			"ガス交換",
+			"尿の生成",
+			"食物の消化"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次のスポーツと使用する道具を正しく結びなさい。",
+		"leftChoices": [
+			"テニス",
+			"剣道",
+			"野球",
+			"ゴルフ"
+		],
+		"rightChoices": [
+			"ラケット",
+			"竹刀",
+			"バット",
+			"クラブ"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の言語と主に使用される文字を正しく結びなさい。",
+		"leftChoices": [
+			"日本語",
+			"ロシア語",
+			"アラビア語",
+			"韓国語"
+		],
+		"rightChoices": [
+			"ひらがな",
+			"キリル文字",
+			"アラビア文字",
+			"ハングル"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の天体と特徴を正しく結びなさい。",
+		"leftChoices": [
+			"地球",
+			"火星",
+			"木星",
+			"海王星"
+		],
+		"rightChoices": [
+			"水が豊富",
+			"赤い惑星",
+			"最大の惑星",
+			"最も外側の惑星"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の発明品と発明者を正しく結びなさい。",
+		"leftChoices": [
+			"電話",
+			"蓄音機",
+			"飛行機",
+			"活版印刷"
+		],
+		"rightChoices": [
+			"ベル",
+			"エジソン",
+			"ライト兄弟",
+			"グーテンベルク"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の音楽用語と意味を正しく結びなさい。",
+		"leftChoices": [
+			"アカペラ",
+			"カノン",
+			"ソナタ",
+			"レクイエム"
+		],
+		"rightChoices": [
+			"無伴奏の歌",
+			"追いかける旋律",
+			"器楽曲の形式",
+			"死者のためのミサ"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の国と通貨を正しく結びなさい。",
+		"leftChoices": [
+			"アメリカ",
+			"イギリス",
+			"韓国",
+			"インド"
+		],
+		"rightChoices": [
+			"ドル",
+			"ポンド",
+			"ウォン",
+			"ルピー"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の動物と主な生息地を正しく結びなさい。",
+		"leftChoices": [
+			"ラクダ",
+			"ホッキョクグマ",
+			"パンダ",
+			"コアラ"
+		],
+		"rightChoices": [
+			"砂漠",
+			"北極圏",
+			"中国",
+			"オーストラリア"
+		],
+		"difficulty": "NORMAL"
+	},
+{
+		"type": "LINE_MATCHING",
+		"question": "次の日本の文学作品と作者を正しく結びなさい。",
+		"leftChoices": [
+			"坊っちゃん",
+			"走れメロス",
+			"羅生門",
+			"舞姫"
+		],
+		"rightChoices": [
+			"夏目漱石",
+			"太宰治",
+			"芥川龍之介",
+			"森鴎外"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次のゲーム作品と開発元を正しく結びなさい。",
+		"leftChoices": [
+			"スプラトゥーン",
+			"原神",
+			"マインクラフト",
+			"星のカービィ"
+		],
+		"rightChoices": [
+			"任天堂",
+			"HoYoverse",
+			"Mojang",
+			"HAL研究所"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の国と首都を正しく結びなさい。",
+		"leftChoices": [
+			"カナダ",
+			"オーストラリア",
+			"ブラジル",
+			"エジプト",
+			"トルコ"
+		],
+		"rightChoices": [
+			"オタワ",
+			"キャンベラ",
+			"ブラジリア",
+			"カイロ",
+			"アンカラ"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の動物と分類を正しく結びなさい。",
+		"leftChoices": [
+			"イルカ",
+			"ペンギン",
+			"カメ",
+			"コウモリ"
+		],
+		"rightChoices": [
+			"哺乳類",
+			"鳥類",
+			"爬虫類",
+			"翼手類"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の化学式と物質名を正しく結びなさい。",
+		"leftChoices": [
+			"H₂O",
+			"CO₂",
+			"NaCl",
+			"NH₃",
+			"CH₄"
+		],
+		"rightChoices": [
+			"水",
+			"二酸化炭素",
+			"塩化ナトリウム",
+			"アンモニア",
+			"メタン"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の日本の歴史上の人物と関連する出来事を正しく結びなさい。",
+		"leftChoices": [
+			"聖徳太子",
+			"源頼朝",
+			"足利尊氏",
+			"徳川吉宗"
+		],
+		"rightChoices": [
+			"十七条の憲法",
+			"鎌倉幕府",
+			"室町幕府",
+			"享保の改革"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の惑星と特徴を正しく結びなさい。",
+		"leftChoices": [
+			"水星",
+			"金星",
+			"木星",
+			"土星",
+			"火星"
+		],
+		"rightChoices": [
+			"太陽に最も近い",
+			"最も高温",
+			"太陽系最大",
+			"大きな環を持つ",
+			"赤い惑星"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の数学用語と説明を正しく結びなさい。",
+		"leftChoices": [
+			"素数",
+			"平方数",
+			"約数",
+			"倍数"
+		],
+		"rightChoices": [
+			"約数が2個",
+			"整数の2乗",
+			"割り切る数",
+			"整数倍の数"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "『ブルーアーカイブ』のキャラクターと所属組織を正しく結びなさい。",
+		"leftChoices": [
+			"アル",
+			"ユウカ",
+			"ヒフミ",
+			"ネル",
+			"ハルナ"
+		],
+		"rightChoices": [
+			"便利屋68",
+			"セミナー",
+			"補習授業部",
+			"C&C",
+			"美食研究会"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の哲学者と思想・功績を正しく結びなさい。",
+		"leftChoices": [
+			"ソクラテス",
+			"プラトン",
+			"アリストテレス",
+			"デカルト",
+			"カント"
+		],
+		"rightChoices": [
+			"無知の知",
+			"イデア論",
+			"万学の祖",
+			"我思う、ゆえに我あり",
+			"定言命法"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "ゲーム『ブルーアーカイブ』に登場する「便利屋68」のメンバーの名前として正しい組み合わせを選びなさい",
+		"leftChoices": [
+			"陸八魔",
+			"鬼方",
+			"浅黄",
+			"伊草"
+		],
+		"rightChoices": [
+			"アル",
+			"カヨコ",
+			"ムツキ",
+			"ハルカ"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "ゲーム『ブルーアーカイブ』に登場する「万魔殿」のメンバーの名前として正しい組み合わせを選びなさい",
+		"leftChoices": [
+			"羽沼",
+			"棗",
+			"丹花",
+			"京極",
+			"元宮"
+		],
+		"rightChoices": [
+			"マコト",
+			"イロハ",
+			"イブキ",
+			"サツキ",
+			"チアキ"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "ゲーム『ブルーアーカイブ』に登場する「アビドス廃校対策委員会」のメンバーの名前として正しい組み合わせを選びなさい",
+		"leftChoices": [
+			"小鳥遊",
+			"砂狼",
+			"十六夜",
+			"黒見",
+			"奥空"
+		],
+		"rightChoices": [
+			"ホシノ",
+			"シロコ",
+			"ノノミ",
+			"セリカ",
+			"アヤネ"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "ゲーム『ブルーアーカイブ』に登場する「セミナー」のメンバーの名前として正しい組み合わせを選びなさい",
+		"leftChoices": [
+			"調月",
+			"早瀬",
+			"生塩",
+			"黒崎"
+		],
+		"rightChoices": [
+			"リオ",
+			"ユウカ",
+			"ノア",
+			"コユキ"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "ゲーム『ブルーアーカイブ』に登場する「Cleaning&Clearing」のメンバーの名前として正しい組み合わせを選びなさい",
+		"leftChoices": [
+			"美甘",
+			"一之瀬",
+			"角楯",
+			"室笠",
+			"飛鳥馬"
+		],
+		"rightChoices": [
+			"ネル",
+			"アスナ",
+			"カリン",
+			"アカネ",
+			"トキ"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "ゲーム『ブルーアーカイブ』に登場する「補習授業部」のメンバーの名前として正しい組み合わせを選びなさい",
+		"leftChoices": [
+			"阿慈谷",
+			"白洲",
+			"浦和",
+			"下江"
+		],
+		"rightChoices": [
+			"ヒフミ",
+			"アズサ",
+			"ハナコ",
+			"コハル"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "ゲーム『ブルーアーカイブ』に登場する「風紀委員会」のメンバーの名前として正しい組み合わせを選びなさい",
+		"leftChoices": [
+			"空崎",
+			"天雨",
+			"銀鏡",
+			"火宮"
+		],
+		"rightChoices": [
+			"ヒナ",
+			"アコ",
+			"イオリ",
+			"チナツ"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "ゲーム『ブルーアーカイブ』に登場する「美食研究会」のメンバーの名前として正しい組み合わせを選びなさい",
+		"leftChoices": [
+			"黒舘",
+			"獅子堂",
+			"鰐渕",
+			"赤司"
+		],
+		"rightChoices": [
+			"ハルナ",
+			"イズミ",
+			"アカリ",
+			"ジュンコ"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "ゲーム『ブルーアーカイブ』に登場する「ティーパーティー」のメンバーの名前として正しい組み合わせを選びなさい",
+		"leftChoices": [
+			"桐藤",
+			"聖園",
+			"百合園"
+		],
+		"rightChoices": [
+			"ナギサ",
+			"ミカ",
+			"セイア"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "ゲーム『ブルーアーカイブ』に登場する「正義実現委員会」のメンバーの名前として正しい組み合わせを選びなさい",
+		"leftChoices": [
+			"剣先",
+			"羽川",
+			"静山",
+			"仲正"
+		],
+		"rightChoices": [
+			"ツルギ",
+			"ハスミ",
+			"マシロ",
+			"イチカ"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "ゲーム『ブルーアーカイブ』に登場する「放課後スイーツ部」のメンバーの名前として正しい組み合わせを選びなさい",
+		"leftChoices": [
+			"柚鳥",
+			"杏山",
+			"栗村",
+			"伊原木"
+		],
+		"rightChoices": [
+			"ナツ",
+			"カズサ",
+			"アイリ",
+			"ヨシミ"
+		],
+		"difficulty": "NORMAL"
+	}
+]

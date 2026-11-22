@@ -1,1 +1,515 @@
-test
+[
+	{
+		"type": "CHARACTER_PANEL",
+		"question": "ある数xを2乗してaになるとき、xをaの何と言うでしょう？",
+		"answer": "平方根",
+		"choices": [
+			"部",
+			"数",
+			"分",
+			"平",
+			"根",
+			"解",
+			"微",
+			"積",
+			"倍",
+			"方"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "CHARACTER_PANEL",
+		"question": "数学で、複雑な分数式をより単純な分数の和や差に変形する操作を何という？",
+		"answer": "部分分数分解",
+		"choices": [
+			"積",
+			"分",
+			"数",
+			"式",
+			"解",
+			"微",
+			"方",
+			"根",
+			"倍",
+			"部"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "CHARACTER_PANEL",
+		"question": "植物が光エネルギーを使って有機物を合成する作用を何という？",
+		"answer": "光合成",
+		"choices": [
+			"光",
+			"合",
+			"成",
+			"葉",
+			"緑",
+			"素",
+			"炭",
+			"水",
+			"酸",
+			"素"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "CHARACTER_PANEL",
+		"question": "すべての物体が互いに引き合う力を何という？",
+		"answer": "万有引力",
+		"choices": [
+			"万",
+			"有",
+			"引",
+			"力",
+			"重",
+			"量",
+			"地",
+			"球",
+			"物",
+			"体"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "CHARACTER_PANEL",
+		"question": "磁場の変化によって電流が生じる現象を何という？",
+		"answer": "電磁誘導",
+		"choices": [
+			"電",
+			"磁",
+			"誘",
+			"導",
+			"流",
+			"場",
+			"変",
+			"化",
+			"力",
+			"線"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "CHARACTER_PANEL",
+		"question": "細胞核内にあり、遺伝情報を担う糸状の構造を何という？",
+		"answer": "染色体",
+		"choices": [
+			"染",
+			"色",
+			"体",
+			"遺",
+			"伝",
+			"子",
+			"核",
+			"細",
+			"胞",
+			"糸"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "CHARACTER_PANEL",
+		"question": "古代の生物の遺骸が変化してできた燃料を何という？",
+		"answer": "化石燃料",
+		"choices": [
+			"化",
+			"石",
+			"燃",
+			"料",
+			"火",
+			"油",
+			"炭",
+			"天",
+			"然",
+			"気"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "CHARACTER_PANEL",
+		"question": "温室効果ガスの増加により地球の気温が上昇する現象を何という？",
+		"answer": "地球温暖化",
+		"choices": [
+			"地",
+			"球",
+			"温",
+			"暖",
+			"化",
+			"気",
+			"候",
+			"変",
+			"動",
+			"熱"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "CHARACTER_PANEL",
+		"question": "645年に中大兄皇子らが行った政治改革を何という？",
+		"answer": "大化の改新",
+		"choices": [
+			"大",
+			"化",
+			"の",
+			"改",
+			"新",
+			"皇",
+			"子",
+			"蘇",
+			"我",
+			"氏"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "CHARACTER_PANEL",
+		"question": "直角三角形の三辺の長さの関係を表す定理を何という？",
+		"answer": "三平方の定理",
+		"choices": [
+			"三",
+			"平",
+			"方",
+			"の",
+			"定",
+			"理",
+			"直",
+			"角",
+			"辺",
+			"長"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "CHARACTER_PANEL",
+		"question": "水が蒸発して気体になったものを何という？",
+		"answer": "水蒸気",
+		"choices": [
+			"水",
+			"蒸",
+			"気",
+			"雲",
+			"雨",
+			"霧",
+			"湿",
+			"度",
+			"熱",
+			"温"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "CHARACTER_PANEL",
+		"question": "地震が発生したときに地中を伝わる波を何という？",
+		"answer": "地震波",
+		"choices": [
+			"地",
+			"震",
+			"波",
+			"縦",
+			"横",
+			"速",
+			"度",
+			"振",
+			"幅",
+			"源"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "CHARACTER_PANEL",
+		"question": "大陸が長い年月をかけて移動する考え方を何という？",
+		"answer": "大陸移動",
+		"choices": [
+			"大",
+			"陸",
+			"移",
+			"動",
+			"板",
+			"塊",
+			"海",
+			"嶺",
+			"溝",
+			"説"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "CHARACTER_PANEL",
+		"question": "環境に適した個体が生き残るというダーウィンの説を何という？",
+		"answer": "自然選択",
+		"choices": [
+			"自",
+			"然",
+			"選",
+			"択",
+			"適",
+			"者",
+			"生",
+			"存",
+			"進",
+			"化"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "CHARACTER_PANEL",
+		"question": "親から子へ伝えられる遺伝情報の単位を何という？",
+		"answer": "遺伝子",
+		"choices": [
+			"遺",
+			"伝",
+			"子",
+			"染",
+			"色",
+			"体",
+			"核",
+			"酸",
+			"塩",
+			"基"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "CHARACTER_PANEL",
+		"question": "一つの細胞が分裂して新しい細胞を作る現象を何という？",
+		"answer": "細胞分裂",
+		"choices": [
+			"細",
+			"胞",
+			"分",
+			"裂",
+			"核",
+			"糸",
+			"状",
+			"体",
+			"間",
+			"期"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "CHARACTER_PANEL",
+		"question": "元素を原子番号順に並べた表を何という？",
+		"answer": "周期表",
+		"choices": [
+			"周",
+			"期",
+			"表",
+			"原",
+			"子",
+			"番",
+			"号",
+			"族",
+			"属",
+			"性"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "CHARACTER_PANEL",
+		"question": "1868年に始まった日本の近代化改革を何という？",
+		"answer": "明治維新",
+		"choices": [
+			"明",
+			"治",
+			"維",
+			"新",
+			"帝",
+			"大",
+			"政",
+			"奉",
+			"還",
+			"廃"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+  "type": "CHARACTER_PANEL",
+  "question": "1600年に徳川家康が勝利した戦いの地名を何という？",
+  "answer": "関ヶ原",
+  "choices": ["関", "ヶ", "原", "合", "戦", "東", "軍", "西", "勝", "利"],
+  "difficulty": "HARD"
+},
+{
+  "type": "CHARACTER_PANEL",
+  "question": "794年に桓武天皇が遷都した都の名前を何という？",
+  "answer": "平安京",
+  "choices": ["平", "安", "京", "都", "遷", "長", "岡", "奈", "朝", "廷"],
+  "difficulty": "NORMAL"
+},
+{
+  "type": "CHARACTER_PANEL",
+  "question": "徳川家が開いた江戸時代の政権を何という？",
+  "answer": "江戸幕府",
+  "choices": ["江", "戸", "幕", "府", "将", "軍", "天", "下", "統", "一"],
+  "difficulty": "EASY"
+},
+{
+  "type": "CHARACTER_PANEL",
+  "question": "地球上で最も広い海洋の名前を何という？",
+  "answer": "太平洋",
+  "choices": ["太", "平", "洋", "大", "西", "印", "度", "北", "南", "氷"],
+  "difficulty": "EASY"
+},
+{
+  "type": "CHARACTER_PANEL",
+  "question": "北の空でほとんど動かない星として知られるものを何という？",
+  "answer": "北極星",
+  "choices": ["北", "極", "星", "小", "熊", "座", "指", "針", "夜", "空"],
+  "difficulty": "EASY"
+},
+{
+  "type": "CHARACTER_PANEL",
+  "question": "皇帝や天皇などの君主1人につき、元号を1つだけ定める制度を何という？",
+  "answer": "一世一元の制",
+  "choices": ["一", "世", "元", "の", "制", "二", "代", "天", "皇", "帝"],
+  "difficulty": "HARD"
+},
+{
+  "type": "CHARACTER_PANEL",
+  "question": "平成最後の日は2019年何月何日？ずばり答えなさい",
+  "answer": "4月30日",
+  "choices": ["4", "月", "3", "0", "日", "5", "1", "2", "6", "7"],
+  "difficulty": "NORMAL"
+},
+{
+  "type": "CHARACTER_PANEL",
+  "question": "個人の所得に対して課税される税金を何という？",
+  "answer": "所得税",
+  "choices": ["所", "得", "税", "法", "人", "消", "費", "相", "続", "金"],
+  "difficulty": "NORMAL"
+},
+{
+  "type": "CHARACTER_PANEL",
+  "question": "法人の所得に対して課税される税金を何という？",
+  "answer": "法人税",
+  "choices": ["所", "得", "税", "法", "人", "消", "費", "相", "続", "金"],
+  "difficulty": "NORMAL"
+},
+{
+  "type": "CHARACTER_PANEL",
+  "question": "国内での商品販売・サービス提供や、輸入取引などに対して課税される税金を何という？",
+  "answer": "消費税",
+  "choices": ["所", "得", "税", "法", "人", "消", "費", "相", "続", "金"],
+  "difficulty": "NORMAL"
+},
+{
+  "type": "CHARACTER_PANEL",
+  "question": "相続や遺贈によって財産を取得した場合に課税される税金を何という？",
+  "answer": "相続税",
+  "choices": ["所", "得", "税", "法", "人", "消", "費", "相", "続", "金"],
+  "difficulty": "NORMAL"
+},
+{
+  "type": "CHARACTER_PANEL",
+  "question": "国民の祝日に関する法律第3条第2項によって定められる、国民の祝日が日曜日に当たる場合に設けられる休日を、一般に何という？",
+  "answer": "振替休日",
+  "choices": ["振", "替", "休", "日", "国", "民", "平", "の", "曜", "月"],
+  "difficulty": "NORMAL"
+},
+{
+  "type": "CHARACTER_PANEL",
+  "question": "個人から財産の贈与を受けた場合に、原則として受贈者に課税される税金を何という？",
+  "answer": "贈与税",
+  "choices": ["贈", "与", "税", "揮", "発", "油", "産", "固", "定", "資"],
+  "difficulty": "NORMAL"
+},
+{
+  "type": "CHARACTER_PANEL",
+  "question": "ガソリンなどの揮発油の製造場からの移出や、輸入時の引取りなどに課税される税金を何という？",
+  "answer": "揮発油税",
+  "choices": ["贈", "与", "税", "揮", "発", "油", "産", "固", "定", "資"],
+  "difficulty": "NORMAL"
+},
+{
+  "type": "CHARACTER_PANEL",
+  "question": "土地、家屋、償却資産の所有者に対して原則として毎年課税される税金を何という？",
+  "answer": "固定資産税",
+  "choices": ["贈", "与", "税", "揮", "発", "油", "産", "固", "定", "資"],
+  "difficulty": "NORMAL"
+},
+{
+  "type": "CHARACTER_PANEL",
+  "question": "SOLID原則において、「クラスが変更される理由は1つだけであるべきである」という原則を「〇〇〇〇原則」という？",
+  "answer": "単一責任",
+  "choices": ["単", "一", "責", "任", "開", "放", "閉", "鎖", "置", "換"],
+  "difficulty": "NORMAL"
+},
+{
+  "type": "CHARACTER_PANEL",
+  "question": "SOLID原則において、「ソフトウェア要素は拡張に対して開かれており、変更に対して閉じているべきである」という原則を「〇〇〇〇原則」という？",
+  "answer": "開放閉鎖",
+  "choices": ["単", "一", "責", "任", "開", "放", "閉", "鎖", "置", "換"],
+  "difficulty": "NORMAL"
+},
+{
+  "type": "CHARACTER_PANEL",
+  "question": "SOLID原則において、「サブタイプのオブジェクトはスーパータイプのオブジェクトの仕様に従わなければならない」という原則を「〇〇〇〇置換原則」という？",
+  "answer": "リスコフ",
+  "choices": ["リ", "ス", "コ", "フ", "マ", "イ", "ヌ", "ヨ", "ド", "ア"],
+  "difficulty": "NORMAL"
+},
+{
+  "type": "CHARACTER_PANEL",
+  "question": "SOLID原則において、「抽象は詳細に依存してはならない。詳細が中小に依存するべきである」という原則を「〇〇〇〇〇原則」という？",
+  "answer": "依存性逆転",
+  "choices": ["依", "存", "性", "逆", "転", "特", "閉", "鎖", "置", "換"],
+  "difficulty": "NORMAL"
+},
+{
+  "type": "CHARACTER_PANEL",
+  "question": "生体認証システムなどの精度を表す指標の1つで、「本人が認証を試みているのに本人でないと認識され拒否してしまう割合」を何という？",
+  "answer": "本人拒否率",
+  "choices": ["本", "人", "拒", "否", "率", "他", "不", "受", "入", "危"],
+  "difficulty": "HARD"
+},
+{
+  "type": "CHARACTER_PANEL",
+  "question": "生体認証システムなどの精度を表す指標の1つで、「他人が認証を試みているのに本人であると誤認識されてしまう割合」を何という？",
+  "answer": "他人受入率",
+  "choices": ["本", "人", "拒", "否", "率", "他", "不", "受", "入", "危"],
+  "difficulty": "HARD"
+},
+{
+  "type": "CHARACTER_PANEL",
+  "question": "ログインなどの本人確認の際、性質の異なる「2つの要素」を組み合わせて本人確認を行う仕組みを何という？",
+  "answer": "二要素認証",
+  "choices": ["二", "要", "素", "認", "証", "三", "定", "糸", "性", "脆"],
+  "difficulty": "HARD"
+},
+{
+  "type": "CHARACTER_PANEL",
+  "question": "桜の開花予想日が同じである日本の各地点を結んだ線のことを、天気図上では線で表現される「寒冷前線」「温暖前線」になぞらえてなんという？",
+  "answer": "桜前線",
+  "choices": ["桜", "前", "線", "梅", "糸", "後", "雨", "秋", "四", "月"],
+  "difficulty": "HARD"
+},
+{
+  "type": "CHARACTER_PANEL",
+  "question": "漢の将軍・韓信が、敗走を装って川を背にして戦うことで相手に油断を生み、形勢を逆転させたと伝えられる故事に由来する、「逃げ場のない状態で戦う」状態を指す故事成語は何？",
+  "answer": "背水の陣",
+  "choices": ["背", "水", "の", "陣", "腹", "氷", "川", "が", "馬", "北"],
+  "difficulty": "HARD"
+},
+{
+  "type": "CHARACTER_PANEL",
+  "question": "かつては琵琶湖に次いで日本第2位の広さを持っていたものの、1957年から始まった干拓事業により大部分が埋め立てられ、居住地及び田畑として利用されている、秋田県にある湖は何？",
+  "answer": "八郎潟",
+  "choices": ["八", "郎", "潟", "田", "沢", "湖", "十", "和", "水", "海"],
+  "difficulty": "HARD"
+},
+{
+  "type": "CHARACTER_PANEL",
+  "question": "2006年にGBA向けに発売されたゲームで、2008年には『ゴールド』、2011年には『みんなの』、2026年には最新作である『ミラクルスターズ』が発売されたゲームシリーズといえば何？",
+  "answer": "リズム天国",
+  "choices": ["リ", "ズ", "ム", "天", "国", "地", "獄", "大", "グ", "ミ"],
+  "difficulty": "HARD"
+},
+{
+  "type": "CHARACTER_PANEL",
+  "question": "高校数学において、グラフ上のある一点でグラフに接する直線の傾きとして求められるものといえば何？",
+  "answer": "微分係数",
+  "choices": ["微", "分", "係", "数", "積", "定", "計", "平", "均", "線"],
+  "difficulty": "HARD"
+}
+]

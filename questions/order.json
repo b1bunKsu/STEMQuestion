@@ -1,0 +1,297 @@
+[
+	{
+		"type": "ORDER",
+		"question": "次の惑星を太陽に近い順に選びなさい",
+		"choices": [
+			"水星",
+			"金星",
+			"地球",
+			"火星",
+			"木星"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ORDER-A",
+		"question": "次の文字列をたさしい順番で選んで、DNAの正式名称にしなさい",
+		"choices": [
+			"デ",
+			"オキシ",
+			"リボ",
+			"核酸"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ORDER",
+		"question": "蝶の一生を早いものから順番に選びなさい",
+		"choices": [
+			"卵",
+			"幼虫（青虫）",
+			"蛹",
+			"成虫",
+			"産卵"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ORDER-A",
+		"question": "次の工程を順番に選び、カレーを作りなさい",
+		"choices": [
+			"野菜と肉を切る",
+			"材料を炒める",
+			"水を入れて煮込む",
+			"ルーを入れる",
+			"ご飯にかける"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ORDER",
+		"question": "次の動物を小さい順に選びなさい",
+		"choices": [
+			"アリ",
+			"ネズミ",
+			"猫",
+			"馬",
+			"象"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ORDER-A",
+		"question": "次の文字を並べて有名な都市名を完成させよう。",
+		"choices": [
+			"キ",
+			"ョ",
+			"ウ",
+			"ト",
+			"フ"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ORDER",
+		"question": "次の発明を古い順に並べよう。",
+		"choices": [
+			"車輪",
+			"印刷技術",
+			"蒸気機関",
+			"電球",
+			"インターネット"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ORDER",
+		"question": "次の数字を小さい順に並べよう。",
+		"choices": [
+			"3",
+			"7",
+			"12",
+			"25",
+			"100"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ORDER-A",
+		"question": "次の言葉を並べて正しい四字熟語を作ろう。",
+		"choices": [
+			"一",
+			"石",
+			"二",
+			"鳥"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ORDER-A",
+		"question": "1年の季節を早いものから順に並べよう。",
+		"choices": [
+			"春",
+			"夏",
+			"秋",
+			"冬"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "ORDER",
+		"question": "次の数字を小さい順に並べよう。",
+		"choices": [
+			"1",
+			"5",
+			"10",
+			"20",
+			"50"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "ORDER-A",
+		"question": "朝ごはんの準備を正しい順番に並べよう。",
+		"choices": [
+			"食材を用意する",
+			"火を通す",
+			"盛り付ける",
+			"テーブルに並べる",
+			"食べる"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "ORDER-A",
+		"question": "人間の成長を順番に並べよう。",
+		"choices": [
+			"赤ちゃん",
+			"幼児",
+			"子供",
+			"大人",
+			"お年寄り"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "ORDER",
+		"question": "太陽系の惑星を太陽に近い順に並べよう。",
+		"choices": [
+			"水星",
+			"金星",
+			"地球",
+			"火星",
+			"土星"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ORDER",
+		"question": "次の歴史的出来事を古い順に並べよう。",
+		"choices": [
+			"ピラミッドが作られる",
+			"ローマ帝国が成立",
+			"コロンブスが新大陸に到達",
+			"産業革命が始まる",
+			"人類が月に着陸"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ORDER-A",
+		"question": "ご飯の炊き方を正しい順番に並べよう。",
+		"choices": [
+			"米を研ぐ",
+			"水に浸す",
+			"火にかける",
+			"蒸らす",
+			"器に盛る"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ORDER",
+		"question": "小さい順に乗り物を並べよう。",
+		"choices": [
+			"自転車",
+			"バイク",
+			"乗用車",
+			"バス",
+			"飛行機"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ORDER",
+		"question": "次の発明を古い順に並べよう。",
+		"choices": [
+			"紙",
+			"コンパス",
+			"蒸気機関車",
+			"電話",
+			"スマートフォン"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ORDER",
+		"question": "日本の時代を古い順に並べよう。",
+		"choices": [
+			"奈良時代",
+			"平安時代",
+			"鎌倉時代",
+			"江戸時代",
+			"明治時代"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "ORDER",
+		"question": "次の科学者の活躍時期を古い順に並べよう。",
+		"choices": [
+			"ガリレオ・ガリレイ",
+			"アイザック・ニュートン",
+			"チャールズ・ダーウィン",
+			"アルベルト・アインシュタイン",
+			"スティーブン・ホーキング"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "ORDER-A",
+		"question": "次の文字を並べて四字熟語を完成させよう。",
+		"choices": [
+			"因",
+			"果",
+			"応",
+			"報"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "ORDER-A",
+		"question": "化学反応の基本的な流れを順番に並べよう。",
+		"choices": [
+			"反応物が接触する",
+			"活性化エネルギーを超える",
+			"化学結合が切れる",
+			"新しい結合ができる",
+			"生成物ができる"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "ORDER",
+		"question": "次のクラシック作曲家を生まれた順に並べよう。",
+		"choices": [
+			"バッハ",
+			"モーツァルト",
+			"ベートーヴェン",
+			"ショパン",
+			"ドビュッシー"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "ORDER-A",
+		"question": "次の日本の城を築城された年代が古い順に並べよう。",
+		"choices": [
+			"姫路城",
+			"松本城",
+			"大阪城",
+			"熊本城"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "ORDER",
+		"question": "次の宇宙探査の出来事を古い順に並べよう。",
+		"choices": [
+			"スプートニク1号打ち上げ",
+			"ガガーリンの有人飛行",
+			"アポロ11号月面着陸",
+			"ハッブル宇宙望遠鏡打ち上げ",
+			"はやぶさ2号帰還"
+		],
+		"difficulty": "HARD"
+	}
+]

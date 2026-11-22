@@ -1,0 +1,8 @@
+[
+	{
+		"type": "NUMBER",
+		"question": "警察に緊急通報する際にかける電話番号は何番？数字で答えなさい。",
+		"answer": "110",
+		"difficulty": "EASY"
+	}
+]

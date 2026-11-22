@@ -1,0 +1,182 @@
+[
+	{
+		"type": "OX",
+		"question": "日本の首都は\\w東京である",
+		"answer": "O",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "日本の首都は\\w大阪である",
+		"answer": "X",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "日本で一番高い山は\\w富士山である",
+		"answer": "O",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "地球は太陽の周りを回っている",
+		"answer": "O",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "人間の心臓は体の\\w右側にある",
+		"answer": "X",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "水は\\w0度で凍る",
+		"answer": "O",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "月は自ら光を発している",
+		"answer": "X",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "ブラジルの首都は\\wリオデジャネイロである",
+		"answer": "X",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "1年は365日または366日である",
+		"answer": "O",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "パンダの主食は\\w竹である",
+		"answer": "O",
+		"difficulty": "NORMAL"
+	},
+  	{
+    "type": "OX",
+    "question": "日本で一番人口が多い都道府県は東京都である",
+    "answer": "O",
+    "difficulty": "EASY"
+  },
+  {
+    "type": "OX",
+    "question": "桜の花びらは必ず5枚である",
+    "answer": "O",
+    "difficulty": "EASY"
+  },
+  {
+    "type": "OX",
+    "question": "太陽は東から昇り西に沈む",
+    "answer": "O",
+    "difficulty": "EASY"
+  },
+  {
+    "type": "OX",
+    "question": "人間の歯は一生で生え変わらない",
+    "answer": "X",
+    "difficulty": "EASY"
+  },
+  {
+    "type": "OX",
+    "question": "日本の国旗は日の丸と呼ばれる",
+    "answer": "O",
+    "difficulty": "EASY"
+  },
+  {
+    "type": "OX",
+    "question": "金星は太陽系で一番熱い惑星である",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "OX",
+    "question": "エベレストはアジア大陸にある",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "OX",
+    "question": "日本の通貨単位は「円」である",
+    "answer": "O",
+    "difficulty": "EASY"
+  },
+  {
+    "type": "OX",
+    "question": "南極にはペンギンが生息している",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "OX",
+    "question": "北極にはペンギンが生息している",
+    "answer": "X",
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "OX",
+    "question": "光速は約30万km/秒である",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "OX",
+    "question": "日本の四季は春・夏・秋・冬の4つである",
+    "answer": "O",
+    "difficulty": "EASY"
+  },
+  {
+    "type": "OX",
+    "question": "DNAは二重らせん構造をしている",
+    "answer": "O",
+    "difficulty": "HARD"
+  },
+  {
+    "type": "OX",
+    "question": "元素記号「Fe」は鉄を表す",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "OX",
+    "question": "元素記号「Au」は銀を表す",
+    "answer": "X",
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "OX",
+    "question": "日本の最北端の都道府県は北海道である",
+    "answer": "O",
+    "difficulty": "EASY"
+  },
+  {
+    "type": "OX",
+    "question": "人間の体の水分量は約60〜70％である",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "OX",
+    "question": "ブラックホールは光さえも脱出できない天体である",
+    "answer": "O",
+    "difficulty": "HARD"
+  },
+  {
+    "type": "OX",
+    "question": "ピタゴラスの定理は直角三角形に関する定理である",
+    "answer": "O",
+    "difficulty": "HARD"
+  },
+  {
+    "type": "OX",
+    "question": "地球の自転周期は約24時間である",
+    "answer": "O",
+    "difficulty": "EASY"
+  }
+]

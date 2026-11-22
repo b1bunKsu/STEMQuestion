@@ -1,0 +1,310 @@
+[
+	{
+		"type": "EFFECT",
+		"question": "『原神』において、刻晴の声を担当",
+		"hint": "喜多村英梨",
+		"answer": "きたむらえり",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "『鬼滅の刃』のヒロイン",
+		"hint": "竈門禰豆子",
+		"answer": "かまどねずこ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "『鬼滅の刃』の蟲柱",
+		"hint": "胡蝶しのぶ",
+		"answer": "こちょうしのぶ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "『鬼滅の刃』の水柱",
+		"hint": "冨岡義勇",
+		"answer": "とみおかぎゆう",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "『原神』において、ナヴィアの声を担当",
+		"hint": "豊崎愛生",
+		"answer": "とよさきあき",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "『原神』において、クロリンデの声を担当",
+		"hint": "石川由依",
+		"answer": "いしかわゆい",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "『原神』において、レイラの声を担当",
+		"hint": "富田美憂",
+		"answer": "とみたみゆ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "『崩壊: スターレイル』において、カフカの声を担当",
+		"hint": "伊藤静",
+		"answer": "いとうしずか",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "『崩壊: スターレイル』において、銀狼の声を担当",
+		"hint": "阿澄佳奈",
+		"answer": "あすみかな",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "『原神』において、九条裟羅の声を担当",
+		"hint": "瀬戸麻沙美",
+		"answer": "せとあさみ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "『ゼンレスゾーンゼロ』において、浮波柚葉の声を担当",
+		"hint": "長谷川育美",
+		"answer": "はせがわいくみ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "『原神』において、夜欄の声を担当",
+		"hint": "遠藤綾",
+		"answer": "えんどうあや",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "ゲーム『NTE』でカバーもされた『MyGO!!!!!』の\n楽曲",
+		"hint": "迷星叫",
+		"answer": "まよいうた",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "EFFECT",
+		"question": "複数の前提を積み重ねて根拠付けする方法",
+		"hint": "演繹法",
+		"answer": "えんえきほう",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "EFFECT",
+		"question": "複数の具体的な例から根拠付けする方法",
+		"hint": "帰納法",
+		"answer": "きのうほう",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "ある事柄が真実として認められる確実性の度合い",
+		"hint": "蓋然性",
+		"answer": "がいぜんせい",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "ギコギコと木を切ります",
+		"hint": "鋸",
+		"answer": "のこぎり",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "チョキチョキと紙を切ります",
+		"hint": "鋏",
+		"answer": "はさみ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "昆虫採集の標的にされがち",
+		"hint": "鍬形虫",
+		"answer": "くわがたむし",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "EFFECT",
+		"question": "寒さをしのぐために着ます",
+		"hint": "外套",
+		"answer": "がいとう",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "EFFECT",
+		"question": "日本最大のビジネス街",
+		"hint": "大手町",
+		"answer": "おおてまち",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "EFFECT",
+		"question": "ゼンマイやハンドルを回して奏でます",
+		"hint": "自鳴琴",
+		"answer": "オルゴール",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "EFFECT",
+		"question": "ふいごと鍵盤で奏でます",
+		"hint": "手風琴",
+		"answer": "アコーディオン",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "EFFECT",
+		"question": "英語で「ドラゴンフライ」という秋の虫",
+		"hint": "蜻蛉",
+		"answer": "トンボ",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "EFFECT",
+		"question": "強力な跳躍力を持つ夏の虫",
+		"hint": "飛蝗",
+		"answer": "バッタ",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "EFFECT",
+		"question": "日本一の電気街",
+		"hint": "秋葉原",
+		"answer": "あきはばら",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "EFFECT",
+		"question": "猫が大好きな人です",
+		"hint": "愛猫家",
+		"answer": "あいびょうか",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "黄色い大きな夏を代表する花",
+		"hint": "向日葵",
+		"answer": "ヒマワリ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "土壌のpHによって色が変わる花",
+		"hint": "紫陽花",
+		"answer": "アジサイ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "最後には綿毛になります",
+		"hint": "蒲公英",
+		"answer": "タンポポ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "メキシコ原産の秋を代表する花",
+		"hint": "秋桜",
+		"answer": "コスモス",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "EFFECT",
+		"question": "「花の王様」とも呼ばれます",
+		"hint": "牡丹",
+		"answer": "ボタン",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "「花の女王」とも呼ばれます",
+		"hint": "薔薇",
+		"answer": "バラ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "花に水をあげます",
+		"hint": "如雨露",
+		"answer": "じょうろ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "スマホの見すぎで一時的になる場合もあります",
+		"hint": "内斜視",
+		"answer": "ないしゃし",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "「コーヒーの聖地」と呼ばれることもある町",
+		"hint": "清澄白河",
+		"answer": "きよすみしらかわ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "もろくて弱い性質のこと",
+		"hint": "脆弱性",
+		"answer": "ぜいじゃくせい",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "その咲き方と見た目からこの名前が付けられました",
+		"hint": "芝桜",
+		"answer": "しばざくら",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "海の中をゆらゆらと漂う癒し生物",
+		"hint": "海月",
+		"answer": "クラゲ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "その形からこの漢字が当てられた生き物",
+		"hint": "海星",
+		"answer": "ヒトデ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "水族館のショーで大ジャンプ！",
+		"hint": "海豚",
+		"answer": "イルカ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "ズルズルと啜って食べます",
+		"hint": "拉麺",
+		"answer": "ラーメン",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "黒くて苦い飲み物",
+		"hint": "珈琲",
+		"answer": "コーヒー",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "独特の香りがある乳製品",
+		"hint": "乾酪",
+		"answer": "チーズ",
+		"difficulty": "NORMAL"
+	}
+]

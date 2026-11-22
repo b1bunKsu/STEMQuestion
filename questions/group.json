@@ -1,0 +1,969 @@
+[
+	{
+		"type": "GROUP",
+		"question": "次の動物をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "哺乳類",
+				"choices": [
+					"ライオン",
+					"ゾウ"
+				]
+			},
+			"B": {
+				"name": "鳥類",
+				"choices": [
+					"スズメ",
+					"ワシ"
+				]
+			},
+			"C": {
+				"name": "魚類",
+				"choices": [
+					"マグロ"
+				]
+			}
+		},
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の果物をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "柑橘類",
+				"choices": [
+					"みかん",
+					"レモン"
+				]
+			},
+			"B": {
+				"name": "ベリー類",
+				"choices": [
+					"イチゴ",
+					"ブルーベリー"
+				]
+			}
+		},
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の乗り物をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "陸上",
+				"choices": [
+					"自動車",
+					"自転車"
+				]
+			},
+			"B": {
+				"name": "空中",
+				"choices": [
+					"飛行機"
+				]
+			},
+			"C": {
+				"name": "海上",
+				"choices": [
+					"船",
+					"ヨット"
+				]
+			}
+		},
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の野菜をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "根菜類",
+				"choices": [
+					"にんじん",
+					"だいこん"
+				]
+			},
+			"B": {
+				"name": "葉物野菜",
+				"choices": [
+					"レタス",
+					"キャベツ"
+				]
+			}
+		},
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次のスポーツをグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "球技",
+				"choices": [
+					"サッカー",
+					"野球"
+				]
+			},
+			"B": {
+				"name": "水泳競技",
+				"choices": [
+					"競泳"
+				]
+			},
+			"C": {
+				"name": "格闘技",
+				"choices": [
+					"柔道",
+					"空手"
+				]
+			}
+		},
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の楽器をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "弦楽器",
+				"choices": [
+					"ギター",
+					"バイオリン"
+				]
+			},
+			"B": {
+				"name": "管楽器",
+				"choices": [
+					"フルート",
+					"トランペット"
+				]
+			}
+		},
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の昆虫をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "甲虫類",
+				"choices": [
+					"カブトムシ",
+					"クワガタ"
+				]
+			},
+			"B": {
+				"name": "チョウ目",
+				"choices": [
+					"アゲハチョウ"
+				]
+			},
+			"C": {
+				"name": "ハチ目",
+				"choices": [
+					"ミツバチ",
+					"スズメバチ"
+				]
+			}
+		},
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の色をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "暖色",
+				"choices": [
+					"赤",
+					"オレンジ"
+				]
+			},
+			"B": {
+				"name": "寒色",
+				"choices": [
+					"青",
+					"水色"
+				]
+			}
+		},
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の食べ物をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "和食",
+				"choices": [
+					"寿司",
+					"天ぷら"
+				]
+			},
+			"B": {
+				"name": "洋食",
+				"choices": [
+					"ステーキ"
+				]
+			},
+			"C": {
+				"name": "中華",
+				"choices": [
+					"餃子",
+					"ラーメン"
+				]
+			}
+		},
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の植物をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "樹木",
+				"choices": [
+					"桜",
+					"松"
+				]
+			},
+			"B": {
+				"name": "花",
+				"choices": [
+					"バラ",
+					"ひまわり"
+				]
+			}
+		},
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の色をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "原色",
+				"choices": [
+					"赤",
+					"青"
+				]
+			},
+			"B": {
+				"name": "中間色",
+				"choices": [
+					"緑"
+				]
+			}
+		},
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の食べ物をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "主食",
+				"choices": [
+					"ご飯"
+				]
+			},
+			"B": {
+				"name": "おかず",
+				"choices": [
+					"肉"
+				]
+			},
+			"C": {
+				"name": "デザート",
+				"choices": [
+					"ケーキ"
+				]
+			}
+		},
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の植物をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "常緑樹",
+				"choices": [
+					"松",
+					"杉"
+				]
+			},
+			"B": {
+				"name": "落葉樹",
+				"choices": [
+					"カエデ"
+				]
+			}
+		},
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の認証に使用する情報をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "知識情報",
+				"choices": [
+					"暗証番号"
+				]
+			},
+			"B": {
+				"name": "所持情報",
+				"choices": [
+					"ICカード"
+				]
+			},
+			"C": {
+				"name": "生体情報",
+				"choices": [
+					"指紋",
+					"顔"
+				]
+			}
+		},
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の動物をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "哺乳類",
+				"choices": [
+					"ライオン",
+					"ゾウ"
+				]
+			},
+			"B": {
+				"name": "鳥類",
+				"choices": [
+					"スズメ",
+					"ワシ"
+				]
+			}
+		},
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の果物をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "柑橘類",
+				"choices": [
+					"みかん",
+					"レモン"
+				]
+			},
+			"B": {
+				"name": "バラ科",
+				"choices": [
+					"リンゴ",
+					"モモ"
+				]
+			}
+		},
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の乗り物をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "陸上",
+				"choices": [
+					"自動車",
+					"自転車"
+				]
+			},
+			"B": {
+				"name": "空中",
+				"choices": [
+					"飛行機",
+					"ヘリ"
+				]
+			}
+		},
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の野菜をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "根菜類",
+				"choices": [
+					"にんじん",
+					"大根"
+				]
+			},
+			"B": {
+				"name": "葉菜類",
+				"choices": [
+					"レタス",
+					"白菜"
+				]
+			}
+		},
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次のスポーツをグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "球技",
+				"choices": [
+					"野球",
+					"卓球"
+				]
+			},
+			"B": {
+				"name": "格闘技",
+				"choices": [
+					"柔道",
+					"空手"
+				]
+			}
+		},
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の楽器をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "弦楽器",
+				"choices": [
+					"ギター",
+					"琴"
+				]
+			},
+			"B": {
+				"name": "管楽器",
+				"choices": [
+					"フルート",
+					"尺八"
+				]
+			}
+		},
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の昆虫をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "甲虫目",
+				"choices": [
+					"カブトムシ",
+					"クワガタ"
+				]
+			},
+			"B": {
+				"name": "チョウ目",
+				"choices": [
+					"アゲハ",
+					"モンシロ"
+				]
+			}
+		},
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の色をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "暖色",
+				"choices": [
+					"赤",
+					"オレンジ"
+				]
+			},
+			"B": {
+				"name": "寒色",
+				"choices": [
+					"青",
+					"水色"
+				]
+			}
+		},
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の料理をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "和食",
+				"choices": [
+					"寿司",
+					"天ぷら"
+				]
+			},
+			"B": {
+				"name": "中華",
+				"choices": [
+					"餃子",
+					"麻婆豆腐"
+				]
+			}
+		},
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の植物をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "裸子植物",
+				"choices": [
+					"マツ",
+					"スギ"
+				]
+			},
+			"B": {
+				"name": "被子植物",
+				"choices": [
+					"サクラ",
+					"バラ"
+				]
+			}
+		},
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の天体をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "恒星",
+				"choices": [
+					"太陽",
+					"シリウス"
+				]
+			},
+			"B": {
+				"name": "惑星",
+				"choices": [
+					"地球",
+					"火星"
+				]
+			}
+		},
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の国をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "島国",
+				"choices": [
+					"日本",
+					"英国"
+				]
+			},
+			"B": {
+				"name": "内陸国",
+				"choices": [
+					"スイス",
+					"モンゴル"
+				]
+			}
+		},
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の数をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "素数",
+				"choices": [
+					"7",
+					"11"
+				]
+			},
+			"B": {
+				"name": "合成数",
+				"choices": [
+					"8",
+					"12"
+				]
+			}
+		},
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の水溶液をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "酸性",
+				"choices": [
+					"塩酸",
+					"酢酸"
+				]
+			},
+			"B": {
+				"name": "アルカリ性",
+				"choices": [
+					"アンモニア水",
+					"石灰水"
+				]
+			}
+		},
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の人物をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "日本の武将",
+				"choices": [
+					"信長",
+					"家康"
+				]
+			},
+			"B": {
+				"name": "海外の人物",
+				"choices": [
+					"ナポレオン",
+					"チンギス"
+				]
+			}
+		},
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の文学作品をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "日本文学",
+				"choices": [
+					"源氏物語",
+					"雪国"
+				]
+			},
+			"B": {
+				"name": "海外文学",
+				"choices": [
+					"ハムレット",
+					"ドンキホーテ"
+				]
+			}
+		},
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の認証情報をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "知識情報",
+				"choices": [
+					"パスワード",
+					"暗証番号"
+				]
+			},
+			"B": {
+				"name": "生体情報",
+				"choices": [
+					"指紋",
+					"顔"
+				]
+			}
+		},
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の元素をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "金属",
+				"choices": [
+					"鉄",
+					"銅"
+				]
+			},
+			"B": {
+				"name": "非金属",
+				"choices": [
+					"酸素",
+					"炭素"
+				]
+			}
+		},
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の動物をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "単孔類",
+				"choices": [
+					"カモノハシ"
+				]
+			},
+			"B": {
+				"name": "有袋類",
+				"choices": [
+					"コアラ",
+					"カンガルー"
+				]
+			},
+			"C": {
+				"name": "有胎盤類",
+				"choices": [
+					"ライオン",
+					"ゾウ"
+				]
+			}
+		},
+		"difficulty": "HARD"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の言語をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "ゲルマン語派",
+				"choices": [
+					"英語",
+					"ドイツ語"
+				]
+			},
+			"B": {
+				"name": "ロマンス語派",
+				"choices": [
+					"仏語",
+					"スペイン語"
+				]
+			}
+		},
+		"difficulty": "HARD"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の元素をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "アルカリ金属",
+				"choices": [
+					"リチウム",
+					"ナトリウム"
+				]
+			},
+			"B": {
+				"name": "ハロゲン",
+				"choices": [
+					"フッ素",
+					"塩素"
+				]
+			}
+		},
+		"difficulty": "HARD"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の法律をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "公法",
+				"choices": [
+					"憲法",
+					"刑法"
+				]
+			},
+			"B": {
+				"name": "私法",
+				"choices": [
+					"民法",
+					"商法"
+				]
+			}
+		},
+		"difficulty": "HARD"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の音楽用語をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "速度",
+				"choices": [
+					"アレグロ",
+					"アダージョ"
+				]
+			},
+			"B": {
+				"name": "強弱",
+				"choices": [
+					"フォルテ",
+					"ピアノ"
+				]
+			}
+		},
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の都道府県をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "太平洋側",
+				"choices": [
+					"千葉",
+					"静岡"
+				]
+			},
+			"B": {
+				"name": "日本海側",
+				"choices": [
+					"新潟",
+					"石川"
+				]
+			}
+		},
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の物理量をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "スカラー量",
+				"choices": [
+					"質量",
+					"時間"
+				]
+			},
+			"B": {
+				"name": "ベクトル量",
+				"choices": [
+					"力",
+					"加速度"
+				]
+			}
+		},
+		"difficulty": "HARD"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の生物をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "原核生物",
+				"choices": [
+					"大腸菌",
+					"乳酸菌"
+				]
+			},
+			"B": {
+				"name": "真核生物",
+				"choices": [
+					"酵母",
+					"アメーバ"
+				]
+			}
+		},
+		"difficulty": "HARD"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の山脈をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "新期造山帯",
+				"choices": [
+					"ヒマラヤ",
+					"アルプス"
+				]
+			},
+			"B": {
+				"name": "古期造山帯",
+				"choices": [
+					"ウラル",
+					"アパラチア"
+				]
+			}
+		},
+		"difficulty": "HARD"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の時代をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "武家政権期",
+				"choices": [
+					"鎌倉",
+					"江戸"
+				]
+			},
+			"B": {
+				"name": "武家政権以前",
+				"choices": [
+					"縄文",
+					"奈良"
+				]
+			}
+		},
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の数をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "有理数",
+				"choices": [
+					"1/2",
+					"0.75"
+				]
+			},
+			"B": {
+				"name": "無理数",
+				"choices": [
+					"√2",
+					"π"
+				]
+			}
+		},
+		"difficulty": "HARD"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の植物をグループ分けしなさい",
+		"groups": {
+			"A": {
+				"name": "常緑樹",
+				"choices": [
+					"マツ",
+					"スギ"
+				]
+			},
+			"B": {
+				"name": "落葉樹",
+				"choices": [
+					"カエデ",
+					"イチョウ"
+				]
+			}
+		},
+		"difficulty": "NORMAL"
+	}
+]

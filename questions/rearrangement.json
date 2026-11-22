@@ -1,0 +1,182 @@
+[
+	{
+		"type": "REARRANGEMENT",
+		"question": "文字を正しく並び替えて、NEXONが運営するゲームの名称にしなさい",
+		"answer": "ブルーアーカイブ",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "文字を正しく並び替えて、ゲーム『崩壊: スターレイル』の登場人物の名前にしなさい",
+		"answer": "ルアン・メェイ",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "文字を正しく並び替えて、Yostarが運営するゲームの名称にしなさい",
+		"answer": "ステラソラ",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "DNAの正式名称は？",
+		"answer": "デオキシリボ核酸",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "文字を正しく並び替えて音楽ストリーミングサービスの名前にしなさい",
+		"answer": "Spotify",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "文字を正しく並び替えてHoyoverseが運営スるゲームの名称にしなさい",
+		"answer": "ゼンレスゾーンゼロ",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "ゲーム『原神』、『崩壊: スターレイル』、『ゼンレスゾーンゼロ』などを運営する中国のゲーム会社といえば？",
+		"answer": "Hoyoverse",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "文字を正しく並び替えてゲーム『ゼンレスゾーンゼロ』の登場人物の名前にしなさい",
+		"answer": "アンビー・デマラ",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "ゲーム『Minecraft』を開発している会社は「◯◯◯◯◯◯ Studio」？",
+		"answer": "Mojang",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "広大なゲーム世界をシームレスに自由に探索・攻略できるコンピュータゲームのジャンルを何という？",
+		"answer": "オープンワールド",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "航空機または船舶で日本から出国する旅客に対して課税される税金を何という？",
+		"answer": "国際観光旅客税",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "SOLID原則において、「クライアントが利用しないメソッドへの依存を強制してはならない」という原則を「〇〇〇〇〇〇〇〇分離原則」という？",
+		"answer": "インターフェース",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "1946年にアメリカのペンシルベニア大学で開発された、世界初のコンピューターを何という？",
+		"answer": "ENIAC",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "サーバー側でほとんどのファイル、アプリケーションなどの資源一元管理することで、必要最低限の記憶媒体やアプリケーションソフトしか持たせていないクライアントコンピューターのことを何という？",
+		"answer": "シンクライアント",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "日本において毎年5月初めにかけて休日が続く期間のことを何という？",
+		"answer": "ゴールデンウィーク",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "例えばキーボードの「a」を押しっぱなしにすると「aaaaaaa」と入力されるように、キーを押し続けた時に同じ入力が自動的に連続して発生する現象を何という？",
+		"answer": "キーリピート",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "Microsoftが提供するクラウドコンピューティングサービスといえば「Microsoft 〇〇〇〇〇」？",
+		"answer": "Azure",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "月単位または年単位で定期的に料金を支払い利用するコンテンツやサービスのことを何という？",
+		"answer": "サブスクリプション",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "「true」または「false」の2つの値を持つ日本語では論理型と言われるデータ型を何という？",
+		"answer": "boolean",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "他人の不幸や失敗、不遇な出来事を見聞きした際に、思わず感じてしまう快感をドイツ語で何という？",
+		"answer": "シャーデンフロイデ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "任天堂が開発・販売する、配管工のマリオが主人公のゲームシリーズといえば？",
+		"answer": "スーパーマリオ",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "ゲーム『Minecraft』に登場する、爆発する緑色の敵キャラクターの名前は？",
+		"answer": "クリーパー",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "ゲーム『ポケットモンスター』シリーズに登場する、ピカチュウの進化前のポケモンは？",
+		"answer": "ピチュー",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "ゲーム『ドラゴンクエスト』シリーズに登場する、青いしずく型のモンスターといえば？",
+		"answer": "スライム",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "Webページを記述するために使用されるマークアップ言語といえば？",
+		"answer": "HTML",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "JavaやC++などで、クラスから生成される実体のことを何という？",
+		"answer": "インスタンス",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "プログラムのソースコードを機械語に変換するソフトウェアを何という？",
+		"answer": "コンパイラ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "コンピューターの処理装置であり、命令の実行や演算を行う部品を何という？",
+		"answer": "プロセッサ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "インターネット上で、Webページの場所を示すために使用される文字列を何という？",
+		"answer": "URL",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "コンピューター上で動作するプログラムやデータをまとめたものを何という？",
+		"answer": "ソフトウェア",
+		"difficulty": "EASY"
+	}
+]

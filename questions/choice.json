@@ -1,0 +1,546 @@
+[
+	{
+		"type": "EFFECT",
+		"question": "『原神』において、刻晴の声を担当",
+		"hint": "喜多村英梨",
+		"answer": "きたむらえり",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "『鬼滅の刃』のヒロイン",
+		"hint": "竈門禰豆子",
+		"answer": "かまどねずこ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "『鬼滅の刃』の蟲柱",
+		"hint": "胡蝶しのぶ",
+		"answer": "こちょうしのぶ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "『鬼滅の刃』の水柱",
+		"hint": "冨岡義勇",
+		"answer": "とみおかぎゆう",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "『原神』において、ナヴィアの声を担当",
+		"hint": "豊崎愛生",
+		"answer": "とよさきあき",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "『原神』において、クロリンデの声を担当",
+		"hint": "石川由依",
+		"answer": "いしかわゆい",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "『原神』において、レイラの声を担当",
+		"hint": "富田美憂",
+		"answer": "とみたみゆ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "『崩壊: スターレイル』において、カフカの声を担当",
+		"hint": "伊藤静",
+		"answer": "いとうしずか",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "『崩壊: スターレイル』において、銀狼の声を担当",
+		"hint": "阿澄佳奈",
+		"answer": "あすみかな",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "『原神』において、九条裟羅の声を担当",
+		"hint": "瀬戸麻沙美",
+		"answer": "せとあさみ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "『ゼンレスゾーンゼロ』において、浮波柚葉の声を担当",
+		"hint": "長谷川育美",
+		"answer": "はせがわいくみ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "『原神』において、夜欄の声を担当",
+		"hint": "遠藤綾",
+		"answer": "えんどうあや",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "ゲーム『NTE』でカバーもされた『MyGO!!!!!』の\n楽曲",
+		"hint": "迷星叫",
+		"answer": "まよいうた",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "EFFECT",
+		"question": "複数の前提を積み重ねて根拠付けする方法",
+		"hint": "演繹法",
+		"answer": "えんえきほう",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "EFFECT",
+		"question": "複数の具体的な例から根拠付けする方法",
+		"hint": "帰納法",
+		"answer": "きのうほう",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "ある事柄が真実として認められる確実性の度合い",
+		"hint": "蓋然性",
+		"answer": "がいぜんせい",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "ギコギコと木を切ります",
+		"hint": "鋸",
+		"answer": "のこぎり",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "チョキチョキと紙を切ります",
+		"hint": "鋏",
+		"answer": "はさみ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "昆虫採集の標的にされがち",
+		"hint": "鍬形虫",
+		"answer": "クワガタムシ",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "EFFECT",
+		"question": "寒さをしのぐために着ます",
+		"hint": "外套",
+		"answer": "がいとう",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "EFFECT",
+		"question": "日本最大のビジネス街",
+		"hint": "大手町",
+		"answer": "おおてまち",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "EFFECT",
+		"question": "ゼンマイやハンドルを回して奏でます",
+		"hint": "自鳴琴",
+		"answer": "オルゴール",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "EFFECT",
+		"question": "ふいごと鍵盤で奏でます",
+		"hint": "手風琴",
+		"answer": "アコーディオン",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "EFFECT",
+		"question": "英語で「ドラゴンフライ」という秋の虫",
+		"hint": "蜻蛉",
+		"answer": "トンボ",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "EFFECT",
+		"question": "強力な跳躍力を持つ夏の虫",
+		"hint": "飛蝗",
+		"answer": "バッタ",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "EFFECT",
+		"question": "日本一の電気街",
+		"hint": "秋葉原",
+		"answer": "あきはばら",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "EFFECT",
+		"question": "猫が大好きな人です",
+		"hint": "愛猫家",
+		"answer": "あいびょうか",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "黄色い大きな夏を代表する花",
+		"hint": "向日葵",
+		"answer": "ヒマワリ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "土壌のpHによって色が変わる花",
+		"hint": "紫陽花",
+		"answer": "アジサイ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "最後には綿毛になります",
+		"hint": "蒲公英",
+		"answer": "タンポポ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "メキシコ原産の秋を代表する花",
+		"hint": "秋桜",
+		"answer": "コスモス",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "EFFECT",
+		"question": "「花の王様」とも呼ばれます",
+		"hint": "牡丹",
+		"answer": "ボタン",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "「花の女王」とも呼ばれます",
+		"hint": "薔薇",
+		"answer": "バラ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "花に水をあげます",
+		"hint": "如雨露",
+		"answer": "じょうろ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "スマホの見すぎで一時的になる場合もあります",
+		"hint": "内斜視",
+		"answer": "ないしゃし",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "「コーヒーの聖地」と呼ばれることもある町",
+		"hint": "清澄白河",
+		"answer": "きよすみしらかわ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "もろくて弱い性質のこと",
+		"hint": "脆弱性",
+		"answer": "ぜいじゃくせい",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "その咲き方と見た目からこの名前が付けられました",
+		"hint": "芝桜",
+		"answer": "しばざくら",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "海の中をゆらゆらと漂う癒し生物",
+		"hint": "海月",
+		"answer": "クラゲ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "その形からこの漢字が当てられた生き物",
+		"hint": "海星",
+		"answer": "ヒトデ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "水族館のショーで大ジャンプ！",
+		"hint": "海豚",
+		"answer": "イルカ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "ズルズルと啜って食べます",
+		"hint": "拉麺",
+		"answer": "ラーメン",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "黒くて苦い飲み物",
+		"hint": "珈琲",
+		"answer": "コーヒー",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "独特の香りがある乳製品",
+		"hint": "乾酪",
+		"answer": "チーズ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "ズルズルと啜って食べます",
+		"hint": "蕎麦",
+		"answer": "そば",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "ズルズルと啜って食べます",
+		"hint": "饂飩",
+		"answer": "うどん",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "数列の隣り合う項や前の項との関係を数式で表したもの",
+		"hint": "漸化式",
+		"answer": "ぜんかしき",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "船を人力で進めるための棒状の船具",
+		"hint": "櫂",
+		"answer": "かい",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "景色が空中に浮かんで見える現象",
+		"hint": "蜃気楼",
+		"answer": "しんきろう",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "石灰岩が溶けてできた洞窟",
+		"hint": "鍾乳洞",
+		"answer": "しょうにゅうどう",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "コンパスともいいます",
+		"hint": "羅針盤",
+		"answer": "らしんばん",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "炭酸カルシウムを主成分とする炭酸塩鉱物",
+		"hint": "方解石",
+		"answer": "ほうかいせき",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "芥川龍之介が書いた短編小説",
+		"hint": "羅生門",
+		"answer": "らしょうもん",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "成功へといたる難しい関門を突破したことをいうことわざ",
+		"hint": "登龍門",
+		"answer": "とうりゅうもん",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "分子の熱運動がほぼ止まる温度",
+		"hint": "絶対零度",
+		"answer": "ぜったいれいど",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "分数の分母と分子を隔てる横棒をこう言います",
+		"hint": "括線",
+		"answer": "かっせん",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "2数の最大公約数を求めるアルゴリズムは「ユークリッドの〇〇〇」？",
+		"hint": "互除法",
+		"answer": "ごじょほう",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "異なる生物が、互いに利益を得る関係を何という？",
+		"hint": "相利共生",
+		"answer": "そうりきょうせい",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "地層が横方向から圧縮され、波状に曲がる地質構造を何という？",
+		"hint": "褶曲",
+		"answer": "しゅうきょく",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "EFFECT",
+		"question": "ある集団の遺伝子頻度が、偶然によって世代ごとに変化する現象を何という？",
+		"hint": "遺伝的浮動",
+		"answer": "いでんてきふどう",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "EFFECT",
+		"question": "古代ギリシャの哲学者が用いた、問答を通じて相手に真理を自覚させる方法を何という？",
+		"hint": "産婆術",
+		"answer": "さんばじゅつ",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "EFFECT",
+		"question": "河川が山地から平野へ出る場所に、土砂が扇形に堆積して形成される地形を何という？",
+		"hint": "扇状地",
+		"answer": "せんじょうち",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "海底に堆積した砂や泥が固結して形成される岩石を何という？",
+		"hint": "堆積岩",
+		"answer": "たいせきがん",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "物事を行う上で、一般に最善と考えられている手法や手順",
+		"hint": "定石",
+		"answer": "じょうせき",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "1月の異名です",
+		"hint": "睦月",
+		"answer": "むつき",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "2月の異名です",
+		"hint": "如月",
+		"answer": "きさらぎ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "3月の異名です",
+		"hint": "弥生",
+		"answer": "やよい",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "4月の異名です",
+		"hint": "卯月",
+		"answer": "うづき",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "5月の異名です",
+		"hint": "皐月",
+		"answer": "さつき",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "6月の異名です",
+		"hint": "水無月",
+		"answer": [
+			"みなづき",
+			"みなつき"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "7月の異名です",
+		"hint": "文月",
+		"answer": [
+			"ふみづき",
+			"ふづき"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "8月の異名です",
+		"hint": "葉月",
+		"answer": [
+			"はづき",
+			"はつき"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "9月の異名です",
+		"hint": "長月",
+		"answer": [
+			"ながつき",
+			"ながづき"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "10月の異名です",
+		"hint": "神無月",
+		"answer": "かんなづき",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "11月の異名です",
+		"hint": "霜月",
+		"answer": "しもつき",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "12月の異名です",
+		"hint": "師走",
+		"answer": "しわす",
+		"difficulty": "NORMAL"
+	}
+]

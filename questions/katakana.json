@@ -1,0 +1,125 @@
+[
+	{
+		"type": "KATAKANA",
+		"question": "赤くて丸い形をした甘い果物で、パイやジュースの材料にもよく使われ、英語ではAppleと呼ばれるものは何？",
+		"answer": "リンゴ",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "KATAKANA",
+		"question": "黄色くて細長い形をした熱帯の果物で、皮をむいて食べることが多く、サルの好物としても知られているものは何？",
+		"answer": "バナナ",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "KATAKANA",
+		"question": "朝や休憩時間に飲むことが多い黒い飲み物で、カフェインが含まれており、豆を挽いて抽出するものは何という？",
+		"answer": "コーヒー",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "KATAKANA",
+		"question": "パソコンで文字や数字を入力するために使う装置で、アルファベットや記号のキーがたくさん並んでいるものは何？",
+		"answer": "キーボード",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "KATAKANA",
+		"question": "パソコンの映像や文字を映し出す表示装置で、液晶や有機ELなどの技術が使われ、デスクの上に置かれるものは何という？",
+		"answer": [
+			"モニター",
+			"モニタ"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "KATAKANA",
+		"question": "パソコンから文書や写真などのデータを紙に印刷するための周辺機器で、インクやトナーを使うものは何？",
+		"answer": [
+			"プリンター",
+			"プリンタ"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "KATAKANA",
+		"question": "世界中のコンピュータをつなぐ巨大なネットワークで、ウェブページを見たりメールを送ったりするのに使われるものは何という？",
+		"answer": "インターネット",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "KATAKANA",
+		"question": "コンピュータで問題を解決するための明確な手順や計算の方法を指す言葉で、プログラミングの基本となる概念は何？",
+		"answer": "アルゴリズム",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "KATAKANA",
+		"question": "ユーザーとコンピュータシステムが情報をやり取りするための接点や境界を表す言葉で、画面の見た目や操作性に関わるものは何という？",
+		"answer": [
+			"インターフェース",
+			"インターフェイス"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "KATAKANA",
+		"question": "大量のデータを整理して保存し、必要なときに素早く検索や更新ができる仕組みで、情報管理の基盤となるものは何？",
+		"answer": "データベース",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "KATAKANA",
+		"question": "NHKのニュース番組において、「立方体のブロックを積んで建築物や道路を作る人気のゲーム」と紹介されたサンドボックスゲームは？",
+		"answer": "マインクラフト",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "KATAKANA",
+		"question": "2016年12月1日に投稿された最初の動画内で、世界で初めて「バーチャルYouTuber」という言葉を使ったとされるバーチャルYouTuberの先駆けといえば？",
+		"answer": "キズナアイ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "KATAKANA",
+		"question": "システムやソフトウェア開発において、機能単位の小さなサイクルを繰り返しながら完成度を高めていく手法を「〇〇〇〇〇開発」という？〇の部分をカタカナで答えなさい",
+		"answer": "アジャイル",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "KATAKANA",
+		"question": "システムやソフトウェア開発において、機能単位の小さなサイクルを繰り返しながら完成度を高めていく手法を\\w「アジャイル開発」と言いますが⋯\\w\\cその小さなサイクルのことを何という？カタカナで答えなさい",
+		"answer": "イテレーション",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "KATAKANA",
+		"question": "本名はJames Stephen Donaldsonである、現在チャンネル登録者数世界1位のYouTuberといえば？",
+		"answer": "ミスタービースト",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "KATAKANA",
+		"question": "DECO*27の楽曲で、眼帯姿の初音ミクといえば？",
+		"answer": "モニタリング",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "KATAKANA",
+		"question": "DECO*27の楽曲で、バニーガール姿の初音ミクといえば？",
+		"answer": "ラビットホール",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "KATAKANA",
+		"question": "DECO*27の楽曲で、黒いマスクを付けた初音ミクの横顔といえば？",
+		"answer": "ヴァンパイア",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "KATAKANA",
+		"question": "DECO*27の楽曲で、涙を流した初音ミクがスナイパーライフルで狙われているのは？",
+		"answer": "ヒバナ",
+		"difficulty": "NORMAL"
+	}
+]

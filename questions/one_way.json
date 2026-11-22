@@ -1,0 +1,574 @@
+[
+	{
+		"type": "ONE_WAY",
+		"question": "日本の国旗の色は何色？",
+		"choices": [
+			"赤と白",
+			"青と白",
+			"緑と白",
+			"黒と白"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "1週間は何日？",
+		"choices": [
+			"7日",
+			"5日",
+			"10日",
+			"14日"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "犬は何と鳴く？",
+		"choices": [
+			"ワンワン",
+			"ニャーニャー",
+			"モーモー",
+			"コケコッコー"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "日本の首都はどこ？",
+		"choices": [
+			"東京",
+			"大阪",
+			"京都",
+			"名古屋"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "富士山の高さは約何メートル？",
+		"choices": [
+			"3776メートル",
+			"3012メートル",
+			"2500メートル",
+			"4210メートル"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "太陽系で最も大きな惑星はどれ？",
+		"choices": [
+			"木星",
+			"土星",
+			"地球",
+			"火星"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "江戸時代の将軍家は何家？",
+		"choices": [
+			"徳川家",
+			"豊臣家",
+			"織田家",
+			"源氏"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "光速は約何km/s？",
+		"choices": [
+			"30万km/s",
+			"3万km/s",
+			"300万km/s",
+			"150万km/s"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "DNAの二重らせん構造を発見したのは誰？",
+		"choices": [
+			"ワトソンとクリック",
+			"アインシュタイン",
+			"ニュートン",
+			"ダーウィン"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "日本で最も面積の大きい都道府県は？",
+		"choices": [
+			"北海道",
+			"岩手県",
+			"長野県",
+			"新潟県"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "次のうち、日本の首都はどれ？",
+		"choices": [
+			"東京都",
+			"大阪府",
+			"京都府",
+			"北海道"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "日本で最も高い山はどれ？",
+		"choices": [
+			"富士山",
+			"北岳",
+			"奥穂高岳",
+			"槍ヶ岳"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "日本国憲法が施行されたのは何年？",
+		"choices": [
+			"1947年",
+			"1945年",
+			"1946年",
+			"1950年"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "江戸幕府を開いた人物は誰？",
+		"choices": [
+			"徳川家康",
+			"豊臣秀吉",
+			"織田信長",
+			"足利尊氏"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "鎌倉幕府の初代将軍は誰？",
+		"choices": [
+			"源頼朝",
+			"源義経",
+			"北条時政",
+			"足利義満"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "世界で最も面積が大きい国はどれ？",
+		"choices": [
+			"ロシア",
+			"カナダ",
+			"中国",
+			"アメリカ合衆国"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "地球の大気中で最も割合が大きい気体はどれ？",
+		"choices": [
+			"窒素",
+			"酸素",
+			"二酸化炭素",
+			"アルゴン"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "水の化学式はどれ？",
+		"choices": [
+			"H2O",
+			"CO2",
+			"O2",
+			"NaCl"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "光合成を行う細胞小器官はどれ？",
+		"choices": [
+			"葉緑体",
+			"ミトコンドリア",
+			"リボソーム",
+			"ゴルジ体"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "元素記号「Fe」が表す元素はどれ？",
+		"choices": [
+			"鉄",
+			"銅",
+			"銀",
+			"金"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "三角形の内角の和は何度？",
+		"choices": [
+			"180度",
+			"90度",
+			"270度",
+			"360度"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "円の面積を求める公式はどれ？",
+		"choices": [
+			"πr²",
+			"2πr",
+			"πr",
+			"4πr²"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "2次方程式 x² - 5x + 6 = 0 の解の組み合わせはどれ？",
+		"choices": [
+			"x = 2, 3",
+			"x = 1, 6",
+			"x = -2, -3",
+			"x = 2, -3"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "素数はどれ？",
+		"choices": [
+			"17",
+			"21",
+			"27",
+			"33"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "微分すると 2x になる関数はどれ？",
+		"choices": [
+			"x²",
+			"x³",
+			"2x²",
+			"x + 2"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "『吾輩は猫である』の作者は誰？",
+		"choices": [
+			"夏目漱石",
+			"芥川龍之介",
+			"森鴎外",
+			"太宰治"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "『走れメロス』を書いた作家は誰？",
+		"choices": [
+			"太宰治",
+			"宮沢賢治",
+			"川端康成",
+			"谷崎潤一郎"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "『源氏物語』の作者は誰？",
+		"choices": [
+			"紫式部",
+			"清少納言",
+			"和泉式部",
+			"小野小町"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "俳句の基本的な音数構成はどれ？",
+		"choices": [
+			"5・7・5",
+			"5・5・7",
+			"7・7・5",
+			"7・5・7"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "『モナ・リザ』を描いた人物は誰？",
+		"choices": [
+			"レオナルド・ダ・ヴィンチ",
+			"ミケランジェロ",
+			"ラファエロ",
+			"レンブラント"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "『交響曲第9番』を作曲したベートーヴェンの出身国はどれ？",
+		"choices": [
+			"ドイツ",
+			"オーストリア",
+			"イタリア",
+			"フランス"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "国際連合の本部が置かれている都市はどれ？",
+		"choices": [
+			"ニューヨーク",
+			"ジュネーブ",
+			"パリ",
+			"ロンドン"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "日本の国会を構成する議院の組み合わせはどれ？",
+		"choices": [
+			"衆議院と参議院",
+			"衆議院と貴族院",
+			"参議院と元老院",
+			"上院と下院"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "需要が一定で供給が減少した場合、一般に価格はどうなる？",
+		"choices": [
+			"上昇する",
+			"下落する",
+			"必ず一定になる",
+			"必ずゼロになる"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "日本の中央銀行はどれ？",
+		"choices": [
+			"日本銀行",
+			"日本政策金融公庫",
+			"金融庁",
+			"東京証券取引所"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "地球が太陽の周りを1周するのにかかる時間は約何日？",
+		"choices": [
+			"365.25日",
+			"30日",
+			"180日",
+			"400日"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "地震の規模を表す指標はどれ？",
+		"choices": [
+			"マグニチュード",
+			"震度",
+			"気圧",
+			"湿度"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "DNAを構成する塩基に含まれないものはどれ？",
+		"choices": [
+			"ウラシル",
+			"アデニン",
+			"グアニン",
+			"シトシン"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "相対性理論を提唱した物理学者は誰？",
+		"choices": [
+			"アルベルト・アインシュタイン",
+			"アイザック・ニュートン",
+			"ニールス・ボーア",
+			"ガリレオ・ガリレイ"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "日本の都道府県のうち、最も面積が小さいのはどれ？",
+		"choices": [
+			"香川県",
+			"大阪府",
+			"東京都",
+			"沖縄県"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "次のうち、2026年10月2日にリリースされた、きゃりーぱみゅぱみゅがパン生地をボコボコに捏ねるMVが特徴的な同氏の楽曲は？",
+		"choices": [
+			"Pang Pang Pang",
+			"Ping Ping Ping",
+			"Peng Peng Peng",
+			"Pong Pong Pong"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "国民の祝日に関する法律において、「自然をたたえ、生物をいつくしむ」日とされている国民の祝日は？",
+		"choices": [
+			"春分の日",
+			"みどりの日",
+			"秋分の日",
+			"文化の日"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "国民の祝日に関する法律において、「自然に親しむとともにその恩恵に感謝し、豊かな心をはぐくむ」日とされている国民の祝日は？",
+		"choices": [
+			"みどりの日",
+			"春分の日",
+			"秋分の日",
+			"文化の日"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "国民の祝日に関する法律において、「祖先をうやまい、なくなった人々をしのぶ」日とされている国民の祝日は？",
+		"choices": [
+			"秋分の日",
+			"春分の日",
+			"みどりの日",
+			"文化の日"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "国民の祝日に関する法律において、「自由と平和を愛し、文化をすすめる」日とされている国民の祝日は？",
+		"choices": [
+			"文化の日",
+			"春分の日",
+			"みどりの日",
+			"秋分の日"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "『ヨルシカ』という名前の由来となった同バンドの楽曲は？",
+		"choices": [
+			"雲と幽霊",
+			"靴の花火",
+			"雨とカプチーノ",
+			"あの夏に咲け"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "次のうち、光の三原色にないのは？",
+		"choices": [
+			"黄",
+			"赤",
+			"青",
+			"緑"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "次のうち、新聞記者が書くのはどれ？",
+		"choices": [
+			"キジ",
+			"イヌ",
+			"サル",
+			"タヌキ"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "次のうち、OpenAIが提供している生成AIはどれ？",
+		"choices": [
+			"ChatGPT",
+			"Grok",
+			"Gemini",
+			"Copilot"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "次のうち、Microsoftが提供している生成AIはどれ？",
+		"choices": [
+			"Copilot",
+			"Grok",
+			"Gemini",
+			"ChatGPT"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "次のうち、SpaceXAIが提供している生成AIはどれ？",
+		"choices": [
+			"Grok",
+			"ChatGPT",
+			"Gemini",
+			"Copilot"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ONE_WAY",
+		"question": "次のうち、Googleが提供している生成AIはどれ？",
+		"choices": [
+			"Gemini",
+			"Grok",
+			"ChatGPT",
+			"Copilot"
+		],
+		"difficulty": "NORMAL"
+	}
+]
