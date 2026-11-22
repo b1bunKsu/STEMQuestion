@@ -1,546 +1,1262 @@
 [
-	{
-		"type": "EFFECT",
-		"question": "『原神』において、刻晴の声を担当",
-		"hint": "喜多村英梨",
-		"answer": "きたむらえり",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "『鬼滅の刃』のヒロイン",
-		"hint": "竈門禰豆子",
-		"answer": "かまどねずこ",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "『鬼滅の刃』の蟲柱",
-		"hint": "胡蝶しのぶ",
-		"answer": "こちょうしのぶ",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "『鬼滅の刃』の水柱",
-		"hint": "冨岡義勇",
-		"answer": "とみおかぎゆう",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "『原神』において、ナヴィアの声を担当",
-		"hint": "豊崎愛生",
-		"answer": "とよさきあき",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "『原神』において、クロリンデの声を担当",
-		"hint": "石川由依",
-		"answer": "いしかわゆい",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "『原神』において、レイラの声を担当",
-		"hint": "富田美憂",
-		"answer": "とみたみゆ",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "『崩壊: スターレイル』において、カフカの声を担当",
-		"hint": "伊藤静",
-		"answer": "いとうしずか",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "『崩壊: スターレイル』において、銀狼の声を担当",
-		"hint": "阿澄佳奈",
-		"answer": "あすみかな",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "『原神』において、九条裟羅の声を担当",
-		"hint": "瀬戸麻沙美",
-		"answer": "せとあさみ",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "『ゼンレスゾーンゼロ』において、浮波柚葉の声を担当",
-		"hint": "長谷川育美",
-		"answer": "はせがわいくみ",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "『原神』において、夜欄の声を担当",
-		"hint": "遠藤綾",
-		"answer": "えんどうあや",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "ゲーム『NTE』でカバーもされた『MyGO!!!!!』の\n楽曲",
-		"hint": "迷星叫",
-		"answer": "まよいうた",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "EFFECT",
-		"question": "複数の前提を積み重ねて根拠付けする方法",
-		"hint": "演繹法",
-		"answer": "えんえきほう",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "EFFECT",
-		"question": "複数の具体的な例から根拠付けする方法",
-		"hint": "帰納法",
-		"answer": "きのうほう",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "ある事柄が真実として認められる確実性の度合い",
-		"hint": "蓋然性",
-		"answer": "がいぜんせい",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "ギコギコと木を切ります",
-		"hint": "鋸",
-		"answer": "のこぎり",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "チョキチョキと紙を切ります",
-		"hint": "鋏",
-		"answer": "はさみ",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "昆虫採集の標的にされがち",
-		"hint": "鍬形虫",
-		"answer": "クワガタムシ",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "EFFECT",
-		"question": "寒さをしのぐために着ます",
-		"hint": "外套",
-		"answer": "がいとう",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "EFFECT",
-		"question": "日本最大のビジネス街",
-		"hint": "大手町",
-		"answer": "おおてまち",
-		"difficulty": "EASY"
-	},
-	{
-		"type": "EFFECT",
-		"question": "ゼンマイやハンドルを回して奏でます",
-		"hint": "自鳴琴",
-		"answer": "オルゴール",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "EFFECT",
-		"question": "ふいごと鍵盤で奏でます",
-		"hint": "手風琴",
-		"answer": "アコーディオン",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "EFFECT",
-		"question": "英語で「ドラゴンフライ」という秋の虫",
-		"hint": "蜻蛉",
-		"answer": "トンボ",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "EFFECT",
-		"question": "強力な跳躍力を持つ夏の虫",
-		"hint": "飛蝗",
-		"answer": "バッタ",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "EFFECT",
-		"question": "日本一の電気街",
-		"hint": "秋葉原",
-		"answer": "あきはばら",
-		"difficulty": "EASY"
-	},
-	{
-		"type": "EFFECT",
-		"question": "猫が大好きな人です",
-		"hint": "愛猫家",
-		"answer": "あいびょうか",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "黄色い大きな夏を代表する花",
-		"hint": "向日葵",
-		"answer": "ヒマワリ",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "土壌のpHによって色が変わる花",
-		"hint": "紫陽花",
-		"answer": "アジサイ",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "最後には綿毛になります",
-		"hint": "蒲公英",
-		"answer": "タンポポ",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "メキシコ原産の秋を代表する花",
-		"hint": "秋桜",
-		"answer": "コスモス",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "EFFECT",
-		"question": "「花の王様」とも呼ばれます",
-		"hint": "牡丹",
-		"answer": "ボタン",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "「花の女王」とも呼ばれます",
-		"hint": "薔薇",
-		"answer": "バラ",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "花に水をあげます",
-		"hint": "如雨露",
-		"answer": "じょうろ",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "スマホの見すぎで一時的になる場合もあります",
-		"hint": "内斜視",
-		"answer": "ないしゃし",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "「コーヒーの聖地」と呼ばれることもある町",
-		"hint": "清澄白河",
-		"answer": "きよすみしらかわ",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "もろくて弱い性質のこと",
-		"hint": "脆弱性",
-		"answer": "ぜいじゃくせい",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "その咲き方と見た目からこの名前が付けられました",
-		"hint": "芝桜",
-		"answer": "しばざくら",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "海の中をゆらゆらと漂う癒し生物",
-		"hint": "海月",
-		"answer": "クラゲ",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "その形からこの漢字が当てられた生き物",
-		"hint": "海星",
-		"answer": "ヒトデ",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "水族館のショーで大ジャンプ！",
-		"hint": "海豚",
-		"answer": "イルカ",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "ズルズルと啜って食べます",
-		"hint": "拉麺",
-		"answer": "ラーメン",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "黒くて苦い飲み物",
-		"hint": "珈琲",
-		"answer": "コーヒー",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "独特の香りがある乳製品",
-		"hint": "乾酪",
-		"answer": "チーズ",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "ズルズルと啜って食べます",
-		"hint": "蕎麦",
-		"answer": "そば",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "ズルズルと啜って食べます",
-		"hint": "饂飩",
-		"answer": "うどん",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "数列の隣り合う項や前の項との関係を数式で表したもの",
-		"hint": "漸化式",
-		"answer": "ぜんかしき",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "船を人力で進めるための棒状の船具",
-		"hint": "櫂",
-		"answer": "かい",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "景色が空中に浮かんで見える現象",
-		"hint": "蜃気楼",
-		"answer": "しんきろう",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "石灰岩が溶けてできた洞窟",
-		"hint": "鍾乳洞",
-		"answer": "しょうにゅうどう",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "コンパスともいいます",
-		"hint": "羅針盤",
-		"answer": "らしんばん",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "炭酸カルシウムを主成分とする炭酸塩鉱物",
-		"hint": "方解石",
-		"answer": "ほうかいせき",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "芥川龍之介が書いた短編小説",
-		"hint": "羅生門",
-		"answer": "らしょうもん",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "成功へといたる難しい関門を突破したことをいうことわざ",
-		"hint": "登龍門",
-		"answer": "とうりゅうもん",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "分子の熱運動がほぼ止まる温度",
-		"hint": "絶対零度",
-		"answer": "ぜったいれいど",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "分数の分母と分子を隔てる横棒をこう言います",
-		"hint": "括線",
-		"answer": "かっせん",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "2数の最大公約数を求めるアルゴリズムは「ユークリッドの〇〇〇」？",
-		"hint": "互除法",
-		"answer": "ごじょほう",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "異なる生物が、互いに利益を得る関係を何という？",
-		"hint": "相利共生",
-		"answer": "そうりきょうせい",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "地層が横方向から圧縮され、波状に曲がる地質構造を何という？",
-		"hint": "褶曲",
-		"answer": "しゅうきょく",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "EFFECT",
-		"question": "ある集団の遺伝子頻度が、偶然によって世代ごとに変化する現象を何という？",
-		"hint": "遺伝的浮動",
-		"answer": "いでんてきふどう",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "EFFECT",
-		"question": "古代ギリシャの哲学者が用いた、問答を通じて相手に真理を自覚させる方法を何という？",
-		"hint": "産婆術",
-		"answer": "さんばじゅつ",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "EFFECT",
-		"question": "河川が山地から平野へ出る場所に、土砂が扇形に堆積して形成される地形を何という？",
-		"hint": "扇状地",
-		"answer": "せんじょうち",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "海底に堆積した砂や泥が固結して形成される岩石を何という？",
-		"hint": "堆積岩",
-		"answer": "たいせきがん",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "物事を行う上で、一般に最善と考えられている手法や手順",
-		"hint": "定石",
-		"answer": "じょうせき",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "1月の異名です",
-		"hint": "睦月",
-		"answer": "むつき",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "2月の異名です",
-		"hint": "如月",
-		"answer": "きさらぎ",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "3月の異名です",
-		"hint": "弥生",
-		"answer": "やよい",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "4月の異名です",
-		"hint": "卯月",
-		"answer": "うづき",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "5月の異名です",
-		"hint": "皐月",
-		"answer": "さつき",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "6月の異名です",
-		"hint": "水無月",
-		"answer": [
-			"みなづき",
-			"みなつき"
-		],
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "7月の異名です",
-		"hint": "文月",
-		"answer": [
-			"ふみづき",
-			"ふづき"
-		],
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "8月の異名です",
-		"hint": "葉月",
-		"answer": [
-			"はづき",
-			"はつき"
-		],
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "9月の異名です",
-		"hint": "長月",
-		"answer": [
-			"ながつき",
-			"ながづき"
-		],
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "10月の異名です",
-		"hint": "神無月",
-		"answer": "かんなづき",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "11月の異名です",
-		"hint": "霜月",
-		"answer": "しもつき",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "EFFECT",
-		"question": "12月の異名です",
-		"hint": "師走",
-		"answer": "しわす",
-		"difficulty": "NORMAL"
-	}
+  {
+    "id": 1,
+    "type": "CHOICE",
+    "question": "日本の国旗の色は何色？",
+    "choices": [
+      "赤と白",
+      "青と白",
+      "緑と白",
+      "黒と白"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 2,
+    "type": "CHOICE",
+    "question": "1週間は何日？",
+    "choices": [
+      "7日",
+      "5日",
+      "10日",
+      "14日"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 3,
+    "type": "CHOICE",
+    "question": "犬は何と鳴く？",
+    "choices": [
+      "ワンワン",
+      "ニャーニャー",
+      "モーモー",
+      "コケコッコー"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 4,
+    "type": "CHOICE",
+    "question": "日本の首都はどこ？",
+    "choices": [
+      "東京",
+      "大阪",
+      "京都",
+      "名古屋"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 5,
+    "type": "CHOICE",
+    "question": "富士山の高さは約何メートル？",
+    "choices": [
+      "3776メートル",
+      "3012メートル",
+      "2500メートル",
+      "4210メートル"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 6,
+    "type": "CHOICE",
+    "question": "太陽系で最も大きな惑星はどれ？",
+    "choices": [
+      "木星",
+      "土星",
+      "地球",
+      "火星"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 7,
+    "type": "CHOICE",
+    "question": "江戸時代の将軍家は何家？",
+    "choices": [
+      "徳川家",
+      "豊臣家",
+      "織田家",
+      "源氏"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 8,
+    "type": "CHOICE",
+    "question": "光速は約何km/s？",
+    "choices": [
+      "30万km/s",
+      "3万km/s",
+      "300万km/s",
+      "150万km/s"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 9,
+    "type": "CHOICE",
+    "question": "DNAの二重らせん構造を発見したのは誰？",
+    "choices": [
+      "ワトソンとクリック",
+      "アインシュタイン",
+      "ニュートン",
+      "ダーウィン"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 10,
+    "type": "CHOICE",
+    "question": "日本で最も面積の大きい都道府県は？",
+    "choices": [
+      "北海道",
+      "岩手県",
+      "長野県",
+      "新潟県"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11,
+    "type": "CHOICE",
+    "question": "次のうち、日本の首都はどれ？",
+    "choices": [
+      "東京都",
+      "大阪府",
+      "京都府",
+      "北海道"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 12,
+    "type": "CHOICE",
+    "question": "日本で最も高い山はどれ？",
+    "choices": [
+      "富士山",
+      "北岳",
+      "奥穂高岳",
+      "槍ヶ岳"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 13,
+    "type": "CHOICE",
+    "question": "日本国憲法が施行されたのは何年？",
+    "choices": [
+      "1947年",
+      "1945年",
+      "1946年",
+      "1950年"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 14,
+    "type": "CHOICE",
+    "question": "江戸幕府を開いた人物は誰？",
+    "choices": [
+      "徳川家康",
+      "豊臣秀吉",
+      "織田信長",
+      "足利尊氏"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 15,
+    "type": "CHOICE",
+    "question": "鎌倉幕府の初代将軍は誰？",
+    "choices": [
+      "源頼朝",
+      "源義経",
+      "北条時政",
+      "足利義満"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 16,
+    "type": "CHOICE",
+    "question": "世界で最も面積が大きい国はどれ？",
+    "choices": [
+      "ロシア",
+      "カナダ",
+      "中国",
+      "アメリカ合衆国"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 17,
+    "type": "CHOICE",
+    "question": "地球の大気中で最も割合が大きい気体はどれ？",
+    "choices": [
+      "窒素",
+      "酸素",
+      "二酸化炭素",
+      "アルゴン"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 18,
+    "type": "CHOICE",
+    "question": "水の化学式はどれ？",
+    "choices": [
+      "H2O",
+      "CO2",
+      "O2",
+      "NaCl"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 19,
+    "type": "CHOICE",
+    "question": "光合成を行う細胞小器官はどれ？",
+    "choices": [
+      "葉緑体",
+      "ミトコンドリア",
+      "リボソーム",
+      "ゴルジ体"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 20,
+    "type": "CHOICE",
+    "question": "元素記号「Fe」が表す元素はどれ？",
+    "choices": [
+      "鉄",
+      "銅",
+      "銀",
+      "金"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 21,
+    "type": "CHOICE",
+    "question": "三角形の内角の和は何度？",
+    "choices": [
+      "180度",
+      "90度",
+      "270度",
+      "360度"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 22,
+    "type": "CHOICE",
+    "question": "円の面積を求める公式はどれ？",
+    "choices": [
+      "πr²",
+      "2πr",
+      "πr",
+      "4πr²"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 23,
+    "type": "CHOICE",
+    "question": "2次方程式 x² - 5x + 6 = 0 の解の組み合わせはどれ？",
+    "choices": [
+      "x = 2, 3",
+      "x = 1, 6",
+      "x = -2, -3",
+      "x = 2, -3"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 24,
+    "type": "CHOICE",
+    "question": "素数はどれ？",
+    "choices": [
+      "17",
+      "21",
+      "27",
+      "33"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 25,
+    "type": "CHOICE",
+    "question": "微分すると 2x になる関数はどれ？",
+    "choices": [
+      "x²",
+      "x³",
+      "2x²",
+      "x + 2"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 26,
+    "type": "CHOICE",
+    "question": "『吾輩は猫である』の作者は誰？",
+    "choices": [
+      "夏目漱石",
+      "芥川龍之介",
+      "森鴎外",
+      "太宰治"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 27,
+    "type": "CHOICE",
+    "question": "『走れメロス』を書いた作家は誰？",
+    "choices": [
+      "太宰治",
+      "宮沢賢治",
+      "川端康成",
+      "谷崎潤一郎"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 28,
+    "type": "CHOICE",
+    "question": "『源氏物語』の作者は誰？",
+    "choices": [
+      "紫式部",
+      "清少納言",
+      "和泉式部",
+      "小野小町"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 29,
+    "type": "CHOICE",
+    "question": "俳句の基本的な音数構成はどれ？",
+    "choices": [
+      "5・7・5",
+      "5・5・7",
+      "7・7・5",
+      "7・5・7"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 30,
+    "type": "CHOICE",
+    "question": "『モナ・リザ』を描いた人物は誰？",
+    "choices": [
+      "レオナルド・ダ・ヴィンチ",
+      "ミケランジェロ",
+      "ラファエロ",
+      "レンブラント"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 31,
+    "type": "CHOICE",
+    "question": "『交響曲第9番』を作曲したベートーヴェンの\n出身国はどれ？",
+    "choices": [
+      "ドイツ",
+      "オーストリア",
+      "イタリア",
+      "フランス"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 32,
+    "type": "CHOICE",
+    "question": "国際連合の本部が置かれている都市はどれ？",
+    "choices": [
+      "ニューヨーク",
+      "ジュネーブ",
+      "パリ",
+      "ロンドン"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 33,
+    "type": "CHOICE",
+    "question": "日本の国会を構成する議院の組み合わせはどれ？",
+    "choices": [
+      "衆議院と参議院",
+      "衆議院と貴族院",
+      "参議院と元老院",
+      "上院と下院"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 34,
+    "type": "CHOICE",
+    "question": "需要が一定で供給が減少した場合\n一般に価格はどうなる？",
+    "choices": [
+      "上昇する",
+      "下落する",
+      "必ず一定になる",
+      "必ずゼロになる"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 35,
+    "type": "CHOICE",
+    "question": "供給が一定で需要が減少した場合\n一般に価格はどうなる？",
+    "choices": [
+      "下落する",
+      "上昇する",
+      "必ず一定になる",
+      "必ずゼロになる"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 36,
+    "type": "CHOICE",
+    "question": "日本の中央銀行はどれ？",
+    "choices": [
+      "日本銀行",
+      "日本政策金融公庫",
+      "金融庁",
+      "東京証券取引所"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 37,
+    "type": "CHOICE",
+    "question": "地球が太陽の周りを1周するのにかかる時間は\n約何日？",
+    "choices": [
+      "365.25日",
+      "30日",
+      "180日",
+      "400日"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 38,
+    "type": "CHOICE",
+    "question": "地震の規模を表す指標はどれ？",
+    "choices": [
+      "マグニチュード",
+      "震度",
+      "気圧",
+      "湿度"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 39,
+    "type": "CHOICE",
+    "question": "DNAを構成する塩基に含まれないものはどれ？",
+    "choices": [
+      "ウラシル",
+      "アデニン",
+      "グアニン",
+      "シトシン"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 40,
+    "type": "CHOICE",
+    "question": "相対性理論を提唱した物理学者は誰？",
+    "choices": [
+      "アルベルト・アインシュタイン",
+      "アイザック・ニュートン",
+      "ニールス・ボーア",
+      "ガリレオ・ガリレイ"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 41,
+    "type": "CHOICE",
+    "question": "日本の都道府県のうち、最も面積が小さいのはどれ？",
+    "choices": [
+      "香川県",
+      "大阪府",
+      "東京都",
+      "沖縄県"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 42,
+    "type": "CHOICE",
+    "question": "次のうち、2026年10月2日にリリースされた、\nきゃりーぱみゅぱみゅがパン生地をボコボコに捏ねる\nMVが特徴的な同氏の楽曲は？",
+    "choices": [
+      "Pang Pang Pang",
+      "Ping Ping Ping",
+      "Peng Peng Peng",
+      "Pong Pong Pong"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 43,
+    "type": "CHOICE",
+    "question": "国民の祝日に関する法律において、\n「自然をたたえ、生物をいつくしむ」日とされている\n国民の祝日は？",
+    "choices": [
+      "春分の日",
+      "みどりの日",
+      "秋分の日",
+      "文化の日"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 44,
+    "type": "CHOICE",
+    "question": "国民の祝日に関する法律において、\n「自然に親しむとともにその恩恵に感謝し、\n豊かな心をはぐくむ」日とされている\n国民の祝日は？",
+    "choices": [
+      "みどりの日",
+      "春分の日",
+      "秋分の日",
+      "文化の日"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 45,
+    "type": "CHOICE",
+    "question": "国民の祝日に関する法律において、\n「祖先をうやまい、なくなった人々をしのぶ」日と\nされている国民の祝日は？",
+    "choices": [
+      "秋分の日",
+      "春分の日",
+      "みどりの日",
+      "文化の日"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 46,
+    "type": "CHOICE",
+    "question": "国民の祝日に関する法律において、\n「自由と平和を愛し、文化をすすめる」日とされている\n国民の祝日は？",
+    "choices": [
+      "文化の日",
+      "春分の日",
+      "みどりの日",
+      "秋分の日"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 47,
+    "type": "CHOICE",
+    "question": "『ヨルシカ』という名前の由来となった\n同バンドの楽曲は？",
+    "choices": [
+      "雲と幽霊",
+      "靴の花火",
+      "雨とカプチーノ",
+      "あの夏に咲け"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 48,
+    "type": "CHOICE",
+    "question": "次のうち、光の三原色にないのは？",
+    "choices": [
+      "黄",
+      "赤",
+      "青",
+      "緑"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 49,
+    "type": "CHOICE",
+    "question": "次のうち、新聞記者が書くのはどれ？",
+    "choices": [
+      "キジ",
+      "イヌ",
+      "サル",
+      "タヌキ"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 50,
+    "type": "CHOICE",
+    "question": "次のうち、OpenAIが提供している生成AIはどれ？",
+    "choices": [
+      "ChatGPT",
+      "Grok",
+      "Gemini",
+      "Copilot"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 51,
+    "type": "CHOICE",
+    "question": "次のうち、Microsoftが提供している生成AIはどれ？",
+    "choices": [
+      "Copilot",
+      "Grok",
+      "Gemini",
+      "ChatGPT"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 52,
+    "type": "CHOICE",
+    "question": "次のうち、SpaceXAIが提供している生成AIはどれ？",
+    "choices": [
+      "Grok",
+      "ChatGPT",
+      "Gemini",
+      "Copilot"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 53,
+    "type": "CHOICE",
+    "question": "次のうち、Googleが提供している生成AIはどれ？",
+    "choices": [
+      "Gemini",
+      "Grok",
+      "ChatGPT",
+      "Copilot"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 54,
+    "type": "CHOICE",
+    "question": "次のうち、OpenAIが提供している生成AIは\\w\n『ChatGPT』ですが、\\w\nGoogleが提供している生成AIはどれ？",
+    "choices": [
+      "Gemini",
+      "Grok",
+      "ChatGPT",
+      "Copilot"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 55,
+    "type": "CHOICE",
+    "question": "次のうち、Googleが提供している生成AIは\\w\n『Gemini』ですが、\\w\nMicrosoftが提供している生成AIはどれ？",
+    "choices": [
+      "Copilot",
+      "Grok",
+      "ChatGPT",
+      "Gemini"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 56,
+    "type": "CHOICE",
+    "question": "日本で一般的に、マリオの職業として\n知られるものは？",
+    "choices": [
+      "配管工",
+      "警察官",
+      "消防士",
+      "料理人"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 57,
+    "type": "CHOICE",
+    "question": "東京メトロ日比谷線\n秋葉原駅の発車メロディーは、\nAKB48のなんという楽曲のアレンジ？",
+    "choices": [
+      "『恋するフォーチュンクッキー』",
+      "『ヘビーローテーション』",
+      "『会いたかった』",
+      "『フライングゲット』"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 58,
+    "type": "CHOICE",
+    "question": "ヴェストファーレン条約が締結されたのは何年？",
+    "choices": [
+      "1648年",
+      "1618年",
+      "1688年",
+      "1713年"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 59,
+    "type": "CHOICE",
+    "question": "ビザンツ帝国の首都として\n1453年の陥落まで機能した都市はどれ？",
+    "choices": [
+      "コンスタンティノープル",
+      "アレクサンドリア",
+      "アンティオキア",
+      "テッサロニキ"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 60,
+    "type": "CHOICE",
+    "question": "アヘン戦争後、清がイギリスとの間で締結した\n講和条約はどれ？",
+    "choices": [
+      "南京条約",
+      "北京条約",
+      "天津条約",
+      "下関条約"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 61,
+    "type": "CHOICE",
+    "question": "明治時代に岩倉使節団が欧米へ派遣されたのは何年？",
+    "choices": [
+      "1871年",
+      "1868年",
+      "1877年",
+      "1881年"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 62,
+    "type": "CHOICE",
+    "question": "古代メソポタミア文明で、\n楔形文字を最初に使用したことで知られる\n民族はどれ？",
+    "choices": [
+      "シュメール人",
+      "アッカド人",
+      "ヒッタイト人",
+      "フェニキア人"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 63,
+    "type": "CHOICE",
+    "question": "世界で最も深い湖として知られる湖はどれ？",
+    "choices": [
+      "バイカル湖",
+      "タンガニーカ湖",
+      "カスピ海",
+      "スペリオル湖"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 64,
+    "type": "CHOICE",
+    "question": "チリとアルゼンチンの国境付近に連なる山脈はどれ？",
+    "choices": [
+      "アンデス山脈",
+      "アルプス山脈",
+      "ロッキー山脈",
+      "ヒマラヤ山脈"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 65,
+    "type": "CHOICE",
+    "question": "世界で最も面積が大きい内陸国はどれ？",
+    "choices": [
+      "カザフスタン",
+      "モンゴル",
+      "チャド",
+      "ニジェール"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 66,
+    "type": "CHOICE",
+    "question": "経度15度の差は、時差に換算すると何時間に相当する？",
+    "choices": [
+      "1時間",
+      "30分",
+      "2時間",
+      "15分"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 67,
+    "type": "CHOICE",
+    "question": "ドナウ川が最終的に注ぐ海はどれ？",
+    "choices": [
+      "黒海",
+      "地中海",
+      "バルト海",
+      "北海"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 68,
+    "type": "CHOICE",
+    "question": "光の三原色に含まれないものはどれ？",
+    "choices": [
+      "黄色",
+      "赤色",
+      "緑色",
+      "青色"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 69,
+    "type": "CHOICE",
+    "question": "電磁誘導の法則を発見した物理学者は誰？",
+    "choices": [
+      "マイケル・ファラデー",
+      "ジェームズ・クラーク・マクスウェル",
+      "アンドレ＝マリ・アンペール",
+      "ゲオルク・オーム"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 70,
+    "type": "CHOICE",
+    "question": "絶対零度は摂氏温度で約何度？",
+    "choices": [
+      "−273.15℃",
+      "−100℃",
+      "−459.67℃",
+      "−273.00℃"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 71,
+    "type": "CHOICE",
+    "question": "放射性元素の半減期とは何を表す時間？",
+    "choices": [
+      "放射性原子核の数が半分になる時間",
+      "放射線量が必ず半分になる時間",
+      "元素が別の元素に完全に変化する時間",
+      "原子核がすべて崩壊するまでの時間"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 72,
+    "type": "CHOICE",
+    "question": "ヒトの体細胞に含まれる染色体の数は通常何本？",
+    "choices": [
+      "46本",
+      "23本",
+      "44本",
+      "48本"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 73,
+    "type": "CHOICE",
+    "question": "細胞内でタンパク質の合成が行われる構造はどれ？",
+    "choices": [
+      "リボソーム",
+      "リソソーム",
+      "中心体",
+      "ゴルジ体"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 74,
+    "type": "CHOICE",
+    "question": "血液凝固に重要な役割を果たす血液成分はどれ？",
+    "choices": [
+      "血小板",
+      "赤血球",
+      "好酸球",
+      "リンパ球"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 75,
+    "type": "CHOICE",
+    "question": "酸化還元反応において、電子を失う反応を何という？",
+    "choices": [
+      "酸化",
+      "還元",
+      "中和",
+      "加水分解"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 76,
+    "type": "CHOICE",
+    "question": "ベンゼンの分子式はどれ？",
+    "choices": [
+      "C6H6",
+      "C6H12",
+      "C6H14",
+      "C5H6"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 77,
+    "type": "CHOICE",
+    "question": "行列式の値が0である正方行列について、\n必ず成り立つ性質はどれ？",
+    "choices": [
+      "逆行列を持たない",
+      "すべての成分が0である",
+      "対角成分の和が0である",
+      "固有値がすべて0である"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 78,
+    "type": "CHOICE",
+    "question": "自然対数の底 e の値に最も近いものはどれ？",
+    "choices": [
+      "2.71828",
+      "3.14159",
+      "1.61803",
+      "1.41421"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 79,
+    "type": "CHOICE",
+    "question": "フェルマーの最終定理を証明しことで知られる\n数学者は誰？",
+    "choices": [
+      "アンドリュー・ワイルズ",
+      "グリゴリー・ペレルマン",
+      "アラン・チューリング",
+      "ジョン・ナッシュ"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 80,
+    "type": "CHOICE",
+    "question": "『神曲』を著したイタリアの詩人は誰？",
+    "choices": [
+      "ダンテ・アリギエーリ",
+      "ジョヴァンニ・ボッカッチョ",
+      "フランチェスコ・ペトラルカ",
+      "ニッコロ・マキャヴェッリ"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 81,
+    "type": "CHOICE",
+    "question": "『純粋理性批判』を著した哲学者は誰？",
+    "choices": [
+      "イマヌエル・カント",
+      "ゲオルク・ヘーゲル",
+      "フリードリヒ・ニーチェ",
+      "ルネ・デカルト"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 82,
+    "type": "CHOICE",
+    "question": "『ペスト』の作者は誰？",
+    "choices": [
+      "アルベール・カミュ",
+      "ジャン＝ポール・サルトル",
+      "フランツ・カフカ",
+      "ヘルマン・ヘッセ"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 83,
+    "type": "CHOICE",
+    "question": "ルネサンス期に『ヴィーナスの誕生』を描いた画家は誰？",
+    "choices": [
+      "サンドロ・ボッティチェリ",
+      "ティツィアーノ",
+      "カラヴァッジョ",
+      "ジョット"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 84,
+    "type": "CHOICE",
+    "question": "経済学において、他の条件が一定のとき\n価格の上昇に伴って需要量が減少する関係を\n何という？",
+    "choices": [
+      "需要の法則",
+      "供給の法則",
+      "比較優位の原理",
+      "限界効用逓増の法則"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 85,
+    "type": "CHOICE",
+    "question": "ゲーム理論において、相手の戦略を前提として\n自分だけが戦略を変更しても利得を改善できない状態を\n何という？",
+    "choices": [
+      "ナッシュ均衡",
+      "パレート最適",
+      "囚人のジレンマ",
+      "完全競争均衡"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 86,
+    "type": "CHOICE",
+    "question": "次のうち、お坊さんが読むのはどれ？",
+    "choices": [
+      "きょう",
+      "あした",
+      "きのう",
+      "あさって"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 87,
+    "type": "CHOICE",
+    "question": "次のうち、お花屋さんで買えるのはどれ？",
+    "choices": [
+      "きく",
+      "みる",
+      "いう",
+      "とる"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 88,
+    "type": "CHOICE",
+    "question": "次のうち、空から降るのはどれ？",
+    "choices": [
+      "アメ",
+      "チョコ",
+      "ガム",
+      "グミ"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 89,
+    "type": "CHOICE",
+    "question": "次のうち、選挙に立候補した人が欲しいのはどれ？",
+    "choices": [
+      "ヒョウ",
+      "チーター",
+      "トラ",
+      "ライオン"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 90,
+    "type": "CHOICE",
+    "question": "次のうち、ゲームでズルをしている人はどれ？",
+    "choices": [
+      "チーター",
+      "トラ",
+      "ライオン",
+      "ヒョウ"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 91,
+    "type": "CHOICE",
+    "question": "次のうち、将棋の駒にあるのは？",
+    "choices": [
+      "金",
+      "鉄",
+      "銅",
+      "鉛"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 92,
+    "type": "CHOICE",
+    "question": "次のうち、人の体にあるのはどれ？",
+    "choices": [
+      "ヒフ",
+      "ハヒ",
+      "フヘ",
+      "ヘホ"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 93,
+    "type": "CHOICE",
+    "question": "次のうち、まだ完成していないのはどれ？",
+    "choices": [
+      "みかん",
+      "りんご",
+      "ぶどう",
+      "いちご"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 94,
+    "type": "CHOICE",
+    "question": "次のうち、ケガをしたら出るのはどれ？",
+    "choices": [
+      "ち",
+      "つ",
+      "た",
+      "て"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 95,
+    "type": "CHOICE",
+    "question": "次のうち、タイプミスしてしまったのはどれ？",
+    "choices": [
+      "ごじ",
+      "にじ",
+      "さんじ",
+      "よじ"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 96,
+    "type": "CHOICE",
+    "question": "次のうち、調味料はどれ？",
+    "choices": [
+      "さとう",
+      "やまだ",
+      "すずき",
+      "たなか"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 97,
+    "type": "CHOICE",
+    "question": "次のうち、雨上がりに空に架かるのはどれ？",
+    "choices": [
+      "にじ",
+      "さんじ",
+      "よじ",
+      "ごじ"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 98,
+    "type": "CHOICE",
+    "question": "次のうち、花を植えるものはどれ？",
+    "choices": [
+      "ハチ",
+      "アリ",
+      "クモ",
+      "セミ"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 99,
+    "type": "CHOICE",
+    "question": "次のうち、お医者さんはどれ？",
+    "choices": [
+      "シカ",
+      "ウマ",
+      "トラ",
+      "ロバ"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 100,
+    "type": "CHOICE",
+    "question": "次のうち、人の身体にあるのはどれ？",
+    "choices": [
+      "もも",
+      "りんご",
+      "みかん",
+      "ぶどう"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 101,
+    "type": "CHOICE",
+    "question": "次のうち、証券取引所で売買されるものは何？",
+    "choices": [
+      "カブ",
+      "ナス",
+      "ネギ",
+      "セリ"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 102,
+    "type": "CHOICE",
+    "question": "電気ストーブが転倒した際に自動的に電源が切れる\n仕組みなど、機械やシステムに故障や異常が発生\nした際、自動的に安全な状態へ移行するように\n設計する考え方を何という？",
+    "choices": [
+      "フェイルセーフ",
+      "フールプルーフ",
+      "フォールトトレラント",
+      "フォールトアボイダンス"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 103,
+    "type": "CHOICE",
+    "question": "電子レンジの扉が開いていると加熱できない\n仕組みなど、そもそもミスや危険な操作が\nできないようにあらかじめ作っておく\n設計思想を何という？",
+    "choices": [
+      "フールプルーフ",
+      "フェイルセーフ",
+      "フォールトトレラント",
+      "フォールトアボイダンス"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 104,
+    "type": "CHOICE",
+    "question": "2台のサーバーを用意し、片方が故障しても\nもう片方が処理を引き継ぐことでサービスを継続\nできるなど、システムの一部に障害が発生しても\n機能を維持できる性質を何という？",
+    "choices": [
+      "フォールトトレラント",
+      "フェイルセーフ",
+      "フールプルーフ",
+      "フォールトアボイダンス"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 105,
+    "type": "CHOICE",
+    "question": "コンピューターシステムにおいて、信頼性の高い\nハードウェアを使用したり、ソフトウェアの欠陥を\n減らしたりすることで、障害そのものの発生を防ぐ\n設計思想を何という？",
+    "choices": [
+      "フォールトアボイダンス",
+      "フォールトトレラント",
+      "フールプルーフ",
+      "フェイルセーフ"
+    ],
+    "difficulty": "HARD"
+  }
 ]
