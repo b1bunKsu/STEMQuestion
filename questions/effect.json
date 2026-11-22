@@ -342,5 +342,45 @@
     "hint": "順列",
     "answer": "じゅんれつ",
     "difficulty": "NORMAL"
+  },
+  {
+    "id": 44,
+    "type": "EFFECT",
+    "question": "累乗において、掛け合わせる回数を表す数",
+    "hint": "指数",
+    "answer": "しすう",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 45,
+    "type": "EFFECT",
+    "question": "光などの電磁波によってエネルギーが放出されること",
+    "hint": "輻射",
+    "answer": "ふくしゃ",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 46,
+    "type": "EFFECT",
+    "question": "物体の内部で、隣り合う部分が\n互いにずれるように変形すること",
+    "hint": "剪断",
+    "answer": "せんだん",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 47,
+    "type": "EFFECT",
+    "question": "細胞が分裂する際に染色体を引き離す繊維状の構造",
+    "hint": "紡錘糸",
+    "answer": "ぼうすいし",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 48,
+    "type": "EFFECT",
+    "question": "生物の発生過程で細胞が特定の形や\n機能を獲得すること",
+    "hint": "分化",
+    "answer": "ぶんか",
+    "difficulty": "NORMAL"
   }
 ]
