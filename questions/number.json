@@ -1,72 +1,72 @@
 [
-	{
-		"id": 1,
-		"type": "NUMBER",
-		"question": "化学において、アンモニアの化学式を\n英数字で答えなさい",
-		"answer": "NH3",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 2,
-		"type": "NUMBER",
-		"question": "数学において、正六角形の内角の和は\n何度になる？数字で答えなさい",
-		"answer": "720",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 3,
-		"type": "NUMBER",
-		"question": "情報科学において、読み出し専用の\n半導体メモリを表す3文字の略称は何？",
-		"answer": "ROM",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 10,
-		"type": "NUMBER",
-		"question": "数学において、2の10乗はいくつ？\n数字で答えなさい",
-		"answer": "1024",
-		"difficulty": "HARD"
-	},
-	{
-		"id": 5,
-		"type": "NUMBER",
-		"question": "生物学において、細胞内でエネルギーの\n受け渡しに使われるアデノシン三リン酸を\n表す3文字の略称は何？",
-		"answer": "ATP",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 6,
-		"type": "NUMBER",
-		"question": "数学において、2進数の101101を\n10進数に変換するといくつ？",
-		"answer": "45",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 7,
-		"type": "NUMBER",
-		"question": "物理学において、仕事率のSI単位である\nワットを表す単位記号は何？",
-		"answer": "W",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 5,
-		"type": "NUMBER",
-		"question": "コンピュータにおいて、中央処理装置を\n表すアルファベット3文字の略称は何？",
-		"answer": "CPU",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 9,
-		"type": "NUMBER",
-		"question": "数学において、7の階乗を計算すると\nいくつになる？数字で答えなさい",
-		"answer": "5040",
-		"difficulty": "HARD"
-	},
-	{
-		"id": 13,
-		"type": "NUMBER",
-		"question": "情報科学において、IPアドレスの\nIPv4は何ビットで構成される？",
-		"answer": "32",
-		"difficulty": "NORMAL"
-	}
+  {
+    "id": 1,
+    "type": "NUMBER",
+    "question": "化学において、アンモニアの化学式を\n英数字で答えなさい",
+    "answer": "NH3",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 2,
+    "type": "NUMBER",
+    "question": "数学において、正六角形の内角の和は\n何度になる？数字で答えなさい",
+    "answer": "720",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 3,
+    "type": "NUMBER",
+    "question": "情報科学において、読み出し専用の\n半導体メモリを表す3文字の略称は何？",
+    "answer": "ROM",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 4,
+    "type": "NUMBER",
+    "question": "数学において、2の10乗はいくつ？\n数字で答えなさい",
+    "answer": "1024",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 5,
+    "type": "NUMBER",
+    "question": "生物学において、細胞内でエネルギーの\n受け渡しに使われるアデノシン三リン酸を\n表す3文字の略称は何？",
+    "answer": "ATP",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 6,
+    "type": "NUMBER",
+    "question": "数学において、2進数の101101を\n10進数に変換するといくつ？",
+    "answer": "45",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 7,
+    "type": "NUMBER",
+    "question": "物理学において、仕事率のSI単位である\nワットを表す単位記号は何？",
+    "answer": "W",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 8,
+    "type": "NUMBER",
+    "question": "コンピュータにおいて、中央処理装置を\n表すアルファベット3文字の略称は何？",
+    "answer": "CPU",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 9,
+    "type": "NUMBER",
+    "question": "数学において、7の階乗を計算すると\nいくつになる？数字で答えなさい",
+    "answer": "5040",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 10,
+    "type": "NUMBER",
+    "question": "情報科学において、IPアドレスの\nIPv4は何ビットで構成される？",
+    "answer": "32",
+    "difficulty": "NORMAL"
+  }
 ]
