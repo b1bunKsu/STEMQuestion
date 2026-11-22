@@ -1,471 +1,275 @@
 [
-  {
-    "id": 1,
-    "type": "CUBE",
-    "question": "キリスト教やユダヤ教の聖典である\n「聖書」を指す言葉",
-    "answer": "バイブル",
-    "difficulty": "EASY"
-  },
-  {
-    "id": 2,
-    "type": "CUBE",
-    "question": "冷たくて甘い、夏によく食べるデザートです",
-    "answer": "アイスクリーム",
-    "difficulty": "EASY"
-  },
-  {
-    "id": 3,
-    "type": "CUBE",
-    "question": "茶色くて甘い、板状や粒状のおやつです",
-    "answer": "チョコレート",
-    "difficulty": "EASY"
-  },
-  {
-    "id": 4,
-    "type": "CUBE",
-    "question": "パンの間に肉や野菜をはさんで食べます",
-    "answer": "ハンバーガー",
-    "difficulty": "EASY"
-  },
-  {
-    "id": 5,
-    "type": "CUBE",
-    "question": "黒い画面がついていて、指で触って操作します",
-    "answer": "スマートフォン",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 6,
-    "type": "CUBE",
-    "question": "机の上に置いて計算や文章を書く機械です",
-    "answer": "コンピュータ",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 7,
-    "type": "CUBE",
-    "question": "日付や曜日が書いてある、壁に貼る紙です",
-    "answer": "カレンダー",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 8,
-    "type": "CUBE",
-    "question": "黄色い中身で、皮にトゲがある南国の果物です",
-    "answer": "パイナップル",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 9,
-    "type": "CUBE",
-    "question": "食品を冷やして保存しておく箱型の家電です",
-    "answer": "れいぞうこ",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 10,
-    "type": "CUBE",
-    "question": "汚れを落として服をきれいにする家電です",
-    "answer": "せんたくき",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 11,
-    "type": "CUBE",
-    "question": "長さを測るために使う\n目盛りがついた細い棒状の道具です",
-    "answer": "ものさし",
-    "difficulty": "EASY"
-  },
-  {
-    "id": 12,
-    "type": "CUBE",
-    "question": "髭や体毛を剃るために使う\n刃のついた小さな道具です",
-    "answer": "かみそり",
-    "difficulty": "EASY"
-  },
-  {
-    "id": 13,
-    "type": "CUBE",
-    "question": "木や板を切断するときに使う\nギザギザの刃がついた道具です",
-    "answer": "のこぎり",
-    "difficulty": "EASY"
-  },
-  {
-    "id": 14,
-    "type": "CUBE",
-    "question": "土を掘ったり砂をすくったりする\n柄のついた道具です",
-    "answer": "スコップ",
-    "difficulty": "EASY"
-  },
-  {
-    "id": 15,
-    "type": "CUBE",
-    "question": "紙をとじるために針を打ち込む文房具です",
-    "answer": "ホッチキス",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 16,
-    "type": "CUBE",
-    "question": "小さな物をつまむために使う\n先が細い金属の道具です",
-    "answer": "ピンセット",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 17,
-    "type": "CUBE",
-    "question": "音を大きく出して聞けるようにする機械です",
-    "answer": "スピーカー",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 18,
-    "type": "CUBE",
-    "question": "パンを焼いてこんがりさせるための調理家電です",
-    "answer": "トースター",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 19,
-    "type": "CUBE",
-    "question": "食材を混ぜたり砕いたりする回転する調理家電です",
-    "answer": "ミキサー",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 20,
-    "type": "CUBE",
-    "question": "テレビやエアコンを離れた場所から操作する道具です",
-    "answer": "リモコン",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 21,
-    "type": "CUBE",
-    "question": "耳に入れて音楽や通話の音を聞く小さな道具です",
-    "answer": "イヤホン",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 22,
-    "type": "CUBE",
-    "question": "計算を素早く行うための\nボタンが並んだ電子機器です",
-    "answer": "でんたく",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 23,
-    "type": "CUBE",
-    "question": "映像を大きな画面に映し出すための機械です",
-    "answer": "プロジェクター",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 24,
-    "type": "CUBE",
-    "question": "建物の階を上下に移動するための\n箱型の乗り物です",
-    "answer": "エレベーター",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 25,
-    "type": "CUBE",
-    "question": "階段の代わりに自動で人を運ぶ、\n動く段々の機械です",
-    "answer": "エスカレーター",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 26,
-    "type": "CUBE",
-    "question": "コーヒーを淹れるための、専用の調理家電です",
-    "answer": "コーヒーメーカー",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 27,
-    "type": "CUBE",
-    "question": "計算や作業を行う機械を英語で？",
-    "answer": "COMPUTER",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 28,
-    "type": "CUBE",
-    "question": "文字を入力するあの道具を英語で？",
-    "answer": "KEYBOARD",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 29,
-    "type": "CUBE",
-    "question": "画面を表示する機器を英語で？",
-    "answer": "MONITOR",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 30,
-    "type": "CUBE",
-    "question": "電気を蓄える部品を英語で？",
-    "answer": "BATTERY",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 31,
-    "type": "CUBE",
-    "question": "業務上のルールや判断を\nシステムの処理として実装したもの",
-    "answer": "ビジネスロジック",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 32,
-    "type": "CUBE",
-    "question": "スマートフォンを使って\nゲーム機をインターネットに繋ぎます",
-    "answer": "テザリング",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 33,
-    "type": "CUBE",
-    "question": "ある処理やアクセスの行き先を\n別の場所へ変更すること",
-    "answer": "リダイレクト",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 34,
-    "type": "CUBE",
-    "question": "各自治体間を相互に繋いだ、\n行政機関専用のネットワーク",
-    "answer": "LGWAN",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 35,
-    "type": "CUBE",
-    "question": "実は「不仲」という意味の\nコミュニケーションサービス",
-    "answer": "DISCORD",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 36,
-    "type": "CUBE",
-    "question": "設計図を意味する言葉です",
-    "answer": "ブループリント",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 37,
-    "type": "CUBE",
-    "question": "Webサイトやアプリの「間取り図」や\n「設計図」にあたる構成案",
-    "answer": "ワイヤーフレーム",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 38,
-    "type": "CUBE",
-    "question": "「フライドポテトが厚すぎる」という\nクレームから生まれました",
-    "answer": "ポテトチップス",
-    "difficulty": "EASY"
-  },
-  {
-    "id": 39,
-    "type": "CUBE",
-    "question": "臓器提供を受ける人です",
-    "answer": "レシピエント",
-    "difficulty": "EASY"
-  },
-  {
-    "id": 40,
-    "type": "CUBE",
-    "question": "代表曲に『明日の私に幸あれ』『ダダダダ天使』が\nある歌手",
-    "answer": "ナナヲアカリ",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 41,
-    "type": "CUBE",
-    "question": "分子やエネルギーの「乱雑さ」を表す量",
-    "answer": "エントロピー",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 42,
-    "type": "CUBE",
-    "question": "物質が持つエネルギー量を表す量",
-    "answer": "エンタルピー",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 43,
-    "type": "CUBE",
-    "question": "アニメ『ご注文はうさぎですか？』に登場する\n喫茶店",
-    "answer": "ラビットハウス",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 44,
-    "type": "CUBE",
-    "question": "ある時代や分野で共有される考え方の枠組み",
-    "answer": "パラダイム",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 45,
-    "type": "CUBE",
-    "question": "生物が体内環境を一定に保つ仕組み",
-    "answer": "ホメオスタシス",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 46,
-    "type": "CUBE",
-    "question": "遺伝子に制御された細胞の死",
-    "answer": "アポトーシス",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 47,
-    "type": "CUBE",
-    "question": "部分と全体に似た形が現れる幾何学的構造",
-    "answer": "フラクタル",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 48,
-    "type": "CUBE",
-    "question": "神経細胞同士が情報を伝達する接合部",
-    "answer": "シナプス",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 49,
-    "type": "CUBE",
-    "question": "日本語では同位体といいます",
-    "answer": "アイソトープ",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 50,
-    "type": "CUBE",
-    "question": "問題を解くための明確な手順",
-    "answer": "アルゴリズム",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 51,
-    "type": "CUBE",
-    "question": "一見正しそうだが矛盾を含む命題",
-    "answer": "パラドックス",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 52,
-    "type": "CUBE",
-    "question": "サッカーボールのような構造を持つ炭素の同素体",
-    "answer": "フラーレン",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 53,
-    "type": "CUBE",
-    "question": "あるゲームのキャラクターから命名された遺伝子",
-    "answer": "ピカチュリン",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 54,
-    "type": "CUBE",
-    "question": "第一興商が運営するカラオケチェーン店",
-    "answer": "ビッグエコー",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 55,
-    "type": "CUBE",
-    "question": "高い成果を出す人に共通して見られる行動特性",
-    "answer": "コンピテンシー",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 56,
-    "type": "CUBE",
-    "question": "何事もなかったように平気でいるさま",
-    "answer": "あっけらかん",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 57,
-    "type": "CUBE",
-    "question": "AI開発や機械学習に広く使われている\nプログラミング言語",
-    "answer": "PYTHON",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 58,
-    "type": "CUBE",
-    "question": "最初から用意されている標準的な値や機能",
-    "answer": "デフォルト",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 59,
-    "type": "CUBE",
-    "question": "英語では「フェリスホイール」といいます",
-    "answer": "かんらんしゃ",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 60,
-    "type": "CUBE",
-    "question": "英語では「アウトレット」といいます",
-    "answer": "コンセント",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 61,
-    "type": "CUBE",
-    "question": "有名な回文です",
-    "answer": "たけやぶやけた",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 62,
-    "type": "CUBE",
-    "question": "お互いに助けたり助けられたりしながら、\n良好な関係や立場を保っていること",
-    "answer": "もちつもたれつ",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 63,
-    "type": "CUBE",
-    "question": "「結局のところ」を意味する慣用句",
-    "answer": "とどのつまり",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 64,
-    "type": "CUBE",
-    "question": "JR東日本が提供するインターネット\nきっぷ予約・旅行サービス",
-    "answer": "えきねっと",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 65,
-    "type": "CUBE",
-    "question": "人々の日常生活や社会活動を維持するために\n欠かせない基盤的な設備やインフラのこと",
-    "answer": "ライフライン",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 66,
-    "type": "CUBE",
-    "question": "英語コミュニケーション能力を測る国際的なテスト",
-    "answer": "TOEIC",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 67,
-    "type": "CUBE",
-    "question": "外国語の学習・教授・評価を行う際の習熟度を示す\n国際的な共通指標",
-    "answer": "CEFR",
-    "difficulty": "NORMAL"
-  }
+	{
+		"id": 2,
+		"type": "CUBE",
+		"question": "細胞の核に存在し、遺伝情報を担うデオキシリボ核酸の略称",
+		"answer": "DNA",
+		"difficulty": "EASY"
+	},
+	{
+		"id": 4,
+		"type": "CUBE",
+		"question": "コンピューターの中央処理装置を表す英語の略称",
+		"answer": "CPU",
+		"difficulty": "EASY"
+	},
+	{
+		"id": 5,
+		"type": "CUBE",
+		"question": "細胞内でタンパク質の合成を行う構造体",
+		"answer": "リボソーム",
+		"difficulty": "EASY"
+	},
+	{
+		"id": 7,
+		"type": "CUBE",
+		"question": "原子核を構成する粒子のうち、正の電荷を持つもの",
+		"answer": "プロトン",
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 8,
+		"type": "CUBE",
+		"question": "原子核を構成する粒子のうち、電荷を持たないもの",
+		"answer": "ニュートロン",
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 9,
+		"type": "CUBE",
+		"question": "細胞内でエネルギー産生を担い、独自のDNAを持つ細胞小器官",
+		"answer": "ミトコンドリア",
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 12,
+		"type": "CUBE",
+		"question": "光の波長ごとの強度分布や、物質が示す吸収・放射の分布",
+		"answer": "スペクトル",
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 15,
+		"type": "CUBE",
+		"question": "量子力学において、粒子の状態を表す複素数の関数",
+		"answer": "はどうかんすう",
+		"difficulty": "HARD"
+	},
+	{
+		"id": 20,
+		"type": "CUBE",
+		"question": "統計力学で、系の微視的状態の確率分布を表す概念",
+		"answer": "アンサンブル",
+		"difficulty": "HARD"
+	},
+	{
+		"id": 21,
+		"type": "CUBE",
+		"question": "原子核を構成する陽子と中性子をまとめて何という？",
+		"answer": "ヌクレオン",
+		"difficulty": "HARD"
+	},
+	{
+		"id": 23,
+		"type": "CUBE",
+		"question": "DNAの塩基配列のうち、タンパク質のアミノ酸を指定する3塩基の組",
+		"answer": "コドン",
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 24,
+		"type": "CUBE",
+		"question": "地球の大気圏で、オゾン層が存在する高度約10〜50kmの層",
+		"answer": "ストラトスフィア",
+		"difficulty": "HARD"
+	},
+	{
+		"id": 26,
+		"type": "CUBE",
+		"question": "DNAの塩基のうち、アデニンと対になるピリミジン塩基",
+		"answer": "チミン",
+		"difficulty": "EASY"
+	},
+	{
+		"id": 27,
+		"type": "CUBE",
+		"question": "RNAの塩基のうち、通常アデニンと対になるピリミジン塩基",
+		"answer": "ウラシル",
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 28,
+		"type": "CUBE",
+		"question": "原子の電子配置で、電子が存在する確率分布を表す空間的な領域",
+		"answer": "オービタル",
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 29,
+		"type": "CUBE",
+		"question": "細胞分裂の際、染色体を両極へ移動させる微小管を主体とした構造",
+		"answer": "スピンドル",
+		"difficulty": "HARD"
+	},
+	{
+		"id": 30,
+		"type": "CUBE",
+		"question": "インターネット上でWebページを閲覧するためのソフトウェア",
+		"answer": "ブラウザ",
+		"difficulty": "EASY"
+	},
+	{
+		"id": 33,
+		"type": "CUBE",
+		"question": "生体内でエネルギーの受け渡しに使われるアデノシン三リン酸の略称",
+		"answer": "ATP",
+		"difficulty": "EASY"
+	},
+	{
+		"id": 34,
+		"type": "CUBE",
+		"question": "熱力学において、系の乱雑さやエネルギーの分散を特徴づける状態量",
+		"answer": "エントロピー",
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 35,
+		"type": "CUBE",
+		"question": "細胞内で不要な物質を分解する酵素を含む細胞小器官",
+		"answer": "リソソーム",
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 38,
+		"type": "CUBE",
+		"question": "光を増幅して、指向性の高い光を発生させる装置",
+		"answer": "レーザー",
+		"difficulty": "EASY"
+	},
+	{
+		"id": 39,
+		"type": "CUBE",
+		"question": "電気回路において、電荷を蓄えるために用いられる電子部品",
+		"answer": "コンデンサ",
+		"difficulty": "EASY"
+	},
+	{
+		"id": 40,
+		"type": "CUBE",
+		"question": "原子核の周囲に存在する、負の電荷を持つ素粒子の英語名",
+		"answer": "エレクトロン",
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 42,
+		"type": "CUBE",
+		"question": "数学で、図形を一定の割合で拡大・縮小する変換",
+		"answer": "ホモテティ",
+		"difficulty": "HARD"
+	},
+	{
+		"id": 43,
+		"type": "CUBE",
+		"question": "生物の細胞内で、遺伝情報を伝える核酸の一種。DNAと対比されるもの",
+		"answer": "RNA",
+		"difficulty": "EASY"
+	},
+	{
+		"id": 44,
+		"type": "CUBE",
+		"question": "物理学で、光子や電子などが持つ波と粒子の両方の性質",
+		"answer": "デュアリティ",
+		"difficulty": "HARD"
+	},
+	{
+		"id": 45,
+		"type": "CUBE",
+		"question": "化学で、原子が電子を共有して形成する結合",
+		"answer": "コバレント",
+		"difficulty": "HARD"
+	},
+	{
+		"id": 49,
+		"type": "CUBE",
+		"question": "コンピューターにおいて、データを一時的に保存し、CPUが高速にアクセスできる記憶装置",
+		"answer": "RAM",
+		"difficulty": "EASY"
+	},
+	{
+		"id": 52,
+		"type": "CUBE",
+		"question": "生物の進化において、遺伝的変化が偶然に集団内で広がる現象",
+		"answer": "ドリフト",
+		"difficulty": "HARD"
+	},
+	{
+		"id": 55,
+		"type": "CUBE",
+		"question": "化学で、炭素原子が六角形の網目状に結合した、厚さが原子1個分のシート状物質",
+		"answer": "グラフェン",
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 56,
+		"type": "CUBE",
+		"question": "数学において、ある集合から別の集合への対応関係を表す概念",
+		"answer": "マッピング",
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 57,
+		"type": "CUBE",
+		"question": "細胞内でタンパク質の合成を行う細胞小器官",
+		"answer": "リボソーム",
+		"difficulty": "EASY"
+	},
+	{
+		"id": 58,
+		"type": "CUBE",
+		"question": "コンピューターで、データを一定の規則に従って別の形式に変換する処理",
+		"answer": "エンコード",
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 60,
+		"type": "CUBE",
+		"question": "地球の内部構造で、地殻の下から核の上まで広がる岩石の層",
+		"answer": "マントル",
+		"difficulty": "EASY"
+	},
+	{
+		"id": 61,
+		"type": "CUBE",
+		"question": "数学で、数や文字を長方形状に並べたもので、行列とも呼ばれるもの",
+		"answer": "マトリックス",
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 62,
+		"type": "CUBE",
+		"question": "物理学で、物体の運動量を変化させる力と時間の積",
+		"answer": "インパルス",
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 65,
+		"type": "CUBE",
+		"question": "天文学で、恒星が一生の最後に大爆発を起こす現象",
+		"answer": "スーパーノヴァ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 67,
+		"type": "CUBE",
+		"question": "化学で、異なる元素の原子が結合してできた純物質",
+		"answer": "コンパウンド",
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 69,
+		"type": "CUBE",
+		"question": "情報科学で、データの誤りを検出するために付加される検査用の値",
+		"answer": "チェックサム",
+		"difficulty": "NORMAL"
+	}
 ]
