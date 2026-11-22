@@ -2,117 +2,13 @@
   {
     "id": 1,
     "type": "EFFECT",
-    "question": "『原神』において、刻晴の声を担当した声優",
-    "hint": "喜多村英梨",
-    "answer": "きたむらえり",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 2,
-    "type": "EFFECT",
-    "question": "『鬼滅の刃』のヒロイン",
-    "hint": "竈門禰豆子",
-    "answer": "かまどねずこ",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 3,
-    "type": "EFFECT",
-    "question": "『鬼滅の刃』の蟲柱",
-    "hint": "胡蝶しのぶ",
-    "answer": "こちょうしのぶ",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 4,
-    "type": "EFFECT",
-    "question": "『鬼滅の刃』の水柱",
-    "hint": "冨岡義勇",
-    "answer": "とみおかぎゆう",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 5,
-    "type": "EFFECT",
-    "question": "『原神』において、ナヴィアの声を担当した声優",
-    "hint": "豊崎愛生",
-    "answer": "とよさきあき",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 6,
-    "type": "EFFECT",
-    "question": "『原神』において、クロリンデの声を担当した声優",
-    "hint": "石川由依",
-    "answer": "いしかわゆい",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 7,
-    "type": "EFFECT",
-    "question": "『原神』において、レイラの声を担当した声優",
-    "hint": "富田美憂",
-    "answer": "とみたみゆ",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 8,
-    "type": "EFFECT",
-    "question": "『崩壊: スターレイル』において、カフカの声を\n担当した声優",
-    "hint": "伊藤静",
-    "answer": "いとうしずか",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 9,
-    "type": "EFFECT",
-    "question": "『崩壊: スターレイル』において、銀狼の声を\n担当した声優",
-    "hint": "阿澄佳奈",
-    "answer": "あすみかな",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 10,
-    "type": "EFFECT",
-    "question": "『原神』において、九条裟羅の声を担当した声優",
-    "hint": "瀬戸麻沙美",
-    "answer": "せとあさみ",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 11,
-    "type": "EFFECT",
-    "question": "『ゼンレスゾーンゼロ』において、浮波柚葉の声を\n担当した声優",
-    "hint": "長谷川育美",
-    "answer": "はせがわいくみ",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 12,
-    "type": "EFFECT",
-    "question": "『原神』において、夜欄の声を担当した声優",
-    "hint": "遠藤綾",
-    "answer": "えんどうあや",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 13,
-    "type": "EFFECT",
-    "question": "ゲーム『NTE』でカバーもされた\n『MyGO!!!!!』の楽曲",
-    "hint": "迷星叫",
-    "answer": "まよいうた",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 14,
-    "type": "EFFECT",
     "question": "複数の前提を積み重ねて根拠付けする方法",
     "hint": "演繹法",
     "answer": "えんえきほう",
     "difficulty": "HARD"
   },
   {
-    "id": 15,
+    "id": 2,
     "type": "EFFECT",
     "question": "複数の具体的な例から根拠付けする方法",
     "hint": "帰納法",
@@ -120,7 +16,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 16,
+    "id": 3,
     "type": "EFFECT",
     "question": "ある事柄が真実として認められる確実性の度合い",
     "hint": "蓋然性",
@@ -128,23 +24,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 17,
-    "type": "EFFECT",
-    "question": "ギコギコと木を切ります",
-    "hint": "鋸",
-    "answer": "のこぎり",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 18,
-    "type": "EFFECT",
-    "question": "チョキチョキと紙を切ります",
-    "hint": "鋏",
-    "answer": "はさみ",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 19,
+    "id": 4,
     "type": "EFFECT",
     "question": "昆虫採集の標的にされがち",
     "hint": "鍬形虫",
@@ -152,39 +32,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 20,
-    "type": "EFFECT",
-    "question": "寒さをしのぐために着ます",
-    "hint": "外套",
-    "answer": "がいとう",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 21,
-    "type": "EFFECT",
-    "question": "日本最大のビジネス街",
-    "hint": "大手町",
-    "answer": "おおてまち",
-    "difficulty": "EASY"
-  },
-  {
-    "id": 22,
-    "type": "EFFECT",
-    "question": "ゼンマイやハンドルを回して奏でます",
-    "hint": "自鳴琴",
-    "answer": "オルゴール",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 23,
-    "type": "EFFECT",
-    "question": "ふいごと鍵盤で奏でます",
-    "hint": "手風琴",
-    "answer": "アコーディオン",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 24,
+    "id": 5,
     "type": "EFFECT",
     "question": "英語で「ドラゴンフライ」という秋の虫",
     "hint": "蜻蛉",
@@ -192,7 +40,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 25,
+    "id": 6,
     "type": "EFFECT",
     "question": "強力な跳躍力を持つ夏の虫",
     "hint": "飛蝗",
@@ -200,23 +48,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 26,
-    "type": "EFFECT",
-    "question": "日本一の電気街",
-    "hint": "秋葉原",
-    "answer": "あきはばら",
-    "difficulty": "EASY"
-  },
-  {
-    "id": 27,
-    "type": "EFFECT",
-    "question": "猫が大好きな人です",
-    "hint": "愛猫家",
-    "answer": "あいびょうか",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 28,
+    "id": 7,
     "type": "EFFECT",
     "question": "黄色い大きな夏を代表する花",
     "hint": "向日葵",
@@ -224,7 +56,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 29,
+    "id": 8,
     "type": "EFFECT",
     "question": "土壌のpHによって色が変わる花",
     "hint": "紫陽花",
@@ -232,7 +64,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 30,
+    "id": 9,
     "type": "EFFECT",
     "question": "最後には綿毛になります",
     "hint": "蒲公英",
@@ -240,7 +72,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 31,
+    "id": 10,
     "type": "EFFECT",
     "question": "メキシコ原産の秋を代表する花",
     "hint": "秋桜",
@@ -248,7 +80,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 32,
+    "id": 11,
     "type": "EFFECT",
     "question": "「花の王様」とも呼ばれます",
     "hint": "牡丹",
@@ -256,7 +88,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 33,
+    "id": 12,
     "type": "EFFECT",
     "question": "「花の女王」とも呼ばれます",
     "hint": "薔薇",
@@ -264,15 +96,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 34,
-    "type": "EFFECT",
-    "question": "花に水をあげます",
-    "hint": "如雨露",
-    "answer": "じょうろ",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 35,
+    "id": 13,
     "type": "EFFECT",
     "question": "スマホの見すぎで一時的になる場合もあります",
     "hint": "内斜視",
@@ -280,15 +104,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 36,
-    "type": "EFFECT",
-    "question": "「コーヒーの聖地」と呼ばれることもある町",
-    "hint": "清澄白河",
-    "answer": "きよすみしらかわ",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 37,
+    "id": 14,
     "type": "EFFECT",
     "question": "もろくて弱い性質のこと",
     "hint": "脆弱性",
@@ -296,7 +112,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 38,
+    "id": 15,
     "type": "EFFECT",
     "question": "その咲き方と見た目からこの名前が付けられました",
     "hint": "芝桜",
@@ -304,7 +120,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 39,
+    "id": 16,
     "type": "EFFECT",
     "question": "海の中をゆらゆらと漂う癒し生物",
     "hint": "海月",
@@ -312,7 +128,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 40,
+    "id": 17,
     "type": "EFFECT",
     "question": "その形からこの漢字が当てられた生き物",
     "hint": "海星",
@@ -320,7 +136,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 41,
+    "id": 18,
     "type": "EFFECT",
     "question": "水族館のショーで大ジャンプ！",
     "hint": "海豚",
@@ -328,47 +144,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 42,
-    "type": "EFFECT",
-    "question": "ズルズルと啜って食べます",
-    "hint": "拉麺",
-    "answer": "ラーメン",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 43,
-    "type": "EFFECT",
-    "question": "黒くて苦い飲み物",
-    "hint": "珈琲",
-    "answer": "コーヒー",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 44,
-    "type": "EFFECT",
-    "question": "独特の香りがある乳製品",
-    "hint": "乾酪",
-    "answer": "チーズ",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 45,
-    "type": "EFFECT",
-    "question": "ズルズルと啜って食べます",
-    "hint": "蕎麦",
-    "answer": "そば",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 46,
-    "type": "EFFECT",
-    "question": "ズルズルと啜って食べます",
-    "hint": "饂飩",
-    "answer": "うどん",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 47,
+    "id": 19,
     "type": "EFFECT",
     "question": "数列の隣り合う項や前の項との関係を数式で表したもの",
     "hint": "漸化式",
@@ -376,15 +152,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 48,
-    "type": "EFFECT",
-    "question": "船を人力で進めるための棒状の船具",
-    "hint": "櫂",
-    "answer": "かい",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 49,
+    "id": 20,
     "type": "EFFECT",
     "question": "景色が空中に浮かんで見える現象",
     "hint": "蜃気楼",
@@ -392,7 +160,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 50,
+    "id": 21,
     "type": "EFFECT",
     "question": "石灰岩が溶けてできた洞窟",
     "hint": "鍾乳洞",
@@ -400,15 +168,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 51,
-    "type": "EFFECT",
-    "question": "コンパスともいいます",
-    "hint": "羅針盤",
-    "answer": "らしんばん",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 52,
+    "id": 22,
     "type": "EFFECT",
     "question": "炭酸カルシウムを主成分とする炭酸塩鉱物",
     "hint": "方解石",
@@ -416,23 +176,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 53,
-    "type": "EFFECT",
-    "question": "芥川龍之介が書いた短編小説",
-    "hint": "羅生門",
-    "answer": "らしょうもん",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 54,
-    "type": "EFFECT",
-    "question": "成功へといたる難しい関門を突破したことをいう\nことわざ",
-    "hint": "登龍門",
-    "answer": "とうりゅうもん",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 55,
+    "id": 23,
     "type": "EFFECT",
     "question": "分子の熱運動がほぼ止まる温度",
     "hint": "絶対零度",
@@ -440,7 +184,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 56,
+    "id": 24,
     "type": "EFFECT",
     "question": "分数の分母と分子を隔てる横棒をこう言います",
     "hint": "括線",
@@ -448,7 +192,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 57,
+    "id": 25,
     "type": "EFFECT",
     "question": "2数の最大公約数を求めるアルゴリズムは\n「ユークリッドの〇〇〇」？",
     "hint": "互除法",
@@ -456,7 +200,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 58,
+    "id": 26,
     "type": "EFFECT",
     "question": "異なる生物が、互いに利益を得る関係",
     "hint": "相利共生",
@@ -464,7 +208,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 59,
+    "id": 27,
     "type": "EFFECT",
     "question": "地層が横方向から圧縮され、波状に曲がる地質構造",
     "hint": "褶曲",
@@ -472,7 +216,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 60,
+    "id": 28,
     "type": "EFFECT",
     "question": "ある集団の遺伝子頻度が、偶然によって世代ごとに\n変化する現象",
     "hint": "遺伝的浮動",
@@ -480,15 +224,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 61,
-    "type": "EFFECT",
-    "question": "古代ギリシャの哲学者が用いた、問答を通じて相手に\n真理を自覚させる方法",
-    "hint": "産婆術",
-    "answer": "さんばじゅつ",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 62,
+    "id": 29,
     "type": "EFFECT",
     "question": "海底に堆積した砂や泥が固結して形成される岩石",
     "hint": "堆積岩",
@@ -496,123 +232,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 63,
-    "type": "EFFECT",
-    "question": "物事を行う上で、一般に最善と考えられている\n手法や手順",
-    "hint": "定石",
-    "answer": "じょうせき",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 64,
-    "type": "EFFECT",
-    "question": "1月の異名です",
-    "hint": "睦月",
-    "answer": "むつき",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 65,
-    "type": "EFFECT",
-    "question": "2月の異名です",
-    "hint": "如月",
-    "answer": "きさらぎ",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 66,
-    "type": "EFFECT",
-    "question": "3月の異名です",
-    "hint": "弥生",
-    "answer": "やよい",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 67,
-    "type": "EFFECT",
-    "question": "4月の異名です",
-    "hint": "卯月",
-    "answer": "うづき",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 68,
-    "type": "EFFECT",
-    "question": "5月の異名です",
-    "hint": "皐月",
-    "answer": "さつき",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 69,
-    "type": "EFFECT",
-    "question": "6月の異名です",
-    "hint": "水無月",
-    "answer": [
-      "みなづき",
-      "みなつき"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 70,
-    "type": "EFFECT",
-    "question": "7月の異名です",
-    "hint": "文月",
-    "answer": [
-      "ふみづき",
-      "ふづき"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 71,
-    "type": "EFFECT",
-    "question": "8月の異名です",
-    "hint": "葉月",
-    "answer": [
-      "はづき",
-      "はつき"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 72,
-    "type": "EFFECT",
-    "question": "9月の異名です",
-    "hint": "長月",
-    "answer": [
-      "ながつき",
-      "ながづき"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 73,
-    "type": "EFFECT",
-    "question": "10月の異名です",
-    "hint": "神無月",
-    "answer": "かんなづき",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 74,
-    "type": "EFFECT",
-    "question": "11月の異名です",
-    "hint": "霜月",
-    "answer": "しもつき",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 75,
-    "type": "EFFECT",
-    "question": "12月の異名です",
-    "hint": "師走",
-    "answer": "しわす",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 76,
+    "id": 30,
     "type": "EFFECT",
     "question": "不定積分で出てくる任意の定数",
     "hint": "積分定数",
@@ -620,23 +240,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 77,
-    "type": "EFFECT",
-    "question": "元はエイプリルフールで生まれた\n架空のVOCALOID",
-    "hint": "重音テト",
-    "answer": "かさねてと",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 78,
-    "type": "EFFECT",
-    "question": "声優・高木美佑の声を元に制作された\n合成音声キャラクター",
-    "hint": "夏色花梨",
-    "answer": "なつきかりん",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 79,
+    "id": 31,
     "type": "EFFECT",
     "question": "手足などの震えを医学用語で？",
     "hint": "振戦",
@@ -644,7 +248,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 80,
+    "id": 32,
     "type": "EFFECT",
     "question": "脚の付け根の部分",
     "hint": "鼠径部",
@@ -652,7 +256,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 81,
+    "id": 33,
     "type": "EFFECT",
     "question": "吐き気を医学用語で？",
     "hint": "悪心",
@@ -660,7 +264,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 82,
+    "id": 34,
     "type": "EFFECT",
     "question": "咳を医学用語で？",
     "hint": "咳嗽",
@@ -668,7 +272,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 83,
+    "id": 35,
     "type": "EFFECT",
     "question": "飲み込むことを医学用語で？",
     "hint": "嚥下",
@@ -676,7 +280,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 84,
+    "id": 36,
     "type": "EFFECT",
     "question": "歯が生えることを医学用語で？",
     "hint": "萌出",
@@ -684,15 +288,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 85,
-    "type": "EFFECT",
-    "question": "物事が思い通りに行かずもどかしいこと",
-    "hint": "隔靴掻痒",
-    "answer": "かっかそうよう",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 86,
+    "id": 37,
     "type": "EFFECT",
     "question": "データなどが1か所に集中して激しく混み合う状態",
     "hint": "輻輳",
@@ -700,55 +296,15 @@
     "difficulty": "HARD"
   },
   {
-    "id": 87,
+    "id": 38,
     "type": "EFFECT",
-    "question": "植物が群がって生えること",
+    "question": "歯が前後に重なったりねじれたりして\nデコボコに生えている歯並び",
     "hint": "叢生",
     "answer": "そうせい",
     "difficulty": "HARD"
   },
   {
-    "id": 88,
-    "type": "EFFECT",
-    "question": "代表曲に『過去を喰らう』があるバーチャルシンガー",
-    "hint": "花譜",
-    "answer": "かふ",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 89,
-    "type": "EFFECT",
-    "question": "「切手」は実はこれを略した言葉",
-    "hint": "切符手形",
-    "answer": "きりふてがた",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 90,
-    "type": "EFFECT",
-    "question": "JR山手線の停車駅の1つ",
-    "hint": "御徒町",
-    "answer": "おかちまち",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 91,
-    "type": "EFFECT",
-    "question": "JR山手線の停車駅の1つ",
-    "hint": "高田馬場",
-    "answer": "たかだのばば",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 92,
-    "type": "EFFECT",
-    "question": "砂糖醤油を使ったタレをからめた串団子",
-    "hint": "御手洗団子",
-    "answer": "みたらしだんご",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 93,
+    "id": 39,
     "type": "EFFECT",
     "question": "しゃっくりはこれの痙攣によるもの",
     "hint": "横隔膜",
@@ -756,7 +312,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 94,
+    "id": 40,
     "type": "EFFECT",
     "question": "2乗するとマイナスになる数",
     "hint": "虚数",
@@ -764,15 +320,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 95,
-    "type": "EFFECT",
-    "question": "的に向かって扇子を投げる日本の伝統的な遊び",
-    "hint": "投扇興",
-    "answer": "とうせんきょう",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 96,
+    "id": 41,
     "type": "EFFECT",
     "question": "同じ数を繰り返し掛ける演算",
     "hint": "冪乗",
@@ -780,7 +328,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 97,
+    "id": 42,
     "type": "EFFECT",
     "question": "光の波長が長波長側にずれる現象",
     "hint": "赤方偏移",
@@ -788,91 +336,11 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 98,
-    "type": "EFFECT",
-    "question": "宇宙に存在する全ての物事や現象",
-    "hint": "森羅万象",
-    "answer": "しんらばんしょう",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 99,
-    "type": "EFFECT",
-    "question": "気晴らしにあちこちを見物したり\n遊びに出かけたりすること",
-    "hint": "物見遊山",
-    "answer": "ものみゆさん",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 100,
-    "type": "EFFECT",
-    "question": "代表曲に『青空のラプソディ』があるバンド",
-    "hint": "fhána",
-    "answer": "ファナ",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 101,
+    "id": 43,
     "type": "EFFECT",
     "question": "異なるものからいくつか選び\n順序を考えて並べる方法の数",
     "hint": "順列",
     "answer": "じゅんれつ",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 102,
-    "type": "EFFECT",
-    "question": "ヨルシカのsuisが作詞、キタニタツヤが作曲・編曲\nしたTVアニメ『猫と竜』のオープニングテーマ",
-    "hint": "猫日",
-    "answer": "ねこじつ",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 103,
-    "type": "EFFECT",
-    "question": "言いふらすこと",
-    "hint": "吹聴",
-    "answer": "ふいちょう",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 104,
-    "type": "EFFECT",
-    "question": "言葉だけで情報や事実を伝えること",
-    "hint": "口伝",
-    "answer": "くでん",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 105,
-    "type": "EFFECT",
-    "question": "「首絞めハム太郎」の異名をもつ\nかつて存在したバーチャルYouTuber",
-    "hint": "輝夜月",
-    "answer": "かぐやるな",
-    "difficulty": "HARD"
-  },
-  {
-    "id": 106,
-    "type": "EFFECT",
-    "question": "かろうじて残っているごくわずかな希望",
-    "hint": "一縷の望み",
-    "answer": "いちるののぞみ",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 107,
-    "type": "EFFECT",
-    "question": "ヨルシカのボーカリスト",
-    "hint": "suis",
-    "answer": "スイ",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 108,
-    "type": "EFFECT",
-    "question": "ヨルシカのギタリスト兼コンポーザー",
-    "hint": "n-buna",
-    "answer": "ナブナ",
     "difficulty": "NORMAL"
   }
 ]
