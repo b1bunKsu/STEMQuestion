@@ -1,182 +1,583 @@
 [
-	{
-		"type": "OX",
-		"question": "日本の首都は\\w東京である",
-		"answer": "O",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "OX",
-		"question": "日本の首都は\\w大阪である",
-		"answer": "X",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "OX",
-		"question": "日本で一番高い山は\\w富士山である",
-		"answer": "O",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "OX",
-		"question": "地球は太陽の周りを回っている",
-		"answer": "O",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "OX",
-		"question": "人間の心臓は体の\\w右側にある",
-		"answer": "X",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "OX",
-		"question": "水は\\w0度で凍る",
-		"answer": "O",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "OX",
-		"question": "月は自ら光を発している",
-		"answer": "X",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "OX",
-		"question": "ブラジルの首都は\\wリオデジャネイロである",
-		"answer": "X",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "OX",
-		"question": "1年は365日または366日である",
-		"answer": "O",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "OX",
-		"question": "パンダの主食は\\w竹である",
-		"answer": "O",
-		"difficulty": "NORMAL"
-	},
-  	{
+  {
+    "id": 1,
     "type": "OX",
-    "question": "日本で一番人口が多い都道府県は東京都である",
+    "question": "日本の首都は\\w東京都である",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 2,
+    "type": "OX",
+    "question": "日本の首都は\\w大阪府である",
+    "answer": "X",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 3,
+    "type": "OX",
+    "question": "日本で一番高い山は\\w富士山である",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 4,
+    "type": "OX",
+    "question": "地球は太陽の周りを回っている",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 5,
+    "type": "OX",
+    "question": "太陽は地球の周りを回っている",
+    "answer": "X",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 6,
+    "type": "OX",
+    "question": "人間の心臓は体の\\w右側にある",
+    "answer": "X",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 7,
+    "type": "OX",
+    "question": "人間の心臓は体の\\w左側にある",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 8,
+    "type": "OX",
+    "question": "水は\\w0度で凍る",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 9,
+    "type": "OX",
+    "question": "月は自ら光を発している",
+    "answer": "X",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 10,
+    "type": "OX",
+    "question": "月は太陽の光を反射して光っている",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 11,
+    "type": "OX",
+    "question": "ブラジルの首都は\\wリオデジャネイロである",
+    "answer": "X",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 12,
+    "type": "OX",
+    "question": "ブラジルの首都は\\wブラジリアである",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 13,
+    "type": "OX",
+    "question": "1年は365日または366日である",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 14,
+    "type": "OX",
+    "question": "パンダの主食は\\w笹である",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 15,
+    "type": "OX",
+    "question": "日本で一番人口が多い都道府県は\\w\n東京都である",
     "answer": "O",
     "difficulty": "EASY"
   },
   {
+    "id": 16,
     "type": "OX",
-    "question": "桜の花びらは必ず5枚である",
+    "question": "日本で一番人口が多い都道府県は\\w\n京都府である",
+    "answer": "X",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 17,
+    "type": "OX",
+    "question": "桜の花びらは必ず\\w5枚である",
     "answer": "O",
     "difficulty": "EASY"
   },
   {
+    "id": 18,
     "type": "OX",
-    "question": "太陽は東から昇り西に沈む",
+    "question": "桜の花びらは必ず\\w6枚である",
+    "answer": "X",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 19,
+    "type": "OX",
+    "question": "太陽は\\w東から昇り西に沈む",
     "answer": "O",
     "difficulty": "EASY"
   },
   {
+    "id": 20,
+    "type": "OX",
+    "question": "太陽は\\w西から昇り東に沈む",
+    "answer": "X",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 21,
     "type": "OX",
     "question": "人間の歯は一生で生え変わらない",
     "answer": "X",
     "difficulty": "EASY"
   },
   {
+    "id": 22,
     "type": "OX",
     "question": "日本の国旗は日の丸と呼ばれる",
     "answer": "O",
     "difficulty": "EASY"
   },
   {
+    "id": 23,
     "type": "OX",
     "question": "金星は太陽系で一番熱い惑星である",
     "answer": "O",
     "difficulty": "NORMAL"
   },
   {
+    "id": 24,
     "type": "OX",
-    "question": "エベレストはアジア大陸にある",
+    "question": "エベレストは\\wアジア大陸にある",
     "answer": "O",
     "difficulty": "NORMAL"
   },
   {
+    "id": 25,
     "type": "OX",
-    "question": "日本の通貨単位は「円」である",
+    "question": "日本の通貨単位は\\w「円」である",
     "answer": "O",
     "difficulty": "EASY"
   },
   {
+    "id": 26,
+    "type": "OX",
+    "question": "日本の通貨単位は\\w「元」である",
+    "answer": "X",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 27,
     "type": "OX",
     "question": "南極にはペンギンが生息している",
     "answer": "O",
     "difficulty": "NORMAL"
   },
   {
+    "id": 28,
     "type": "OX",
     "question": "北極にはペンギンが生息している",
     "answer": "X",
     "difficulty": "NORMAL"
   },
   {
+    "id": 29,
     "type": "OX",
     "question": "光速は約30万km/秒である",
     "answer": "O",
     "difficulty": "NORMAL"
   },
   {
+    "id": 30,
     "type": "OX",
     "question": "日本の四季は春・夏・秋・冬の4つである",
     "answer": "O",
     "difficulty": "EASY"
   },
   {
+    "id": 31,
     "type": "OX",
     "question": "DNAは二重らせん構造をしている",
     "answer": "O",
     "difficulty": "HARD"
   },
   {
+    "id": 32,
     "type": "OX",
-    "question": "元素記号「Fe」は鉄を表す",
+    "question": "元素記号「Fe」は\\w鉄を表す",
     "answer": "O",
     "difficulty": "NORMAL"
   },
   {
+    "id": 33,
     "type": "OX",
-    "question": "元素記号「Au」は銀を表す",
+    "question": "元素記号「Au」は\\w銀を表す",
     "answer": "X",
     "difficulty": "NORMAL"
   },
   {
+    "id": 34,
     "type": "OX",
-    "question": "日本の最北端の都道府県は北海道である",
+    "question": "日本の最北端の都道府県は\\w北海道である",
     "answer": "O",
     "difficulty": "EASY"
   },
   {
+    "id": 35,
     "type": "OX",
     "question": "人間の体の水分量は約60〜70％である",
     "answer": "O",
     "difficulty": "NORMAL"
   },
   {
+    "id": 36,
     "type": "OX",
     "question": "ブラックホールは光さえも脱出できない天体である",
     "answer": "O",
     "difficulty": "HARD"
   },
   {
+    "id": 37,
     "type": "OX",
     "question": "ピタゴラスの定理は直角三角形に関する定理である",
     "answer": "O",
     "difficulty": "HARD"
   },
   {
+    "id": 38,
     "type": "OX",
     "question": "地球の自転周期は約24時間である",
     "answer": "O",
     "difficulty": "EASY"
+  },
+  {
+    "id": 39,
+    "type": "OX",
+    "question": "日本の国会は衆議院と参議院の二院で構成されている",
+    "answer": "O",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 40,
+    "type": "OX",
+    "question": "日本の47都道府県のうち最も面積が小さいのは\\w\n香川県である",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 41,
+    "type": "OX",
+    "question": "日本の47都道府県のうち最も面積が小さいのは\\w\n沖縄県である",
+    "answer": "X",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 42,
+    "type": "OX",
+    "question": "地球の衛星は火星である",
+    "answer": "X",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 43,
+    "type": "OX",
+    "question": "地球の衛星は月である",
+    "answer": "O",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 44,
+    "type": "OX",
+    "question": "太陽系で最も大きい惑星は木星である",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 45,
+    "type": "OX",
+    "question": "日本の硬貨で穴が開いているのは\\w5円玉と50円玉である",
+    "answer": "O",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 46,
+    "type": "OX",
+    "question": "日本の硬貨で穴が開いているのは\\w5円玉だけである",
+    "answer": "X",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 47,
+    "type": "OX",
+    "question": "日本の硬貨で穴が開いているのは\\w50円玉だけである",
+    "answer": "X",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 48,
+    "type": "OX",
+    "question": "ペンギンは\\w鳥類に分類される",
+    "answer": "O",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 49,
+    "type": "OX",
+    "question": "タコの心臓は\\w1つである",
+    "answer": "X",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 50,
+    "type": "OX",
+    "question": "タコの心臓は\\w2つである",
+    "answer": "X",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 51,
+    "type": "OX",
+    "question": "タコの心臓は\\w3つである",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 52,
+    "type": "OX",
+    "question": "人間の体内で、酸素を運ぶ働きをするのは\\w\n赤血球である",
+    "answer": "O",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 53,
+    "type": "OX",
+    "question": "人間の体内で、酸素を運ぶ働きをするのは\\w\n白血球である",
+    "answer": "X",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 54,
+    "type": "OX",
+    "question": "植物は光合成によって\\w酸素を放出する",
+    "answer": "O",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 55,
+    "type": "OX",
+    "question": "植物は光合成によって\\w二酸化炭素を放出する",
+    "answer": "X",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 56,
+    "type": "OX",
+    "question": "水の化学式は\\wCO2である",
+    "answer": "X",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 57,
+    "type": "OX",
+    "question": "元素記号Feは\\w鉄を表す",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 58,
+    "type": "OX",
+    "question": "音は真空中でも伝わる",
+    "answer": "X",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 59,
+    "type": "OX",
+    "question": "光の速さは音の速さよりも\\w速い",
+    "answer": "O",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 60,
+    "type": "OX",
+    "question": "光の速さは音の速さよりも\\w遅い",
+    "answer": "X",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 61,
+    "type": "OX",
+    "question": "電流の単位は\\wアンペアである",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 62,
+    "type": "OX",
+    "question": "電圧の単位は\\wアンペアである",
+    "answer": "X",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 63,
+    "type": "OX",
+    "question": "フランスの首都は\\wパリである",
+    "answer": "O",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 64,
+    "type": "OX",
+    "question": "オーストラリアの首都は\\wシドニーである",
+    "answer": "X",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 65,
+    "type": "OX",
+    "question": "オーストラリアの首都は\\wキャンベラである",
+    "answer": "O",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 66,
+    "type": "OX",
+    "question": "エジプトを流れるナイル川は地中海に注いでいる",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 67,
+    "type": "OX",
+    "question": "世界で最も面積が大きい国は\\wカナダである",
+    "answer": "X",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 68,
+    "type": "OX",
+    "question": "世界で最も面積が大きい国は\\wロシアである",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 69,
+    "type": "OX",
+    "question": "南極大陸には北極点が存在する",
+    "answer": "X",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 70,
+    "type": "OX",
+    "question": "日本で最も長い川は\\w信濃川である",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 71,
+    "type": "OX",
+    "question": "日本で最も長い川は\\w利根川である",
+    "answer": "X",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 72,
+    "type": "OX",
+    "question": "鎌倉幕府を開いた人物は\\w源頼朝である",
+    "answer": "O",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 73,
+    "type": "OX",
+    "question": "江戸幕府を開いた人物は\\w徳川家康である",
+    "answer": "O",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 74,
+    "type": "OX",
+    "question": "日本で最初の元号は\\w明治である",
+    "answer": "X",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 75,
+    "type": "OX",
+    "question": "フランス革命が始まったのは\\w1789年である",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 76,
+    "type": "OX",
+    "question": "第二次世界大戦が終結したのは\\w1945年である",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 77,
+    "type": "OX",
+    "question": "『吾輩は猫である』の作者は\\w夏目漱石である",
+    "answer": "O",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 78,
+    "type": "OX",
+    "question": "『吾輩は猫である』の作者は\\w芥川龍之介である",
+    "answer": "X",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 79,
+    "type": "OX",
+    "question": "『走れメロス』の作者は\\w芥川龍之介である",
+    "answer": "X",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 80,
+    "type": "OX",
+    "question": "『走れメロス』の作者は\\w太宰治である",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 81,
+    "type": "OX",
+    "question": "『モナ・リザ』を描いた画家は\\w\nレオナルド・ダ・ヴィンチである",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 82,
+    "type": "OX",
+    "question": "日本の国鳥は\\wキジである",
+    "answer": "O",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 83,
+    "type": "OX",
+    "question": "日本の国鳥は\\wトキである",
+    "answer": "X",
+    "difficulty": "HARD"
   }
 ]

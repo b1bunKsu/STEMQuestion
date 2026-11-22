@@ -1,8 +1,151 @@
 [
-	{
-		"type": "NUMBER",
-		"question": "警察に緊急通報する際にかける電話番号は何番？数字で答えなさい。",
-		"answer": "110",
-		"difficulty": "EASY"
-	}
+  {
+    "id": 1,
+    "type": "NUMBER",
+    "question": "日本において、警察に緊急通報する際にかける\n電話番号は何番？数字で答えなさい",
+    "answer": "110",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 2,
+    "type": "NUMBER",
+    "question": "日本において、警察に緊急通報する際にかける\n電話番号は\\w110番ですが、\\wアメリカ合衆国や\nカナダなどにおいて、警察に緊急通報する際に\nかける電話番号は何番？数字で答えなさい",
+    "answer": "911",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 3,
+    "type": "NUMBER",
+    "question": "日本において、火事や救急搬送を要請する際にかける\n電話番号は何番？数字で答えなさい",
+    "answer": "119",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 4,
+    "type": "NUMBER",
+    "question": "円周率πの小数点以下の最初の5桁は何？\n数字で答えなさい",
+    "answer": "14159",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 5,
+    "type": "NUMBER",
+    "question": "アポロ11号が人類初の月面着陸を成功させた\n西暦年は何年？数字で答えなさい",
+    "answer": "1969",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 6,
+    "type": "NUMBER",
+    "question": "水の化学式は何？\n大文字のアルファベットと数字で答えなさい",
+    "answer": "H2O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 7,
+    "type": "NUMBER",
+    "question": "二酸化炭素の化学式は何？\n大文字のアルファベットと数字で答えなさい",
+    "answer": "CO2",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 8,
+    "type": "NUMBER",
+    "question": "日本の国際電話で使用される国番号は何番？\n数字で答えなさい",
+    "answer": "81",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 9,
+    "type": "NUMBER",
+    "question": "光速は秒速約何キロメートル？数字で答えなさい",
+    "answer": "300000",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 10,
+    "type": "NUMBER",
+    "question": "うるう年でない1年の日数は何日？数字で答えなさい",
+    "answer": "365",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11,
+    "type": "NUMBER",
+    "question": "水素を表す記号は何？\n大文字のアルファベットで答えなさい",
+    "answer": "H",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 12,
+    "type": "NUMBER",
+    "question": "水素を表す記号は\\w「H」ですが、\\w\n酸素を表す記号は何？\n大文字のアルファベットで答えなさい",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 13,
+    "type": "NUMBER",
+    "question": "Joy-Conを使った直感的な操作で、家族や友達、\n世界中の人とスポーツ対戦を楽しめる\nNintendo Switch用ソフトといえば\n『Nintendo Switch 〇〇〇〇〇〇』？",
+    "answer": "SPORTS",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 14,
+    "type": "NUMBER",
+    "question": "Joy-Conを使った直感的な操作で、家族や友達、\n世界中の人とスポーツ対戦を楽しめる\nNintendo Switch用ソフトといえば\n\\w『Nintendo Switch Sports』ですが、\\cその続編となるNintendo Swich 2 向けのゲームは\n『Nintendo Switch Sports 〇〇〇〇〇〇』？",
+    "answer": "RESORT",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 15,
+    "type": "NUMBER",
+    "question": "「世界一タフな時計」としてギネス世界記録に\n認定されているモデルもある、カシオが製造している\n腕時計のブランドといえば「G-〇〇〇〇〇」？",
+    "answer": "SHOCK",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 16,
+    "type": "NUMBER",
+    "question": "第一興商が運用する業務用通信カラオケシリーズの\nブランドといえば？",
+    "answer": "DAM",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 17,
+    "type": "NUMBER",
+    "question": "エクシングが運用する業務用通信カラオケシリーズの\nブランドといえば？",
+    "answer": "JOYSOUND",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 18,
+    "type": "NUMBER",
+    "question": "世界中で最も広く使われている文字入力用キーボード\nの標準的なアルファベット配列を、その上段を\nそのまま読んで「〇〇〇〇〇〇配列」という？\n〇の部分をアルファベットで答えなさい",
+    "answer": [
+      "QWERTY"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 19,
+    "type": "NUMBER",
+    "question": "ソフトウェア開発において、「同じ知識や処理を\n複数箇所に重複して書かない」という考え方を\n「Don't Repeat Yourself」の頭文字から\n「〇〇〇原則」という？〇の部分を答えなさい",
+    "answer": "DRY",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 20,
+    "type": "NUMBER",
+    "question": "Androidアプリや業務システムなどの開発に\n広く利用され、コーヒーカップのロゴで\n知られるプログラミング言語は何？",
+    "answer": "JAVA",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 21,
+    "type": "NUMBER",
+    "question": "アルファベット1文字を名前に持ち、組み込み\nシステムやOSの開発などに広く利用されている\n1970年代に登場したプログラミング言語は\n「〇言語」？〇の部分を答えなさい ",
+    "answer": "C",
+    "difficulty": "EASY"
+  }
 ]
