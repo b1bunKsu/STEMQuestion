@@ -1,1204 +1,796 @@
 [
-  {
-    "id": 1,
-    "type": "LINE_MATCHING",
-    "question": "次のクラシック音楽の作品と作曲家を正しく結びなさい",
-    "leftChoices": [
-      "交響曲第9番",
-      "トルコ行進曲",
-      "革命のエチュード",
-      "四季"
-    ],
-    "rightChoices": [
-      "ベートーヴェン",
-      "モーツァルト",
-      "ショパン",
-      "ヴィヴァルディ"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 2,
-    "type": "LINE_MATCHING",
-    "question": "次の日本の観光名所と所在地を正しく結びなさい",
-    "leftChoices": [
-      "姫路城",
-      "厳島神社",
-      "善光寺",
-      "首里城"
-    ],
-    "rightChoices": [
-      "兵庫県",
-      "広島県",
-      "長野県",
-      "沖縄県"
-    ],
-    "difficulty": "EASY"
-  },
-  {
-    "id": 3,
-    "type": "LINE_MATCHING",
-    "question": "次の人体の器官と主な働きを正しく結びなさい",
-    "leftChoices": [
-      "肝臓",
-      "肺",
-      "腎臓",
-      "胃"
-    ],
-    "rightChoices": [
-      "解毒作用",
-      "ガス交換",
-      "尿の生成",
-      "食物の消化"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 4,
-    "type": "LINE_MATCHING",
-    "question": "次のスポーツと使用する道具を正しく結びなさい",
-    "leftChoices": [
-      "テニス",
-      "剣道",
-      "野球",
-      "ゴルフ"
-    ],
-    "rightChoices": [
-      "ラケット",
-      "竹刀",
-      "バット",
-      "クラブ"
-    ],
-    "difficulty": "EASY"
-  },
-  {
-    "id": 5,
-    "type": "LINE_MATCHING",
-    "question": "次の言語と主に使用される文字を正しく結びなさい",
-    "leftChoices": [
-      "日本語",
-      "ロシア語",
-      "アラビア語",
-      "韓国語"
-    ],
-    "rightChoices": [
-      "ひらがな",
-      "キリル文字",
-      "アラビア文字",
-      "ハングル"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 6,
-    "type": "LINE_MATCHING",
-    "question": "次の天体と特徴を正しく結びなさい",
-    "leftChoices": [
-      "地球",
-      "火星",
-      "木星",
-      "海王星"
-    ],
-    "rightChoices": [
-      "水が豊富",
-      "赤い惑星",
-      "最大の惑星",
-      "最も外側の惑星"
-    ],
-    "difficulty": "EASY"
-  },
-  {
-    "id": 7,
-    "type": "LINE_MATCHING",
-    "question": "次の発明品と発明者を正しく結びなさい",
-    "leftChoices": [
-      "電話",
-      "蓄音機",
-      "飛行機",
-      "活版印刷"
-    ],
-    "rightChoices": [
-      "ベル",
-      "エジソン",
-      "ライト兄弟",
-      "グーテンベルク"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 8,
-    "type": "LINE_MATCHING",
-    "question": "次の音楽用語と意味を正しく結びなさい",
-    "leftChoices": [
-      "アカペラ",
-      "カノン",
-      "ソナタ",
-      "レクイエム"
-    ],
-    "rightChoices": [
-      "無伴奏の歌",
-      "追いかける旋律",
-      "器楽曲の形式",
-      "死者のためのミサ"
-    ],
-    "difficulty": "HARD"
-  },
-  {
-    "id": 9,
-    "type": "LINE_MATCHING",
-    "question": "次の国と通貨を正しく結びなさい",
-    "leftChoices": [
-      "アメリカ",
-      "イギリス",
-      "韓国",
-      "インド"
-    ],
-    "rightChoices": [
-      "ドル",
-      "ポンド",
-      "ウォン",
-      "ルピー"
-    ],
-    "difficulty": "EASY"
-  },
-  {
-    "id": 10,
-    "type": "LINE_MATCHING",
-    "question": "次の動物と主な生息地を正しく結びなさい",
-    "leftChoices": [
-      "ラクダ",
-      "ホッキョクグマ",
-      "パンダ",
-      "コアラ"
-    ],
-    "rightChoices": [
-      "砂漠",
-      "北極圏",
-      "中国",
-      "オーストラリア"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 11,
-    "type": "LINE_MATCHING",
-    "question": "次の日本の文学作品と作者を正しく結びなさい",
-    "leftChoices": [
-      "坊っちゃん",
-      "走れメロス",
-      "羅生門",
-      "舞姫"
-    ],
-    "rightChoices": [
-      "夏目漱石",
-      "太宰治",
-      "芥川龍之介",
-      "森鴎外"
-    ],
-    "difficulty": "EASY"
-  },
-  {
-    "id": 12,
-    "type": "LINE_MATCHING",
-    "question": "次のゲーム作品と開発元を正しく結びなさい",
-    "leftChoices": [
-      "スプラトゥーン",
-      "原神",
-      "マインクラフト",
-      "星のカービィ"
-    ],
-    "rightChoices": [
-      "任天堂",
-      "HoYoverse",
-      "Mojang",
-      "HAL研究所"
-    ],
-    "difficulty": "EASY"
-  },
-  {
-    "id": 13,
-    "type": "LINE_MATCHING",
-    "question": "次の国と首都を正しく結びなさい",
-    "leftChoices": [
-      "カナダ",
-      "オーストラリア",
-      "ブラジル",
-      "エジプト",
-      "トルコ"
-    ],
-    "rightChoices": [
-      "オタワ",
-      "キャンベラ",
-      "ブラジリア",
-      "カイロ",
-      "アンカラ"
-    ],
-    "difficulty": "EASY"
-  },
-  {
-    "id": 14,
-    "type": "LINE_MATCHING",
-    "question": "次の動物と分類を正しく結びなさい",
-    "leftChoices": [
-      "イルカ",
-      "ペンギン",
-      "カメ",
-      "コウモリ"
-    ],
-    "rightChoices": [
-      "哺乳類",
-      "鳥類",
-      "爬虫類",
-      "翼手類"
-    ],
-    "difficulty": "EASY"
-  },
-  {
-    "id": 15,
-    "type": "LINE_MATCHING",
-    "question": "次の化学式と物質名を正しく結びなさい",
-    "leftChoices": [
-      "H2O",
-      "CO2",
-      "NaCl",
-      "NH3",
-      "CH4"
-    ],
-    "rightChoices": [
-      "水",
-      "二酸化炭素",
-      "塩化ナトリウム",
-      "アンモニア",
-      "メタン"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 16,
-    "type": "LINE_MATCHING",
-    "question": "次の日本の歴史上の人物と関連する出来事を\n正しく結びなさい",
-    "leftChoices": [
-      "聖徳太子",
-      "源頼朝",
-      "足利尊氏",
-      "徳川吉宗"
-    ],
-    "rightChoices": [
-      "十七条の憲法",
-      "鎌倉幕府",
-      "室町幕府",
-      "享保の改革"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 17,
-    "type": "LINE_MATCHING",
-    "question": "次の惑星と特徴を正しく結びなさい",
-    "leftChoices": [
-      "水星",
-      "金星",
-      "木星",
-      "土星",
-      "火星"
-    ],
-    "rightChoices": [
-      "太陽に最も近い",
-      "最も高温",
-      "太陽系最大",
-      "大きな環を持つ",
-      "赤い惑星"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 18,
-    "type": "LINE_MATCHING",
-    "question": "次の数学用語とその説明を正しく結びなさい",
-    "leftChoices": [
-      "素数",
-      "平方数",
-      "約数",
-      "倍数"
-    ],
-    "rightChoices": [
-      "約数が2個",
-      "整数の2乗",
-      "割り切る数",
-      "整数倍の数"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 19,
-    "type": "LINE_MATCHING",
-    "question": "次の『ブルーアーカイブ』のキャラクターと\n所属組織を正しく結びなさい",
-    "leftChoices": [
-      "アル",
-      "ユウカ",
-      "ヒフミ",
-      "ネル",
-      "ハルナ"
-    ],
-    "rightChoices": [
-      "便利屋68",
-      "セミナー",
-      "補習授業部",
-      "C&C",
-      "美食研究会"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 20,
-    "type": "LINE_MATCHING",
-    "question": "次の哲学者と思想・功績を正しく結びなさい",
-    "leftChoices": [
-      "ソクラテス",
-      "プラトン",
-      "アリストテレス",
-      "デカルト",
-      "カント"
-    ],
-    "rightChoices": [
-      "無知の知",
-      "イデア論",
-      "万学の祖",
-      "我思う、ゆえに我あり",
-      "定言命法"
-    ],
-    "difficulty": "HARD"
-  },
-  {
-    "id": 21,
-    "type": "LINE_MATCHING",
-    "question": "ゲーム『ブルーアーカイブ』に登場する\n「便利屋68」のメンバーの名前として\n正しい組み合わせを選びなさい",
-    "leftChoices": [
-      "陸八魔",
-      "鬼方",
-      "浅黄",
-      "伊草"
-    ],
-    "rightChoices": [
-      "アル",
-      "カヨコ",
-      "ムツキ",
-      "ハルカ"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 22,
-    "type": "LINE_MATCHING",
-    "question": "ゲーム『ブルーアーカイブ』に登場する\n「万魔殿」のメンバーの名前として\n正しい組み合わせを選びなさい",
-    "leftChoices": [
-      "羽沼",
-      "棗",
-      "丹花",
-      "京極",
-      "元宮"
-    ],
-    "rightChoices": [
-      "マコト",
-      "イロハ",
-      "イブキ",
-      "サツキ",
-      "チアキ"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 23,
-    "type": "LINE_MATCHING",
-    "question": "ゲーム『ブルーアーカイブ』に登場する\n「アビドス廃校対策委員会」のメンバーの名前として\n正しい組み合わせを選びなさい",
-    "leftChoices": [
-      "小鳥遊",
-      "砂狼",
-      "十六夜",
-      "黒見",
-      "奥空"
-    ],
-    "rightChoices": [
-      "ホシノ",
-      "シロコ",
-      "ノノミ",
-      "セリカ",
-      "アヤネ"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 24,
-    "type": "LINE_MATCHING",
-    "question": "ゲーム『ブルーアーカイブ』に登場する\n「セミナー」のメンバーの名前として\n正しい組み合わせを選びなさい",
-    "leftChoices": [
-      "調月",
-      "早瀬",
-      "生塩",
-      "黒崎"
-    ],
-    "rightChoices": [
-      "リオ",
-      "ユウカ",
-      "ノア",
-      "コユキ"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 25,
-    "type": "LINE_MATCHING",
-    "question": "ゲーム『ブルーアーカイブ』に登場する\n「Cleaning&Clearing」のメンバーの名前として\n正しい組み合わせを選びなさい",
-    "leftChoices": [
-      "美甘",
-      "一之瀬",
-      "角楯",
-      "室笠",
-      "飛鳥馬"
-    ],
-    "rightChoices": [
-      "ネル",
-      "アスナ",
-      "カリン",
-      "アカネ",
-      "トキ"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 26,
-    "type": "LINE_MATCHING",
-    "question": "ゲーム『ブルーアーカイブ』に登場する\n「補習授業部」のメンバーの名前として\n正しい組み合わせを選びなさい",
-    "leftChoices": [
-      "阿慈谷",
-      "白洲",
-      "浦和",
-      "下江"
-    ],
-    "rightChoices": [
-      "ヒフミ",
-      "アズサ",
-      "ハナコ",
-      "コハル"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 27,
-    "type": "LINE_MATCHING",
-    "question": "ゲーム『ブルーアーカイブ』に登場する\n「風紀委員会」のメンバーの名前として\n正しい組み合わせを選びなさい",
-    "leftChoices": [
-      "空崎",
-      "天雨",
-      "銀鏡",
-      "火宮"
-    ],
-    "rightChoices": [
-      "ヒナ",
-      "アコ",
-      "イオリ",
-      "チナツ"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 28,
-    "type": "LINE_MATCHING",
-    "question": "ゲーム『ブルーアーカイブ』に登場する\n「美食研究会」のメンバーの名前として\n正しい組み合わせを選びなさい",
-    "leftChoices": [
-      "黒舘",
-      "獅子堂",
-      "鰐渕",
-      "赤司"
-    ],
-    "rightChoices": [
-      "ハルナ",
-      "イズミ",
-      "アカリ",
-      "ジュンコ"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 29,
-    "type": "LINE_MATCHING",
-    "question": "ゲーム『ブルーアーカイブ』に登場する\n「ティーパーティー」のメンバーの名前として\n正しい組み合わせを選びなさい",
-    "leftChoices": [
-      "桐藤",
-      "聖園",
-      "百合園"
-    ],
-    "rightChoices": [
-      "ナギサ",
-      "ミカ",
-      "セイア"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 30,
-    "type": "LINE_MATCHING",
-    "question": "ゲーム『ブルーアーカイブ』に登場する\n「正義実現委員会」のメンバーの名前として\n正しい組み合わせを選びなさい",
-    "leftChoices": [
-      "剣先",
-      "羽川",
-      "静山",
-      "仲正"
-    ],
-    "rightChoices": [
-      "ツルギ",
-      "ハスミ",
-      "マシロ",
-      "イチカ"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 31,
-    "type": "LINE_MATCHING",
-    "question": "ゲーム『ブルーアーカイブ』に登場する\n「放課後スイーツ部」のメンバーの名前として\n正しい組み合わせを選びなさい",
-    "leftChoices": [
-      "柚鳥",
-      "杏山",
-      "栗村",
-      "伊原木"
-    ],
-    "rightChoices": [
-      "ナツ",
-      "カズサ",
-      "アイリ",
-      "ヨシミ"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 32,
-    "type": "LINE_MATCHING",
-    "question": "次の元素記号と元素名を正しく結びなさい",
-    "leftChoices": [
-      "Li",
-      "Ca",
-      "Cu",
-      "Ag",
-      "Pb"
-    ],
-    "rightChoices": [
-      "リチウム",
-      "カルシウム",
-      "銅",
-      "銀",
-      "鉛"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 33,
-    "type": "LINE_MATCHING",
-    "question": "次の文学作品と作者を正しく結びなさい",
-    "leftChoices": [
-      "注文の多い料理店",
-      "金閣寺",
-      "人間失格",
-      "檸檬"
-    ],
-    "rightChoices": [
-      "宮沢賢治",
-      "三島由紀夫",
-      "太宰治",
-      "梶井基次郎"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 34,
-    "type": "LINE_MATCHING",
-    "question": "次の図形と辺の数を正しく結びなさい",
-    "leftChoices": [
-      "三角形",
-      "四角形",
-      "五角形",
-      "六角形",
-      "八角形"
-    ],
-    "rightChoices": [
-      "3辺",
-      "4辺",
-      "5辺",
-      "6辺",
-      "8辺"
-    ],
-    "difficulty": "EASY"
-  },
-  {
-    "id": 35,
-    "type": "LINE_MATCHING",
-    "question": "次の動物と主な生息地を正しく結びなさい",
-    "leftChoices": [
-      "ラクダ",
-      "コアラ",
-      "パンダ",
-      "ナマケモノ"
-    ],
-    "rightChoices": [
-      "サハラ砂漠",
-      "ユーカリ林",
-      "四川省",
-      "熱帯雨林"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 36,
-    "type": "LINE_MATCHING",
-    "question": "次のゲーム作品と開発会社を正しく結びなさい",
-    "leftChoices": [
-      "ペルソナ5",
-      "ダークソウル",
-      "バイオハザード",
-      "ソニック"
-    ],
-    "rightChoices": [
-      "アトラス",
-      "フロム・ソフトウェア",
-      "カプコン",
-      "セガ"
-    ],
-    "difficulty": "HARD"
-  },
-  {
-    "id": 37,
-    "type": "LINE_MATCHING",
-    "question": "次の楽器と発音方法を正しく結びなさい",
-    "leftChoices": [
-      "バイオリン",
-      "フルート",
-      "トランペット",
-      "ティンパニ"
-    ],
-    "rightChoices": [
-      "弦をこする",
-      "息を吹き込む",
-      "唇を振動させる",
-      "膜を打つ"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 38,
-    "type": "LINE_MATCHING",
-    "question": "次の都道府県と県庁所在地を正しく結びなさい",
-    "leftChoices": [
-      "岩手県",
-      "栃木県",
-      "群馬県",
-      "三重県",
-      "滋賀県"
-    ],
-    "rightChoices": [
-      "盛岡市",
-      "宇都宮市",
-      "前橋市",
-      "津市",
-      "大津市"
-    ],
-    "difficulty": "EASY"
-  },
-  {
-    "id": 39,
-    "type": "LINE_MATCHING",
-    "question": "次の惑星と特徴を正しく結びなさい",
-    "leftChoices": [
-      "水星",
-      "金星",
-      "地球",
-      "木星",
-      "海王星"
-    ],
-    "rightChoices": [
-      "最も太陽に近い",
-      "最も高温",
-      "生命が確認された",
-      "最大の惑星",
-      "最も外側"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 40,
-    "type": "LINE_MATCHING",
-    "question": "次の言語とその特徴を正しく結びなさい",
-    "leftChoices": [
-      "Python",
-      "JavaScript",
-      "SQL",
-      "HTML"
-    ],
-    "rightChoices": [
-      "機械学習",
-      "Webの動作",
-      "データ検索",
-      "文書の構造"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 41,
-    "type": "LINE_MATCHING",
-    "question": "次の文学用語と意味を正しく結びなさい",
-    "leftChoices": [
-      "比喩",
-      "擬人法",
-      "倒置法",
-      "反復法"
-    ],
-    "rightChoices": [
-      "たとえ",
-      "人間のように表現",
-      "語順を逆にする",
-      "同じ語句を繰り返す"
-    ],
-    "difficulty": "HARD"
-  },
-  {
-    "id": 42,
-    "type": "LINE_MATCHING",
-    "question": "次の世界遺産と所在地を正しく結びなさい",
-    "leftChoices": [
-      "アンコールワット",
-      "マチュピチュ",
-      "アクロポリス",
-      "モアイ像"
-    ],
-    "rightChoices": [
-      "カンボジア",
-      "ペルー",
-      "ギリシャ",
-      "イースター島"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 43,
-    "type": "LINE_MATCHING",
-    "question": "次のスポーツの日本語と英語を正しく結びなさい",
-    "leftChoices": [
-      "卓球",
-      "蹴球",
-      "野球",
-      "庭球"
-    ],
-    "rightChoices": [
-      "ピンポン",
-      "サッカー",
-      "ベースボール",
-      "テニス"
-    ],
-    "difficulty": "EASY"
-  },
-  {
-    "id": 44,
-    "type": "LINE_MATCHING",
-    "question": "次の日本の郷土料理と発祥地を正しく結びなさい",
-    "leftChoices": [
-      "きりたんぽ",
-      "ほうとう",
-      "讃岐うどん",
-      "明石焼き"
-    ],
-    "rightChoices": [
-      "秋田県",
-      "山梨県",
-      "香川県",
-      "兵庫県"
-    ],
-    "difficulty": "EASY"
-  },
-  {
-    "id": 45,
-    "type": "LINE_MATCHING",
-    "question": "次の機器の名前の「コン」の部分は何の略であるか、\n正しい組み合わせを選びなさい",
-    "leftChoices": [
-      "エアコン",
-      "パソコン",
-      "リモコン"
-    ],
-    "rightChoices": [
-      "コンディショナー",
-      "コンピューター",
-      "コントローラー"
-    ],
-    "difficulty": "EASY"
-  },
-  {
-    "id": 46,
-    "type": "LINE_MATCHING",
-    "question": "次の化学物質と化学式を対応させなさい",
-    "leftChoices": [
-      "アンモニア",
-      "メタン",
-      "オゾン",
-      "硫化水素"
-    ],
-    "rightChoices": [
-      "NH3",
-      "CH4",
-      "O3",
-      "H2S"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 47,
-    "type": "LINE_MATCHING",
-    "question": "次の元素記号と元素名を対応させなさい",
-    "leftChoices": [
-      "Sn",
-      "Hg",
-      "W",
-      "Sb"
-    ],
-    "rightChoices": [
-      "スズ",
-      "水銀",
-      "タングステン",
-      "アンチモン"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 48,
-    "type": "LINE_MATCHING",
-    "question": "次の物理学者と関連する法則を対応させなさい",
-    "leftChoices": [
-      "ボイル",
-      "フック",
-      "オーム",
-      "クーロン"
-    ],
-    "rightChoices": [
-      "気体の圧力と体積",
-      "弾性の法則",
-      "電気抵抗の法則",
-      "静電気力の法則"
-    ],
-    "difficulty": "HARD"
-  },
-  {
-    "id": 49,
-    "type": "LINE_MATCHING",
-    "question": "次の日本の山と標高を対応させなさい",
-    "leftChoices": [
-      "富士山",
-      "北岳",
-      "奥穂高岳",
-      "槍ヶ岳"
-    ],
-    "rightChoices": [
-      "3776m",
-      "3193m",
-      "3190m",
-      "3180m"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 50,
-    "type": "LINE_MATCHING",
-    "question": "次の単位と物理量を対応させなさい",
-    "leftChoices": [
-      "パスカル",
-      "ジュール",
-      "テスラ",
-      "ワット"
-    ],
-    "rightChoices": [
-      "圧力",
-      "エネルギー",
-      "磁束密度",
-      "仕事率"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 51,
-    "type": "LINE_MATCHING",
-    "question": "次の科学者と専門分野を対応させなさい",
-    "leftChoices": [
-      "メンデル",
-      "パスツール",
-      "ファラデー",
-      "ラボアジエ"
-    ],
-    "rightChoices": [
-      "遺伝の法則",
-      "微生物学",
-      "電磁誘導",
-      "質量保存の法則"
-    ],
-    "difficulty": "HARD"
-  },
-  {
-    "id": 52,
-    "type": "LINE_MATCHING",
-    "question": "次の命名規則の通称とその表記方法の\n正しい組み合わせを選びなさい",
-    "leftChoices": [
-      "キャメルケース",
-      "スネークケース",
-      "ケバブケース",
-      "ドットケース"
-    ],
-    "rightChoices": [
-      "javaQuizGame",
-      "java_quiz_game",
-      "java-quiz-game",
-      "java.quiz.game"
-    ],
-    "difficulty": "HARD"
-  },
-  {
-    "id": 53,
-    "type": "LINE_MATCHING",
-    "question": "回文になるように正しい組み合わせを選びなさい",
-    "leftChoices": [
-      "色",
-      "歌",
-      "よく"
-    ],
-    "rightChoices": [
-      "白い",
-      "うたう",
-      "いくよ"
-    ],
-    "difficulty": "EASY"
-  },
-  {
-    "id": 54,
-    "type": "LINE_MATCHING",
-    "question": "回文になるように正しい組み合わせを選びなさい",
-    "leftChoices": [
-      "遠い",
-      "柿の",
-      "猫の",
-      "黄色い"
-    ],
-    "rightChoices": [
-      "音",
-      "木か",
-      "子ね",
-      "木"
-    ],
-    "difficulty": "EASY"
-  },
-  {
-    "id": 55,
-    "type": "LINE_MATCHING",
-    "question": "回文になるように正しい組み合わせを選びなさい",
-    "leftChoices": [
-      "夜",
-      "靴に",
-      "多分",
-      "和紙の",
-      "縄の"
-    ],
-    "rightChoices": [
-      "来るよ",
-      "付く",
-      "ブタ",
-      "皺",
-      "罠"
-    ],
-    "difficulty": "EASY"
-  },
-  {
-    "id": 56,
-    "type": "LINE_MATCHING",
-    "question": "回文になるように正しい組み合わせを選びなさい",
-    "leftChoices": [
-      "猿に",
-      "軽い",
-      "池と"
-    ],
-    "rightChoices": [
-      "似るさ",
-      "イルカ",
-      "時計"
-    ],
-    "difficulty": "EASY"
-  },
-  {
-    "id": 57,
-    "type": "LINE_MATCHING",
-    "question": "回文になるように正しい組み合わせを選びなさい",
-    "leftChoices": [
-      "竹やぶ",
-      "ダンスが",
-      "飛び込む",
-      "夏まで"
-    ],
-    "rightChoices": [
-      "焼けた",
-      "済んだ",
-      "小人",
-      "待つな"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 58,
-    "type": "LINE_MATCHING",
-    "question": "回文になるように正しい組み合わせを選びなさい",
-    "leftChoices": [
-      "意外や",
-      "バリウム",
-      "確かに",
-      "西が",
-      "イカ"
-    ],
-    "rightChoices": [
-      "意外",
-      "売り場",
-      "貸した",
-      "東に",
-      "食べたかい？"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 59,
-    "type": "LINE_MATCHING",
-    "question": "回文になるように正しい組み合わせを選びなさい",
-    "leftChoices": [
-      "たまに",
-      "右手",
-      "留守に",
-      "まさか"
-    ],
-    "rightChoices": [
-      "ガニ股",
-      "バテ気味",
-      "何する？",
-      "逆さま"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 60,
-    "type": "LINE_MATCHING",
-    "question": "回文になるように正しい組み合わせを選びなさい",
-    "leftChoices": [
-      "年末",
-      "かっこいい",
-      "夜にんじん"
-    ],
-    "rightChoices": [
-      "つまんね",
-      "国家",
-      "煮るよ"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 61,
-    "type": "LINE_MATCHING",
-    "question": "回文になるように正しい組み合わせを選びなさい",
-    "leftChoices": [
-      "私",
-      "関係ない",
-      "虫鳴かず",
-      "爺さん"
-    ],
-    "rightChoices": [
-      "負けましたわ",
-      "喧嘩",
-      "悲しむ",
-      "天才児"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 62,
-    "type": "LINE_MATCHING",
-    "question": "回文になるように正しい組み合わせを選びなさい",
-    "leftChoices": [
-      "竹屋が",
-      "農家も",
-      "見事な"
-    ],
-    "rightChoices": [
-      "焼けた",
-      "芋買うの？",
-      "花とゴミ"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 63,
-    "type": "LINE_MATCHING",
-    "question": "回文になるように正しい組み合わせを選びなさい",
-    "leftChoices": [
-      "昼飯の",
-      "私タワシ",
-      "菓子与え"
-    ],
-    "rightChoices": [
-      "楽しめる日",
-      "渡したわ",
-      "肥えたアシカ"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 64,
-    "type": "LINE_MATCHING",
-    "question": "回文になるように正しい組み合わせを選びなさい",
-    "leftChoices": [
-      "ニワトリと",
-      "いぶし銀",
-      "イカ、確かに",
-      "ママが私に"
-    ],
-    "rightChoices": [
-      "小鳥とワニ",
-      "演技渋い",
-      "渡したかい？",
-      "したわがまま"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 65,
-    "type": "LINE_MATCHING",
-    "question": "回文になるように正しい組み合わせを選びなさい",
-    "leftChoices": [
-      "筋肉ボディで",
-      "イカのダンスは",
-      "私キツネ、",
-      "イタリアでも"
-    ],
-    "rightChoices": [
-      "僕人気",
-      "済んだのかい？",
-      "鐘つきしたわ",
-      "友でありたい"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 66,
-    "type": "LINE_MATCHING",
-    "question": "回文になるように正しい組み合わせを選びなさい",
-    "leftChoices": [
-      "ズラとバレても",
-      "田舎な神奈川にも",
-      "夜鳴くなよ柴犬",
-      "松茸摘みに来て"
-    ],
-    "rightChoices": [
-      "モテれば取らず",
-      "庭がなかなか無い",
-      "居場所無くなるよ",
-      "奇跡的に見つけた妻"
-    ],
-    "difficulty": "HARD"
-  }
+	{
+		"id": 1,
+		"type": "LINE_MATCHING",
+		"question": "次の惑星とその特徴を正しく結びなさい",
+		"leftChoices": [
+			"水星",
+			"金星",
+			"火星",
+			"木星",
+			"土星"
+		],
+		"rightChoices": [
+			"太陽に最も近い",
+			"表面温度が最も高い",
+			"オリンポス山がある",
+			"大赤斑がある",
+			"環が特に目立つ"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"id": 2,
+		"type": "LINE_MATCHING",
+		"question": "次の元素とその原子番号を正しく結びなさい",
+		"leftChoices": [
+			"水素",
+			"ヘリウム",
+			"炭素",
+			"酸素",
+			"ネオン"
+		],
+		"rightChoices": [
+			"1",
+			"2",
+			"6",
+			"8",
+			"10"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"id": 3,
+		"type": "LINE_MATCHING",
+		"question": "次の数学記号とその意味を正しく結びなさい",
+		"leftChoices": [
+			"π",
+			"Σ",
+			"∞",
+			"∫",
+			"√"
+		],
+		"rightChoices": [
+			"円周率",
+			"総和",
+			"無限大",
+			"積分",
+			"平方根"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"id": 4,
+		"type": "LINE_MATCHING",
+		"question": "次の生物とその分類を正しく結びなさい",
+		"leftChoices": [
+			"クジラ",
+			"ペンギン",
+			"カエル",
+			"トカゲ",
+			"サメ"
+		],
+		"rightChoices": [
+			"哺乳類",
+			"鳥類",
+			"両生類",
+			"爬虫類",
+			"魚類"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"id": 5,
+		"type": "LINE_MATCHING",
+		"question": "次の物質とその化学式を正しく結びなさい",
+		"leftChoices": [
+			"水",
+			"二酸化炭素",
+			"アンモニア",
+			"メタン",
+			"塩化ナトリウム"
+		],
+		"rightChoices": [
+			"H2O",
+			"CO2",
+			"NH3",
+			"CH4",
+			"NaCl"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"id": 6,
+		"type": "LINE_MATCHING",
+		"question": "次のコンピュータ用語とその意味を正しく結びなさい",
+		"leftChoices": [
+			"CPU",
+			"RAM",
+			"SSD",
+			"GPU",
+			"OS"
+		],
+		"rightChoices": [
+			"中央処理装置",
+			"主記憶装置",
+			"半導体記憶装置",
+			"画像処理装置",
+			"基本ソフト"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"id": 7,
+		"type": "LINE_MATCHING",
+		"question": "次の科学者と代表的な業績を正しく結びなさい",
+		"leftChoices": [
+			"ニュートン",
+			"メンデル",
+			"ダーウィン",
+			"ラザフォード",
+			"フレミング"
+		],
+		"rightChoices": [
+			"万有引力の法則",
+			"遺伝の法則",
+			"自然選択説",
+			"原子核の発見",
+			"ペニシリンの発見"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 8,
+		"type": "LINE_MATCHING",
+		"question": "次の電磁波とその主な用途を正しく結びなさい",
+		"leftChoices": [
+			"電波",
+			"赤外線",
+			"可視光線",
+			"紫外線",
+			"X線"
+		],
+		"rightChoices": [
+			"無線通信",
+			"サーモグラフィ",
+			"人間の視覚",
+			"殺菌灯",
+			"レントゲン撮影"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 9,
+		"type": "LINE_MATCHING",
+		"question": "次の地質時代と代表的な出来事を正しく結びなさい",
+		"leftChoices": [
+			"カンブリア紀",
+			"デボン紀",
+			"石炭紀",
+			"ジュラ紀",
+			"白亜紀"
+		],
+		"rightChoices": [
+			"生物の急速な多様化",
+			"魚類の繁栄",
+			"巨大な森林の発達",
+			"大型恐竜の繁栄",
+			"恐竜の大量絶滅"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 10,
+		"type": "LINE_MATCHING",
+		"question": "次のホルモンと主な働きを正しく結びなさい",
+		"leftChoices": [
+			"インスリン",
+			"グルカゴン",
+			"アドレナリン",
+			"メラトニン",
+			"オキシトシン"
+		],
+		"rightChoices": [
+			"血糖値を下げる",
+			"血糖値を上げる",
+			"心拍数を増やす",
+			"睡眠リズムの調節",
+			"子宮収縮を促進"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 11,
+		"type": "LINE_MATCHING",
+		"question": "次の数学用語とその説明を正しく結びなさい",
+		"leftChoices": [
+			"階乗",
+			"順列",
+			"組合せ",
+			"中央値",
+			"最頻値"
+		],
+		"rightChoices": [
+			"連続する整数の積",
+			"順序を考慮した選択",
+			"順序を考慮しない選択",
+			"中央に位置する値",
+			"最も頻繁に現れる値"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 12,
+		"type": "LINE_MATCHING",
+		"question": "次の化学反応とその特徴を正しく結びなさい",
+		"leftChoices": [
+			"中和反応",
+			"酸化反応",
+			"還元反応",
+			"加水分解",
+			"縮合反応"
+		],
+		"rightChoices": [
+			"酸と塩基が反応",
+			"電子を失う",
+			"電子を受け取る",
+			"水が反応に関与",
+			"小分子を脱離"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 13,
+		"type": "LINE_MATCHING",
+		"question": "次の天体とその分類を正しく結びなさい",
+		"leftChoices": [
+			"シリウス",
+			"ベテルギウス",
+			"プロキシマ",
+			"アルデバラン",
+			"リゲル"
+		],
+		"rightChoices": [
+			"A型主系列星",
+			"赤色超巨星",
+			"赤色矮星",
+			"赤色巨星",
+			"青色超巨星"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 14,
+		"type": "LINE_MATCHING",
+		"question": "次の情報科学の用語と説明を正しく結びなさい",
+		"leftChoices": [
+			"コンパイラ",
+			"インタプリタ",
+			"デバッガ",
+			"アセンブラ",
+			"リンカ"
+		],
+		"rightChoices": [
+			"ソースコードを翻訳",
+			"逐次解釈して実行",
+			"プログラムの不具合調査",
+			"機械語への変換",
+			"オブジェクトを結合"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 15,
+		"type": "LINE_MATCHING",
+		"question": "次の物理現象とその説明を正しく結びなさい",
+		"leftChoices": [
+			"ドップラー効果",
+			"光電効果",
+			"コンプトン効果",
+			"ゼーマン効果",
+			"ラマン効果"
+		],
+		"rightChoices": [
+			"相対運動で周波数変化",
+			"光による電子放出",
+			"光子の非弾性散乱",
+			"磁場によるスペクトル分裂",
+			"光の非弾性散乱"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"id": 16,
+		"type": "LINE_MATCHING",
+		"question": "次の数学の定理とその内容を正しく結びなさい",
+		"leftChoices": [
+			"フェルマーの小定理",
+			"オイラーの定理",
+			"ベイズの定理",
+			"ロルの定理",
+			"ストークスの定理"
+		],
+		"rightChoices": [
+			"素数と合同式",
+			"互いに素な整数と合同式",
+			"条件付き確率",
+			"導関数が0となる点",
+			"面積分と線積分"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"id": 17,
+		"type": "LINE_MATCHING",
+		"question": "次の生化学用語とその説明を正しく結びなさい",
+		"leftChoices": [
+			"解糖系",
+			"クエン酸回路",
+			"電子伝達系",
+			"尿素回路",
+			"ペントースリン酸経路"
+		],
+		"rightChoices": [
+			"グルコースを分解",
+			"アセチルCoAを酸化",
+			"電子移動とプロトン輸送",
+			"アンモニアを無毒化",
+			"NADPHを生成"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"id": 18,
+		"type": "LINE_MATCHING",
+		"question": "次の結晶構造とその特徴を正しく結びなさい",
+		"leftChoices": [
+			"単純立方格子",
+			"体心立方格子",
+			"面心立方格子",
+			"六方最密構造"
+		],
+		"rightChoices": [
+			"配位数6",
+			"配位数8",
+			"配位数12・立方晶",
+			"配位数12・六方晶"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"id": 19,
+		"type": "LINE_MATCHING",
+		"question": "次の統計学用語とその説明を正しく結びなさい",
+		"leftChoices": [
+			"分散",
+			"標準偏差",
+			"共分散",
+			"相関係数",
+			"歪度"
+		],
+		"rightChoices": [
+			"偏差の二乗の平均",
+			"分散の平方根",
+			"2変数の偏差の積の平均",
+			"線形関係の強さ",
+			"分布の非対称性"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"id": 20,
+		"type": "LINE_MATCHING",
+		"question": "次の量子力学の用語とその説明を正しく結びなさい",
+		"leftChoices": [
+			"波動関数",
+			"固有状態",
+			"重ね合わせ",
+			"量子もつれ",
+			"トンネル効果"
+		],
+		"rightChoices": [
+			"量子状態を表す関数",
+			"測定値が確定した状態",
+			"複数の状態の線形結合",
+			"分離できない複合状態",
+			"障壁を透過する現象"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"id": 21,
+		"type": "LINE_MATCHING",
+		"question": "次の温度と水の状態を正しく結びなさい（1気圧）",
+		"leftChoices": [
+			"-20℃",
+			"0℃",
+			"25℃",
+			"100℃"
+		],
+		"rightChoices": [
+			"氷",
+			"氷と水が共存可能",
+			"液体の水",
+			"水と水蒸気が共存可能"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"id": 22,
+		"type": "LINE_MATCHING",
+		"question": "次の数とその性質を正しく結びなさい",
+		"leftChoices": [
+			"2",
+			"9",
+			"16",
+			"27",
+			"31"
+		],
+		"rightChoices": [
+			"唯一の偶数の素数",
+			"3の平方",
+			"4の平方",
+			"3の立方",
+			"5番目の2桁の素数"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"id": 23,
+		"type": "LINE_MATCHING",
+		"question": "次の気象用語とその説明を正しく結びなさい",
+		"leftChoices": [
+			"台風",
+			"前線",
+			"高気圧",
+			"低気圧",
+			"湿度"
+		],
+		"rightChoices": [
+			"熱帯低気圧の一種",
+			"異なる気団の境界",
+			"周囲より気圧が高い",
+			"周囲より気圧が低い",
+			"空気中の水蒸気の指標"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"id": 24,
+		"type": "LINE_MATCHING",
+		"question": "次の栄養素と主な役割を正しく結びなさい",
+		"leftChoices": [
+			"炭水化物",
+			"脂質",
+			"タンパク質",
+			"ビタミン",
+			"ミネラル"
+		],
+		"rightChoices": [
+			"主要なエネルギー源",
+			"細胞膜の構成成分",
+			"筋肉などの材料",
+			"代謝の調節を補助",
+			"骨や歯の形成に関与"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"id": 25,
+		"type": "LINE_MATCHING",
+		"question": "次の数の接頭語とその倍率を正しく結びなさい",
+		"leftChoices": [
+			"キロ",
+			"メガ",
+			"ギガ",
+			"ミリ",
+			"マイクロ"
+		],
+		"rightChoices": [
+			"10の3乗",
+			"10の6乗",
+			"10の9乗",
+			"10の-3乗",
+			"10の-6乗"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"id": 26,
+		"type": "LINE_MATCHING",
+		"question": "次の生物学用語とその説明を正しく結びなさい",
+		"leftChoices": [
+			"DNA",
+			"RNA",
+			"遺伝子",
+			"染色体",
+			"ゲノム"
+		],
+		"rightChoices": [
+			"二重らせん構造",
+			"通常は一本鎖",
+			"遺伝情報の機能単位",
+			"DNAとタンパク質等",
+			"一組の遺伝情報全体"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"id": 27,
+		"type": "LINE_MATCHING",
+		"question": "次の数学の関数とその特徴を正しく結びなさい",
+		"leftChoices": [
+			"一次関数",
+			"二次関数",
+			"指数関数",
+			"対数関数",
+			"三角関数"
+		],
+		"rightChoices": [
+			"グラフは直線",
+			"グラフは放物線",
+			"変数が指数に現れる",
+			"指数関数の逆関数",
+			"周期性を持つものがある"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 28,
+		"type": "LINE_MATCHING",
+		"question": "次の化学物質とその主な用途を正しく結びなさい",
+		"leftChoices": [
+			"硫酸",
+			"硝酸",
+			"水酸化ナトリウム",
+			"炭酸カルシウム",
+			"過酸化水素"
+		],
+		"rightChoices": [
+			"鉛蓄電池の電解液",
+			"硝酸塩肥料の製造",
+			"石けんの製造",
+			"セメントの原料",
+			"漂白剤の成分"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 29,
+		"type": "LINE_MATCHING",
+		"question": "次の岩石とその分類を正しく結びなさい",
+		"leftChoices": [
+			"花崗岩",
+			"玄武岩",
+			"砂岩",
+			"石灰岩",
+			"大理石"
+		],
+		"rightChoices": [
+			"深成岩",
+			"火山岩",
+			"砕屑性堆積岩",
+			"炭酸塩岩",
+			"変成岩"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 30,
+		"type": "LINE_MATCHING",
+		"question": "次のアルゴリズムとその特徴を正しく結びなさい",
+		"leftChoices": [
+			"バブルソート",
+			"選択ソート",
+			"挿入ソート",
+			"マージソート",
+			"クイックソート"
+		],
+		"rightChoices": [
+			"隣接要素を交換",
+			"最小値を順次選択",
+			"適切な位置へ挿入",
+			"分割後に併合",
+			"基準値で分割"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 31,
+		"type": "LINE_MATCHING",
+		"question": "次の光学現象とその説明を正しく結びなさい",
+		"leftChoices": [
+			"反射",
+			"屈折",
+			"回折",
+			"干渉",
+			"偏光"
+		],
+		"rightChoices": [
+			"境界面で光が戻る",
+			"媒質の境界で進路変化",
+			"障害物の背後へ回り込む",
+			"波の重ね合わせ",
+			"振動方向の偏り"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 32,
+		"type": "LINE_MATCHING",
+		"question": "次の免疫細胞とその働きを正しく結びなさい",
+		"leftChoices": [
+			"B細胞",
+			"ヘルパーT細胞",
+			"キラーT細胞",
+			"好中球",
+			"樹状細胞"
+		],
+		"rightChoices": [
+			"抗体産生細胞に分化",
+			"免疫応答を調節",
+			"感染細胞を攻撃",
+			"細菌などを貪食",
+			"抗原提示を行う"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 33,
+		"type": "LINE_MATCHING",
+		"question": "次の熱力学用語とその説明を正しく結びなさい",
+		"leftChoices": [
+			"内部エネルギー",
+			"エンタルピー",
+			"エントロピー",
+			"自由エネルギー",
+			"熱容量"
+		],
+		"rightChoices": [
+			"系の内部に蓄えたエネルギー",
+			"内部エネルギーとpVの和",
+			"状態数と関係する量",
+			"仕事の可能性を示す量",
+			"温度上昇に必要な熱量"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 34,
+		"type": "LINE_MATCHING",
+		"question": "次の神経系の構造とその役割を正しく結びなさい",
+		"leftChoices": [
+			"大脳",
+			"小脳",
+			"延髄",
+			"脊髄",
+			"視床下部"
+		],
+		"rightChoices": [
+			"思考や記憶",
+			"運動の協調",
+			"呼吸の調節",
+			"反射の中枢",
+			"体温の調節"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"id": 35,
+		"type": "LINE_MATCHING",
+		"question": "次の数学の概念とその説明を正しく結びなさい",
+		"leftChoices": [
+			"全単射",
+			"単射",
+			"全射",
+			"逆写像",
+			"恒等写像"
+		],
+		"rightChoices": [
+			"一対一かつ上への写像",
+			"異なる入力は異なる出力",
+			"終域の全要素に到達",
+			"対応を逆向きにする",
+			"各要素を自分自身へ"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"id": 36,
+		"type": "LINE_MATCHING",
+		"question": "次の有機化学反応とその特徴を正しく結びなさい",
+		"leftChoices": [
+			"SN1反応",
+			"SN2反応",
+			"E1反応",
+			"E2反応"
+		],
+		"rightChoices": [
+			"カルボカチオン経由の置換",
+			"一段階の求核置換",
+			"二段階の脱離",
+			"一段階の脱離"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"id": 37,
+		"type": "LINE_MATCHING",
+		"question": "次の素粒子とその電荷を正しく結びなさい",
+		"leftChoices": [
+			"電子",
+			"陽電子",
+			"アップクォーク",
+			"ダウンクォーク",
+			"ニュートリノ"
+		],
+		"rightChoices": [
+			"-1",
+			"+1",
+			"+2/3",
+			"-1/3",
+			"0"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"id": 38,
+		"type": "LINE_MATCHING",
+		"question": "次の分子生物学の技術とその目的を正しく結びなさい",
+		"leftChoices": [
+			"PCR",
+			"電気泳動",
+			"ELISA",
+			"FISH",
+			"フローサイトメトリー"
+		],
+		"rightChoices": [
+			"DNAの増幅",
+			"分子の分離",
+			"抗原や抗体の検出",
+			"核酸配列の位置検出",
+			"細胞集団の特性解析"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"id": 39,
+		"type": "LINE_MATCHING",
+		"question": "次の電磁気学の法則とその内容を正しく結びなさい",
+		"leftChoices": [
+			"ガウスの法則",
+			"ファラデーの法則",
+			"アンペールの法則",
+			"レンツの法則",
+			"ビオ・サバールの法則"
+		],
+		"rightChoices": [
+			"電束と電荷の関係",
+			"磁束変化と誘導起電力",
+			"電流と磁場の循環",
+			"誘導電流の向き",
+			"電流が作る磁場"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"id": 40,
+		"type": "LINE_MATCHING",
+		"question": "次の計算量クラスとその特徴を正しく結びなさい",
+		"leftChoices": [
+			"P",
+			"NP",
+			"NP完全",
+			"NP困難",
+			"PSPACE"
+		],
+		"rightChoices": [
+			"多項式時間で解ける",
+			"解を多項式時間で検証",
+			"NPかつNP困難",
+			"NPの全問題から帰着可能",
+			"多項式空間で解ける"
+		],
+		"difficulty": "HARD"
+	}
 ]
