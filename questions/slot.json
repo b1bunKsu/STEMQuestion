@@ -2,114 +2,6 @@
   {
     "id": 1,
     "type": "SLOT",
-    "question": "漫画『ドラゴンボール』で亀仙人が編み出した\n両手から気を放つ技は？",
-    "choices": [
-      "かめはめ波",
-      "さえさん砲",
-      "あてたけ動",
-      "なんらお気"
-    ],
-    "difficulty": "EASY"
-  },
-  {
-    "id": 2,
-    "type": "SLOT",
-    "question": "陸軍大将や参議として、\n全国の藩を廃して中央集権体制を作る\n「廃藩置県」などの近代化改革を推進した\n人物は？",
-    "choices": [
-      "西郷隆盛",
-      "坂本龍馬",
-      "織田信長",
-      "豊臣秀吉"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 3,
-    "type": "SLOT",
-    "question": "江戸幕府を倒して新しい\n明治政府を作るための決定的な\nきっかけを作った人物は？",
-    "choices": [
-      "坂本龍馬",
-      "西郷隆盛",
-      "織田信長",
-      "豊臣秀吉"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 4,
-    "type": "SLOT",
-    "question": "戦国時代から安土桃山時代にかけて、\n城下町の経済を盛り上げるために\n楽市楽座を行ったのは？",
-    "choices": [
-      "織田信長",
-      "西郷隆盛",
-      "坂本龍馬",
-      "豊臣秀吉"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 5,
-    "type": "SLOT",
-    "question": "戦国時代から安土桃山時代にかけて\n農民の身分から日本の天下人にまで上り詰めた\n戦国武将は？",
-    "choices": [
-      "豊臣秀吉",
-      "西郷隆盛",
-      "坂本龍馬",
-      "織田信長"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 6,
-    "type": "SLOT",
-    "question": "旧ソ連の科学者、\nアレクセイ・パジトノフが考案した\n７種類のブロックを組み合わせて遊ぶ\n落ち物パズルゲームは？",
-    "choices": [
-      "テトリス",
-      "ドクター",
-      "パネルク",
-      "ボンバデ"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 7,
-    "type": "SLOT",
-    "question": "リモコン型やヌンチャク型の\nコントローラで操作する\n任天堂のゲーム機は？",
-    "choices": [
-      "Wii",
-      "3DS",
-      "2aX",
-      "SwC"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 8,
-    "type": "SLOT",
-    "question": "アニメ『ドラえもん』で\n体に取りつけて空を飛べるようにする\nひみつ道具は？",
-    "choices": [
-      "タケコプター",
-      "ハリセンボン",
-      "ヘラトカミル",
-      "アムミリスカ"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 9,
-    "type": "SLOT",
-    "question": "2003年に結成された、\n近藤春菜と箕輪はるかによる\nお笑いコンビは？",
-    "choices": [
-      "ハリセンボン",
-      "タケコプター",
-      "ヘラトカミル",
-      "アムミリスカ"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 10,
-    "type": "SLOT",
     "question": "日本において一桁同士のかけ算を\n暗記するために用いる一般的な方法は？",
     "choices": [
       "九九",
@@ -120,7 +12,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 11,
+    "id": 2,
     "type": "SLOT",
     "question": "リレーショナルデータベースを\n操作するためのデータベース言語を\n一般に何という？",
     "choices": [
@@ -132,7 +24,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 12,
+    "id": 3,
     "type": "SLOT",
     "question": "Amazonが提供する\nクラウドコンピューティングサービスの\n通称は？",
     "choices": [
@@ -144,7 +36,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 13,
+    "id": 4,
     "type": "SLOT",
     "question": "Webページの見た目やレイアウトを\n装飾・デザインするための\nスタイルシート言語といえば？",
     "choices": [
@@ -156,7 +48,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 14,
+    "id": 5,
     "type": "SLOT",
     "question": "ソフトウェアの構造や動きを\n視覚的に表現するための国際標準の\nモデリング言語を何という？",
     "choices": [
@@ -168,7 +60,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 15,
+    "id": 6,
     "type": "SLOT",
     "question": "情報セキュリティーの3要素のうちの1つで、\n「許可された人だけが情報にアクセスできる性質」を\n「〇〇性」という？",
     "choices": [
@@ -180,7 +72,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 16,
+    "id": 7,
     "type": "SLOT",
     "question": "情報セキュリティーの3要素のうちの1つで、\n「情報が改ざんされず、\n正しい状態で保たれている性質」を\n「〇〇性」という？",
     "choices": [
@@ -192,7 +84,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 17,
+    "id": 8,
     "type": "SLOT",
     "question": "情報セキュリティーの3要素のうちの1つで、\n「利用者が必要な時に\n情報へアクセスできる性質」を\n「〇〇性」という？",
     "choices": [
@@ -204,7 +96,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 18,
+    "id": 9,
     "type": "SLOT",
     "question": "認証の3要素のうちの1つで、\nICカードなど「本人だけが持っている情報」を\n「〇〇情報」という？",
     "choices": [
@@ -216,7 +108,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 19,
+    "id": 10,
     "type": "SLOT",
     "question": "認証の3要素のうちの1つで、\nパスワードなど「本人だけが知っている情報」を\n「〇〇情報」という？",
     "choices": [
@@ -228,7 +120,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 20,
+    "id": 11,
     "type": "SLOT",
     "question": "認証の3要素のうちの1つで、\n指紋など「本人だけの身体的特徴」を\n「〇〇情報」という？",
     "choices": [
@@ -240,7 +132,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 21,
+    "id": 12,
     "type": "SLOT",
     "question": "英語で「sine」と呼ばれる三角関数といえば何？",
     "choices": [
@@ -252,7 +144,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 22,
+    "id": 13,
     "type": "SLOT",
     "question": "英語で「cosine」と呼ばれる三角関数といえば何？",
     "choices": [
@@ -264,7 +156,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 23,
+    "id": 14,
     "type": "SLOT",
     "question": "英語で「tangent」と呼ばれる三角関数といえば何？",
     "choices": [
@@ -276,67 +168,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 24,
-    "type": "SLOT",
-    "question": "日本で最も長い川は「〇〇川」？",
-    "choices": [
-      "信濃",
-      "利根",
-      "石狩",
-      "天竜"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 25,
-    "type": "SLOT",
-    "question": "日本で最も高い山は「◯◯山」？",
-    "choices": [
-      "富士",
-      "阿蘇",
-      "筑波",
-      "北岳"
-    ],
-    "difficulty": "EASY"
-  },
-  {
-    "id": 26,
-    "type": "SLOT",
-    "question": "日本の伝統的な麺料理で、\nそば粉を主な原料とするものは？",
-    "choices": [
-      "蕎麦",
-      "饂飩",
-      "素麺",
-      "冷食"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 27,
-    "type": "SLOT",
-    "question": "日本の国技として知られ、\n土俵の上で力士が戦う競技は？",
-    "choices": [
-      "相撲",
-      "柔道",
-      "剣士",
-      "空手"
-    ],
-    "difficulty": "EASY"
-  },
-  {
-    "id": 28,
-    "type": "SLOT",
-    "question": "ジャムおじさんが心をこめて作ったあんパンに\n「いのちのほし」が宿って生まれた、\n顔があんパンでできているヒーローといえば？",
-    "choices": [
-      "アンパンマン",
-      "ショクパソマ",
-      "カレーカトリ",
-      "バイキリカゼ"
-    ],
-    "difficulty": "EASY"
-  },
-  {
-    "id": 29,
+    "id": 15,
     "type": "SLOT",
     "question": "血液中で酸素を運ぶ役割を持つ赤い色素は？",
     "choices": [
@@ -348,19 +180,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 30,
-    "type": "SLOT",
-    "question": "多くの楽器奏者が集まり、\n指揮者のもとで演奏する大規模な合奏団は？",
-    "choices": [
-      "オーケストラ",
-      "カラミネソフ",
-      "ツメホワキヌ",
-      "サユトコハリ"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 31,
+    "id": 16,
     "type": "SLOT",
     "question": "四角形の内角の和は何度？",
     "choices": [
@@ -372,7 +192,7 @@
     "difficulty": "EASY"
   },
   {
-    "id": 32,
+    "id": 17,
     "type": "SLOT",
     "question": "振動数や周波数の単位は？",
     "choices": [
@@ -384,7 +204,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 33,
+    "id": 18,
     "type": "SLOT",
     "question": "mRNAにおいて、メチオニンを指定するコドンは何？",
     "choices": [
