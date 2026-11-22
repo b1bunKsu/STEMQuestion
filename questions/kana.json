@@ -2,92 +2,71 @@
   {
     "id": 1,
     "type": "KANA",
-    "question": "人間の最良の友人とよく言われる動物で\nしっぽを振って喜んだりほえたりする\n四つ足の動物といえば何？",
-    "answer": "いぬ",
+    "question": "物体に働く、地球の中心に向かって\n引き寄せる力を何という？",
+    "answer": "じゅうりょく",
     "difficulty": "EASY"
   },
   {
     "id": 2,
     "type": "KANA",
-    "question": "にゃーと鳴いて鼠を追いかけたりする\nかわいくてふわふわの毛が特徴的な\n家で飼われる動物といえば何？",
-    "answer": "ねこ",
+    "question": "水が冷やされて固体になる現象を何という？",
+    "answer": "ぎょうこ",
     "difficulty": "EASY"
   },
   {
     "id": 3,
     "type": "KANA",
-    "question": "春になると美しく咲き誇りピンク色の花びらが\n舞う光景が有名で、日本では花見で楽しまれる\n木の花は何という？",
-    "answer": "さくら",
+    "question": "地球の表面を覆う、窒素や酸素などからなる気体の集まりを何という？",
+    "answer": "たいき",
     "difficulty": "EASY"
   },
   {
     "id": 4,
     "type": "KANA",
-    "question": "空を飛ぶ乗り物で翼を持ち遠くの場所へ\n素早く移動でき空港から出発するものは何？",
-    "answer": "ひこうき",
-    "difficulty": "NORMAL"
+    "question": "植物が光のエネルギーを利用して、\n二酸化炭素と水から有機物を\n合成する働きを何という？",
+    "answer": "こうごうせい",
+    "difficulty": "EASY"
   },
   {
     "id": 5,
     "type": "KANA",
-    "question": "雨の日に差して歩くと水滴を防いでくれる\n便利な道具で開くと大きな形になるものは何という？",
-    "answer": "かさ",
-    "difficulty": "EASY"
+    "question": "数学において、ある数を掛け合わせると\n1になるような数を、元の数の何という？",
+    "answer": "ぎゃくすう",
+    "difficulty": "NORMAL"
   },
   {
     "id": 6,
     "type": "KANA",
-    "question": "レールの上を走って人や物を運び駅で乗降し\n音を鳴らしながら進む長い車両は何という？",
-    "answer": "でんしゃ",
+    "question": "地震が発生した地下の場所を何という？",
+    "answer": "しんげん",
     "difficulty": "NORMAL"
   },
   {
     "id": 7,
     "type": "KANA",
-    "question": "海や川で泳ぐ生き物で、うろこを持ち水中で呼吸し\n釣りや水族館で見かける一般的な生き物は何？",
-    "answer": "さかな",
-    "difficulty": "EASY"
+    "question": "生物の細胞分裂において、染色体が\n細胞の赤道面に並ぶ時期を何という？",
+    "answer": "ちゅうき",
+    "difficulty": "NORMAL"
   },
   {
     "id": 8,
     "type": "KANA",
-    "question": "冬になると白く積もり子供たちが\n雪だるまを作ったり、スキーを楽しんだりする\n冷たい結晶を何という？",
-    "answer": "ゆき",
-    "difficulty": "EASY"
+    "question": "化学反応において、物質が電子を失うことを\n何という？",
+    "answer": "さんか",
+    "difficulty": "NORMAL"
   },
   {
     "id": 9,
     "type": "KANA",
-    "question": "日本刀などで勢いよく一気に切り落とす様子を表す\n擬音語に由来する、物事の核心や急所を、正確かつ\n単刀直入に指摘する様子を表す言葉は何？\nひらがな3文字でずばりと答えなさい",
-    "answer": "ずばり",
-    "difficulty": "EASY"
+    "question": "数学において、ある関数の導関数を\n求める操作を何という？",
+    "answer": "びぶん",
+    "difficulty": "HARD"
   },
   {
     "id": 10,
     "type": "KANA",
-    "question": "毎年12月31日のことで、年越しそばを食べたり\n除夜の鐘を聞いたりして新年を迎える\n日本の年中行事における特別な日を何という？",
-    "answer": "おおみそか",
-    "difficulty": "EASY"
-  },
-  {
-    "id": 11,
-    "type": "KANA",
-    "question": "DECO*27の楽曲で、\n胸部レントゲン写真を持った少女といえば？",
-    "answer": "おとめかいぼう",
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 12,
-    "type": "KANA",
-    "question": "現在使われているグレゴリオ暦では、原則として\n西暦が4で割り切れる年に訪れる、通常より\n1日多い年を「〇年」という？〇の漢字を\nひらがなで答えなさい",
-    "answer": "うるう",
-    "difficulty": "EASY"
-  },
-  {
-    "id": 13,
-    "type": "KANA",
-    "question": "短時間で急速に発達し、暴風や大雪、高波などの\n激しい気象現象をもたらすことがある低気圧のことを\nある兵器の名前を使って俗に「〇〇低気圧」という？\n〇の部分の漢字をひらがなで答えなさい",
-    "answer": "ばくだん",
-    "difficulty": "EASY"
+    "question": "量子力学において、粒子の位置と運動量を\n同時に任意の精度で確定できないという原理を\n「〇〇〇性原理」という？〇の漢字をひらがなで\n答えなさい",
+    "answer": "ふかくてい",
+    "difficulty": "HARD"
   }
 ]
