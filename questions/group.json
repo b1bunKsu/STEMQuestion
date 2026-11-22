@@ -2,1045 +2,12 @@
   {
     "id": 1,
     "type": "GROUP",
-    "question": "次の動物をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "哺乳類",
-        "choices": [
-          "ライオン",
-          "ゾウ"
-        ]
-      },
-      "B": {
-        "name": "鳥類",
-        "choices": [
-          "スズメ",
-          "ワシ"
-        ]
-      },
-      "C": {
-        "name": "魚類",
-        "choices": [
-          "マグロ"
-        ]
-      }
-    },
-    "difficulty": "EASY"
-  },
-  {
-    "id": 2,
-    "type": "GROUP",
-    "question": "次の果物をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "柑橘類",
-        "choices": [
-          "みかん",
-          "レモン"
-        ]
-      },
-      "B": {
-        "name": "ベリー類",
-        "choices": [
-          "イチゴ",
-          "ブルーベリー"
-        ]
-      }
-    },
-    "difficulty": "EASY"
-  },
-  {
-    "id": 3,
-    "type": "GROUP",
-    "question": "次の乗り物をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "陸上",
-        "choices": [
-          "自動車",
-          "自転車"
-        ]
-      },
-      "B": {
-        "name": "空中",
-        "choices": [
-          "飛行機"
-        ]
-      },
-      "C": {
-        "name": "海上",
-        "choices": [
-          "船",
-          "ヨット"
-        ]
-      }
-    },
-    "difficulty": "EASY"
-  },
-  {
-    "id": 4,
-    "type": "GROUP",
-    "question": "次の野菜をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "根菜類",
-        "choices": [
-          "にんじん",
-          "だいこん"
-        ]
-      },
-      "B": {
-        "name": "葉物野菜",
-        "choices": [
-          "レタス",
-          "キャベツ"
-        ]
-      }
-    },
-    "difficulty": "EASY"
-  },
-  {
-    "id": 5,
-    "type": "GROUP",
-    "question": "次のスポーツをグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "球技",
-        "choices": [
-          "サッカー",
-          "野球"
-        ]
-      },
-      "B": {
-        "name": "水泳競技",
-        "choices": [
-          "競泳"
-        ]
-      },
-      "C": {
-        "name": "格闘技",
-        "choices": [
-          "柔道",
-          "空手"
-        ]
-      }
-    },
-    "difficulty": "EASY"
-  },
-  {
-    "id": 6,
-    "type": "GROUP",
-    "question": "次の楽器をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "弦楽器",
-        "choices": [
-          "ギター",
-          "バイオリン"
-        ]
-      },
-      "B": {
-        "name": "管楽器",
-        "choices": [
-          "フルート",
-          "トランペット"
-        ]
-      }
-    },
-    "difficulty": "EASY"
-  },
-  {
-    "id": 7,
-    "type": "GROUP",
-    "question": "次の昆虫をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "甲虫類",
-        "choices": [
-          "カブトムシ",
-          "クワガタ"
-        ]
-      },
-      "B": {
-        "name": "チョウ目",
-        "choices": [
-          "アゲハチョウ"
-        ]
-      },
-      "C": {
-        "name": "ハチ目",
-        "choices": [
-          "ミツバチ",
-          "スズメバチ"
-        ]
-      }
-    },
-    "difficulty": "EASY"
-  },
-  {
-    "id": 8,
-    "type": "GROUP",
-    "question": "次の色をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "暖色",
-        "choices": [
-          "赤",
-          "オレンジ"
-        ]
-      },
-      "B": {
-        "name": "寒色",
-        "choices": [
-          "青",
-          "水色"
-        ]
-      }
-    },
-    "difficulty": "EASY"
-  },
-  {
-    "id": 9,
-    "type": "GROUP",
-    "question": "次の食べ物をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "和食",
-        "choices": [
-          "寿司",
-          "天ぷら"
-        ]
-      },
-      "B": {
-        "name": "洋食",
-        "choices": [
-          "ステーキ"
-        ]
-      },
-      "C": {
-        "name": "中華",
-        "choices": [
-          "餃子",
-          "ラーメン"
-        ]
-      }
-    },
-    "difficulty": "EASY"
-  },
-  {
-    "id": 10,
-    "type": "GROUP",
-    "question": "次の植物をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "樹木",
-        "choices": [
-          "桜",
-          "松"
-        ]
-      },
-      "B": {
-        "name": "花",
-        "choices": [
-          "バラ",
-          "ひまわり"
-        ]
-      }
-    },
-    "difficulty": "EASY"
-  },
-  {
-    "id": 11,
-    "type": "GROUP",
-    "question": "次のボードゲームをグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "盤上競技",
-        "choices": [
-          "将棋",
-          "囲碁"
-        ]
-      },
-      "B": {
-        "name": "卓上ゲーム",
-        "choices": [
-          "ドミノ",
-          "麻雀"
-        ]
-      }
-    },
-    "difficulty": "EASY"
-  },
-  {
-    "id": 12,
-    "type": "GROUP",
-    "question": "次の食べ物をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "主食",
-        "choices": [
-          "ご飯"
-        ]
-      },
-      "B": {
-        "name": "おかず",
-        "choices": [
-          "肉"
-        ]
-      },
-      "C": {
-        "name": "デザート",
-        "choices": [
-          "ケーキ"
-        ]
-      }
-    },
-    "difficulty": "EASY"
-  },
-  {
-    "id": 13,
-    "type": "GROUP",
-    "question": "次の植物をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "常緑樹",
-        "choices": [
-          "松",
-          "杉"
-        ]
-      },
-      "B": {
-        "name": "落葉樹",
-        "choices": [
-          "カエデ"
-        ]
-      }
-    },
-    "difficulty": "EASY"
-  },
-  {
-    "id": 14,
-    "type": "GROUP",
-    "question": "次の認証に使用する情報をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "知識情報",
-        "choices": [
-          "暗証番号"
-        ]
-      },
-      "B": {
-        "name": "所持情報",
-        "choices": [
-          "ICカード"
-        ]
-      },
-      "C": {
-        "name": "生体情報",
-        "choices": [
-          "指紋",
-          "顔"
-        ]
-      }
-    },
-    "difficulty": "EASY"
-  },
-  {
-    "id": 15,
-    "type": "GROUP",
-    "question": "次の動物をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "哺乳類",
-        "choices": [
-          "ライオン",
-          "ゾウ"
-        ]
-      },
-      "B": {
-        "name": "鳥類",
-        "choices": [
-          "スズメ",
-          "ワシ"
-        ]
-      }
-    },
-    "difficulty": "EASY"
-  },
-  {
-    "id": 16,
-    "type": "GROUP",
-    "question": "次の果物をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "柑橘類",
-        "choices": [
-          "みかん",
-          "レモン"
-        ]
-      },
-      "B": {
-        "name": "バラ科",
-        "choices": [
-          "リンゴ",
-          "モモ"
-        ]
-      }
-    },
-    "difficulty": "EASY"
-  },
-  {
-    "id": 17,
-    "type": "GROUP",
-    "question": "次の乗り物をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "陸上",
-        "choices": [
-          "自動車",
-          "自転車"
-        ]
-      },
-      "B": {
-        "name": "空中",
-        "choices": [
-          "飛行機",
-          "ヘリ"
-        ]
-      }
-    },
-    "difficulty": "EASY"
-  },
-  {
-    "id": 18,
-    "type": "GROUP",
-    "question": "次の野菜をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "根菜類",
-        "choices": [
-          "にんじん",
-          "大根"
-        ]
-      },
-      "B": {
-        "name": "葉菜類",
-        "choices": [
-          "レタス",
-          "白菜"
-        ]
-      }
-    },
-    "difficulty": "EASY"
-  },
-  {
-    "id": 19,
-    "type": "GROUP",
-    "question": "次のスポーツをグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "球技",
-        "choices": [
-          "野球",
-          "卓球"
-        ]
-      },
-      "B": {
-        "name": "格闘技",
-        "choices": [
-          "柔道",
-          "空手"
-        ]
-      }
-    },
-    "difficulty": "EASY"
-  },
-  {
-    "id": 20,
-    "type": "GROUP",
-    "question": "次の楽器をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "弦楽器",
-        "choices": [
-          "ギター",
-          "琴"
-        ]
-      },
-      "B": {
-        "name": "管楽器",
-        "choices": [
-          "フルート",
-          "尺八"
-        ]
-      }
-    },
-    "difficulty": "EASY"
-  },
-  {
-    "id": 21,
-    "type": "GROUP",
-    "question": "次の昆虫をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "甲虫目",
-        "choices": [
-          "カブトムシ",
-          "クワガタ"
-        ]
-      },
-      "B": {
-        "name": "チョウ目",
-        "choices": [
-          "アゲハ",
-          "モンシロ"
-        ]
-      }
-    },
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 22,
-    "type": "GROUP",
-    "question": "次の色をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "暖色",
-        "choices": [
-          "赤",
-          "オレンジ"
-        ]
-      },
-      "B": {
-        "name": "寒色",
-        "choices": [
-          "青",
-          "水色"
-        ]
-      }
-    },
-    "difficulty": "EASY"
-  },
-  {
-    "id": 23,
-    "type": "GROUP",
-    "question": "次の料理をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "和食",
-        "choices": [
-          "寿司",
-          "天ぷら"
-        ]
-      },
-      "B": {
-        "name": "中華",
-        "choices": [
-          "餃子",
-          "麻婆豆腐"
-        ]
-      }
-    },
-    "difficulty": "EASY"
-  },
-  {
-    "id": 24,
-    "type": "GROUP",
-    "question": "次の植物をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "裸子植物",
-        "choices": [
-          "マツ",
-          "スギ"
-        ]
-      },
-      "B": {
-        "name": "被子植物",
-        "choices": [
-          "サクラ",
-          "バラ"
-        ]
-      }
-    },
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 25,
-    "type": "GROUP",
-    "question": "次の天体をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "恒星",
-        "choices": [
-          "太陽",
-          "シリウス"
-        ]
-      },
-      "B": {
-        "name": "惑星",
-        "choices": [
-          "地球",
-          "火星"
-        ]
-      }
-    },
-    "difficulty": "EASY"
-  },
-  {
-    "id": 26,
-    "type": "GROUP",
-    "question": "次の国をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "島国",
-        "choices": [
-          "日本",
-          "英国"
-        ]
-      },
-      "B": {
-        "name": "内陸国",
-        "choices": [
-          "スイス",
-          "モンゴル"
-        ]
-      }
-    },
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 27,
-    "type": "GROUP",
-    "question": "次の数をグループ分けしなさい",
+    "question": "次の数を素数と合成数に分類しなさい",
     "groups": {
       "A": {
         "name": "素数",
         "choices": [
-          "7",
-          "11"
-        ]
-      },
-      "B": {
-        "name": "合成数",
-        "choices": [
-          "8",
-          "12"
-        ]
-      }
-    },
-    "difficulty": "EASY"
-  },
-  {
-    "id": 28,
-    "type": "GROUP",
-    "question": "次の水溶液をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "酸性",
-        "choices": [
-          "塩酸",
-          "酢酸"
-        ]
-      },
-      "B": {
-        "name": "アルカリ性",
-        "choices": [
-          "アンモニア水",
-          "石灰水"
-        ]
-      }
-    },
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 29,
-    "type": "GROUP",
-    "question": "次の人物をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "日本の武将",
-        "choices": [
-          "信長",
-          "家康"
-        ]
-      },
-      "B": {
-        "name": "海外の人物",
-        "choices": [
-          "ナポレオン",
-          "チンギス"
-        ]
-      }
-    },
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 30,
-    "type": "GROUP",
-    "question": "次の文学作品をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "日本文学",
-        "choices": [
-          "源氏物語",
-          "雪国"
-        ]
-      },
-      "B": {
-        "name": "海外文学",
-        "choices": [
-          "ハムレット",
-          "ドンキホーテ"
-        ]
-      }
-    },
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 31,
-    "type": "GROUP",
-    "question": "次の認証情報をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "知識情報",
-        "choices": [
-          "パスワード",
-          "暗証番号"
-        ]
-      },
-      "B": {
-        "name": "生体情報",
-        "choices": [
-          "指紋",
-          "顔"
-        ]
-      }
-    },
-    "difficulty": "EASY"
-  },
-  {
-    "id": 32,
-    "type": "GROUP",
-    "question": "次の元素をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "金属",
-        "choices": [
-          "鉄",
-          "銅"
-        ]
-      },
-      "B": {
-        "name": "非金属",
-        "choices": [
-          "酸素",
-          "炭素"
-        ]
-      }
-    },
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 33,
-    "type": "GROUP",
-    "question": "次の動物をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "単孔類",
-        "choices": [
-          "カモノハシ"
-        ]
-      },
-      "B": {
-        "name": "有袋類",
-        "choices": [
-          "コアラ",
-          "カンガルー"
-        ]
-      },
-      "C": {
-        "name": "有胎盤類",
-        "choices": [
-          "ライオン",
-          "ゾウ"
-        ]
-      }
-    },
-    "difficulty": "HARD"
-  },
-  {
-    "id": 34,
-    "type": "GROUP",
-    "question": "次の言語をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "ゲルマン語派",
-        "choices": [
-          "英語",
-          "ドイツ語"
-        ]
-      },
-      "B": {
-        "name": "ロマンス語派",
-        "choices": [
-          "仏語",
-          "スペイン語"
-        ]
-      }
-    },
-    "difficulty": "HARD"
-  },
-  {
-    "id": 35,
-    "type": "GROUP",
-    "question": "次の元素をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "アルカリ金属",
-        "choices": [
-          "リチウム",
-          "ナトリウム"
-        ]
-      },
-      "B": {
-        "name": "ハロゲン",
-        "choices": [
-          "フッ素",
-          "塩素"
-        ]
-      }
-    },
-    "difficulty": "HARD"
-  },
-  {
-    "id": 36,
-    "type": "GROUP",
-    "question": "次の法律をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "公法",
-        "choices": [
-          "憲法",
-          "刑法"
-        ]
-      },
-      "B": {
-        "name": "私法",
-        "choices": [
-          "民法",
-          "商法"
-        ]
-      }
-    },
-    "difficulty": "HARD"
-  },
-  {
-    "id": 37,
-    "type": "GROUP",
-    "question": "次の音楽用語をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "速度",
-        "choices": [
-          "アレグロ",
-          "アダージョ"
-        ]
-      },
-      "B": {
-        "name": "強弱",
-        "choices": [
-          "フォルテ",
-          "ピアノ"
-        ]
-      }
-    },
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 38,
-    "type": "GROUP",
-    "question": "次の都道府県をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "太平洋側",
-        "choices": [
-          "千葉",
-          "静岡"
-        ]
-      },
-      "B": {
-        "name": "日本海側",
-        "choices": [
-          "新潟",
-          "石川"
-        ]
-      }
-    },
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 39,
-    "type": "GROUP",
-    "question": "次の物理量をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "スカラー量",
-        "choices": [
-          "質量",
-          "時間"
-        ]
-      },
-      "B": {
-        "name": "ベクトル量",
-        "choices": [
-          "力",
-          "加速度"
-        ]
-      }
-    },
-    "difficulty": "HARD"
-  },
-  {
-    "id": 40,
-    "type": "GROUP",
-    "question": "次の生物をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "原核生物",
-        "choices": [
-          "大腸菌",
-          "乳酸菌"
-        ]
-      },
-      "B": {
-        "name": "真核生物",
-        "choices": [
-          "酵母",
-          "アメーバ"
-        ]
-      }
-    },
-    "difficulty": "HARD"
-  },
-  {
-    "id": 41,
-    "type": "GROUP",
-    "question": "次の山脈をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "新期造山帯",
-        "choices": [
-          "ヒマラヤ",
-          "アルプス"
-        ]
-      },
-      "B": {
-        "name": "古期造山帯",
-        "choices": [
-          "ウラル",
-          "アパラチア"
-        ]
-      }
-    },
-    "difficulty": "HARD"
-  },
-  {
-    "id": 42,
-    "type": "GROUP",
-    "question": "次の時代をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "武家政権期",
-        "choices": [
-          "鎌倉",
-          "江戸"
-        ]
-      },
-      "B": {
-        "name": "武家政権以前",
-        "choices": [
-          "縄文",
-          "奈良"
-        ]
-      }
-    },
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 43,
-    "type": "GROUP",
-    "question": "次の数をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "有理数",
-        "choices": [
-          "1/2",
-          "0.75"
-        ]
-      },
-      "B": {
-        "name": "無理数",
-        "choices": [
-          "√2",
-          "π"
-        ]
-      }
-    },
-    "difficulty": "HARD"
-  },
-  {
-    "id": 44,
-    "type": "GROUP",
-    "question": "次の衣服をグループ分けしなさい",
-    "groups": {
-      "A": {
-        "name": "上半身",
-        "choices": [
-          "シャツ",
-          "セーター"
-        ]
-      },
-      "B": {
-        "name": "下半身",
-        "choices": [
-          "ズボン",
-          "スカート"
-        ]
-      }
-    },
-    "difficulty": "EASY"
-  },
-  {
-    "id": 45,
-    "type": "GROUP",
-    "question": "次の元素を分類しなさい",
-    "groups": {
-      "A": {
-        "name": "ハロゲン",
-        "choices": [
-          "フッ素",
-          "塩素"
-        ]
-      },
-      "B": {
-        "name": "貴ガス",
-        "choices": [
-          "ネオン",
-          "アルゴン"
-        ]
-      }
-    },
-    "difficulty": "HARD"
-  },
-  {
-    "id": 46,
-    "type": "GROUP",
-    "question": "次の数を分類しなさい",
-    "groups": {
-      "A": {
-        "name": "素数",
-        "choices": [
+          "13",
           "17",
           "23"
         ]
@@ -1053,54 +20,33 @@
         ]
       }
     },
-    "difficulty": "NORMAL"
+    "difficulty": "EASY"
   },
   {
-    "id": 47,
+    "id": 2,
     "type": "GROUP",
-    "question": "次の化合物を結合の種類で分類しなさい",
+    "question": "次の元素を金属元素と非金属元素に分類しなさい",
     "groups": {
       "A": {
-        "name": "イオン結合",
+        "name": "金属元素",
         "choices": [
-          "NaCl",
-          "MgO"
+          "アルミニウム",
+          "亜鉛",
+          "銀"
         ]
       },
       "B": {
-        "name": "共有結合",
+        "name": "非金属元素",
         "choices": [
-          "H2O",
-          "CO2"
+          "窒素",
+          "リン"
         ]
       }
     },
-    "difficulty": "HARD"
+    "difficulty": "EASY"
   },
   {
-    "id": 48,
-    "type": "GROUP",
-    "question": "次の物理量を分類しなさい",
-    "groups": {
-      "A": {
-        "name": "ベクトル",
-        "choices": [
-          "速度",
-          "加速度"
-        ]
-      },
-      "B": {
-        "name": "スカラー",
-        "choices": [
-          "質量",
-          "温度"
-        ]
-      }
-    },
-    "difficulty": "HARD"
-  },
-  {
-    "id": 49,
+    "id": 3,
     "type": "GROUP",
     "question": "次の天体を分類しなさい",
     "groups": {
@@ -1117,6 +63,1156 @@
           "木星",
           "土星"
         ]
+      },
+      "C": {
+        "name": "天王星型惑星",
+        "choices": [
+          "海王星"
+        ]
+      }
+    },
+    "difficulty": "EASY"
+  },
+  {
+    "id": 4,
+    "type": "GROUP",
+    "question": "次の生物を脊椎動物と無脊椎動物に分類しなさい",
+    "groups": {
+      "A": {
+        "name": "脊椎動物",
+        "choices": [
+          "カエル",
+          "サメ",
+          "ヘビ"
+        ]
+      },
+      "B": {
+        "name": "無脊椎動物",
+        "choices": [
+          "タコ",
+          "クラゲ"
+        ]
+      }
+    },
+    "difficulty": "EASY"
+  },
+  {
+    "id": 5,
+    "type": "GROUP",
+    "question": "次の単位を表す物理量によって分類しなさい",
+    "groups": {
+      "A": {
+        "name": "長さ",
+        "choices": [
+          "メートル",
+          "ナノメートル"
+        ]
+      },
+      "B": {
+        "name": "質量",
+        "choices": [
+          "キログラム",
+          "ミリグラム"
+        ]
+      },
+      "C": {
+        "name": "時間",
+        "choices": [
+          "秒"
+        ]
+      }
+    },
+    "difficulty": "EASY"
+  },
+  {
+    "id": 6,
+    "type": "GROUP",
+    "question": "次の物質を純物質と混合物に分類しなさい",
+    "groups": {
+      "A": {
+        "name": "純物質",
+        "choices": [
+          "蒸留水",
+          "純鉄"
+        ]
+      },
+      "B": {
+        "name": "混合物",
+        "choices": [
+          "空気",
+          "海水",
+          "牛乳"
+        ]
+      }
+    },
+    "difficulty": "EASY"
+  },
+  {
+    "id": 7,
+    "type": "GROUP",
+    "question": "次の岩石を分類しなさい",
+    "groups": {
+      "A": {
+        "name": "火成岩",
+        "choices": [
+          "花崗岩",
+          "玄武岩"
+        ]
+      },
+      "B": {
+        "name": "堆積岩",
+        "choices": [
+          "砂岩",
+          "石灰岩"
+        ]
+      },
+      "C": {
+        "name": "変成岩",
+        "choices": [
+          "大理石"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 8,
+    "type": "GROUP",
+    "question": "次の化学反応を分類しなさい",
+    "groups": {
+      "A": {
+        "name": "発熱反応",
+        "choices": [
+          "燃焼",
+          "酸と塩基の中和"
+        ]
+      },
+      "B": {
+        "name": "吸熱反応",
+        "choices": [
+          "炭酸水素Naの熱分解",
+          "光合成"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 9,
+    "type": "GROUP",
+    "question": "次の関数を偶関数と奇関数に分類しなさい",
+    "groups": {
+      "A": {
+        "name": "偶関数",
+        "choices": [
+          "y=x²",
+          "y=cos(x)"
+        ]
+      },
+      "B": {
+        "name": "奇関数",
+        "choices": [
+          "y=x³",
+          "y=sin(x)",
+          "y=x"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 10,
+    "type": "GROUP",
+    "question": "次の生物を細胞の種類によって分類しなさい",
+    "groups": {
+      "A": {
+        "name": "原核生物",
+        "choices": [
+          "大腸菌",
+          "シアノバクテリア"
+        ]
+      },
+      "B": {
+        "name": "真核生物",
+        "choices": [
+          "ゾウリムシ",
+          "酵母",
+          "ミドリムシ"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 11,
+    "type": "GROUP",
+    "question": "次の電磁波を分類しなさい",
+    "groups": {
+      "A": {
+        "name": "可視光より波長が長い",
+        "choices": [
+          "赤外線",
+          "マイクロ波"
+        ]
+      },
+      "B": {
+        "name": "可視光より波長が短い",
+        "choices": [
+          "紫外線",
+          "X線",
+          "ガンマ線"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 12,
+    "type": "GROUP",
+    "question": "次の物質を結晶の種類によって分類しなさい",
+    "groups": {
+      "A": {
+        "name": "イオン結晶",
+        "choices": [
+          "塩化ナトリウム",
+          "酸化マグネシウム"
+        ]
+      },
+      "B": {
+        "name": "共有結合結晶",
+        "choices": [
+          "ダイヤモンド",
+          "二酸化ケイ素"
+        ]
+      },
+      "C": {
+        "name": "分子結晶",
+        "choices": [
+          "ドライアイス"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 13,
+    "type": "GROUP",
+    "question": "次のデータ構造を分類しなさい",
+    "groups": {
+      "A": {
+        "name": "線形データ構造",
+        "choices": [
+          "配列",
+          "スタック",
+          "キュー"
+        ]
+      },
+      "B": {
+        "name": "非線形データ構造",
+        "choices": [
+          "木構造",
+          "グラフ"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 14,
+    "type": "GROUP",
+    "question": "次の細胞分裂の過程を分類しなさい",
+    "groups": {
+      "A": {
+        "name": "体細胞分裂",
+        "choices": [
+          "染色体数が維持",
+          "分裂後は2細胞"
+        ]
+      },
+      "B": {
+        "name": "減数分裂",
+        "choices": [
+          "相同染色体の対合",
+          "乗換え",
+          "染色体数が半減"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 15,
+    "type": "GROUP",
+    "question": "次の粒子をフェルミ粒子とボース粒子に分類しなさい",
+    "groups": {
+      "A": {
+        "name": "フェルミ粒子",
+        "choices": [
+          "電子",
+          "陽子",
+          "中性子"
+        ]
+      },
+      "B": {
+        "name": "ボース粒子",
+        "choices": [
+          "光子",
+          "ヒッグス粒子"
+        ]
+      }
+    },
+    "difficulty": "HARD"
+  },
+  {
+    "id": 16,
+    "type": "GROUP",
+    "question": "次のアミノ酸を側鎖の性質によって分類しなさい",
+    "groups": {
+      "A": {
+        "name": "酸性アミノ酸",
+        "choices": [
+          "アスパラギン酸",
+          "グルタミン酸"
+        ]
+      },
+      "B": {
+        "name": "塩基性アミノ酸",
+        "choices": [
+          "リシン",
+          "アルギニン"
+        ]
+      },
+      "C": {
+        "name": "非極性アミノ酸",
+        "choices": [
+          "ロイシン"
+        ]
+      }
+    },
+    "difficulty": "HARD"
+  },
+  {
+    "id": 17,
+    "type": "GROUP",
+    "question": "次の物理現象を量子効果と古典力学的現象に分類しなさい",
+    "groups": {
+      "A": {
+        "name": "量子効果",
+        "choices": [
+          "トンネル効果",
+          "光電効果",
+          "量子もつれ"
+        ]
+      },
+      "B": {
+        "name": "古典力学的現象",
+        "choices": [
+          "単振り子の運動",
+          "惑星の公転"
+        ]
+      }
+    },
+    "difficulty": "HARD"
+  },
+  {
+    "id": 18,
+    "type": "GROUP",
+    "question": "次の数学用語を分類しなさい",
+    "groups": {
+      "A": {
+        "name": "位相幾何学",
+        "choices": [
+          "同相写像",
+          "コンパクト性"
+        ]
+      },
+      "B": {
+        "name": "線形代数学",
+        "choices": [
+          "固有値",
+          "行列式",
+          "階数"
+        ]
+      }
+    },
+    "difficulty": "HARD"
+  },
+  {
+    "id": 19,
+    "type": "GROUP",
+    "question": "次の放射性崩壊を放出される粒子によって分類しなさい",
+    "groups": {
+      "A": {
+        "name": "アルファ崩壊",
+        "choices": [
+          "ウラン238",
+          "ラジウム226"
+        ]
+      },
+      "B": {
+        "name": "ベータマイナス崩壊",
+        "choices": [
+          "炭素14",
+          "トリチウム"
+        ]
+      },
+      "C": {
+        "name": "陽電子放出",
+        "choices": [
+          "フッ素18"
+        ]
+      }
+    },
+    "difficulty": "HARD"
+  },
+  {
+    "id": 20,
+    "type": "GROUP",
+    "question": "次の酵素を触媒する反応によって分類しなさい",
+    "groups": {
+      "A": {
+        "name": "酸化還元酵素",
+        "choices": [
+          "脱水素酵素",
+          "オキシダーゼ"
+        ]
+      },
+      "B": {
+        "name": "加水分解酵素",
+        "choices": [
+          "プロテアーゼ",
+          "リパーゼ"
+        ]
+      },
+      "C": {
+        "name": "転移酵素",
+        "choices": [
+          "キナーゼ"
+        ]
+      }
+    },
+    "difficulty": "HARD"
+  },
+  {
+    "id": 21,
+    "type": "GROUP",
+    "question": "次の数を有理数と無理数に分類しなさい",
+    "groups": {
+      "A": {
+        "name": "有理数",
+        "choices": [
+          "0.5",
+          "1/3",
+          "√4"
+        ]
+      },
+      "B": {
+        "name": "無理数",
+        "choices": [
+          "√2",
+          "π"
+        ]
+      }
+    },
+    "difficulty": "EASY"
+  },
+  {
+    "id": 22,
+    "type": "GROUP",
+    "question": "次の生物を植物と菌類に分類しなさい",
+    "groups": {
+      "A": {
+        "name": "植物",
+        "choices": [
+          "ゼニゴケ",
+          "スギ",
+          "ワラビ"
+        ]
+      },
+      "B": {
+        "name": "菌類",
+        "choices": [
+          "シイタケ",
+          "アオカビ"
+        ]
+      }
+    },
+    "difficulty": "EASY"
+  },
+  {
+    "id": 23,
+    "type": "GROUP",
+    "question": "次の現象を物理変化と化学変化に分類しなさい",
+    "groups": {
+      "A": {
+        "name": "物理変化",
+        "choices": [
+          "氷の融解",
+          "水の蒸発"
+        ]
+      },
+      "B": {
+        "name": "化学変化",
+        "choices": [
+          "鉄の酸化",
+          "木材の燃焼",
+          "食物の腐敗"
+        ]
+      }
+    },
+    "difficulty": "EASY"
+  },
+  {
+    "id": 24,
+    "type": "GROUP",
+    "question": "次の惑星を太陽からの距離によって分類しなさい",
+    "groups": {
+      "A": {
+        "name": "地球より内側",
+        "choices": [
+          "水星",
+          "金星"
+        ]
+      },
+      "B": {
+        "name": "地球より外側",
+        "choices": [
+          "火星",
+          "木星",
+          "土星"
+        ]
+      }
+    },
+    "difficulty": "EASY"
+  },
+  {
+    "id": 25,
+    "type": "GROUP",
+    "question": "次の単位をSI基本単位とSI組立単位に分類しなさい",
+    "groups": {
+      "A": {
+        "name": "SI基本単位",
+        "choices": [
+          "アンペア",
+          "ケルビン",
+          "モル"
+        ]
+      },
+      "B": {
+        "name": "SI組立単位",
+        "choices": [
+          "ニュートン",
+          "パスカル"
+        ]
+      }
+    },
+    "difficulty": "EASY"
+  },
+  {
+    "id": 26,
+    "type": "GROUP",
+    "question": "次の化学式を単体と化合物に分類しなさい",
+    "groups": {
+      "A": {
+        "name": "単体",
+        "choices": [
+          "O2",
+          "N2",
+          "Fe"
+        ]
+      },
+      "B": {
+        "name": "化合物",
+        "choices": [
+          "CO2",
+          "NH3"
+        ]
+      }
+    },
+    "difficulty": "EASY"
+  },
+  {
+    "id": 27,
+    "type": "GROUP",
+    "question": "次の元素を周期表の周期によって分類しなさい",
+    "groups": {
+      "A": {
+        "name": "第2周期",
+        "choices": [
+          "炭素",
+          "酸素"
+        ]
+      },
+      "B": {
+        "name": "第3周期",
+        "choices": [
+          "ナトリウム",
+          "塩素"
+        ]
+      },
+      "C": {
+        "name": "第4周期",
+        "choices": [
+          "カリウム"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 28,
+    "type": "GROUP",
+    "question": "次の植物を種子の特徴によって分類しなさい",
+    "groups": {
+      "A": {
+        "name": "裸子植物",
+        "choices": [
+          "イチョウ",
+          "マツ"
+        ]
+      },
+      "B": {
+        "name": "被子植物",
+        "choices": [
+          "サクラ",
+          "イネ",
+          "タンポポ"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 29,
+    "type": "GROUP",
+    "question": "次の数学用語を微分と積分に分類しなさい",
+    "groups": {
+      "A": {
+        "name": "微分",
+        "choices": [
+          "導関数",
+          "接線の傾き"
+        ]
+      },
+      "B": {
+        "name": "積分",
+        "choices": [
+          "原始関数",
+          "定積分",
+          "不定積分"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 30,
+    "type": "GROUP",
+    "question": "次の物質を水溶液の性質によって分類しなさい",
+    "groups": {
+      "A": {
+        "name": "酸性",
+        "choices": [
+          "塩酸",
+          "硝酸"
+        ]
+      },
+      "B": {
+        "name": "中性",
+        "choices": [
+          "純水"
+        ]
+      },
+      "C": {
+        "name": "塩基性",
+        "choices": [
+          "アンモニア水",
+          "水酸化Na水溶液"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 31,
+    "type": "GROUP",
+    "question": "次の天体を主な特徴によって分類しなさい",
+    "groups": {
+      "A": {
+        "name": "白色矮星",
+        "choices": [
+          "シリウスB",
+          "プロキオンB"
+        ]
+      },
+      "B": {
+        "name": "赤色超巨星",
+        "choices": [
+          "ベテルギウス",
+          "アンタレス"
+        ]
+      },
+      "C": {
+        "name": "赤色矮星",
+        "choices": [
+          "プロキシマ"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 32,
+    "type": "GROUP",
+    "question": "次の化合物を炭化水素の種類によって分類しなさい",
+    "groups": {
+      "A": {
+        "name": "アルカン",
+        "choices": [
+          "メタン",
+          "プロパン"
+        ]
+      },
+      "B": {
+        "name": "アルケン",
+        "choices": [
+          "エチレン",
+          "プロペン"
+        ]
+      },
+      "C": {
+        "name": "アルキン",
+        "choices": [
+          "アセチレン"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 33,
+    "type": "GROUP",
+    "question": "次の地震波を性質によって分類しなさい",
+    "groups": {
+      "A": {
+        "name": "実体波",
+        "choices": [
+          "P波",
+          "S波"
+        ]
+      },
+      "B": {
+        "name": "表面波",
+        "choices": [
+          "ラブ波",
+          "レイリー波"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 34,
+    "type": "GROUP",
+    "question": "次の情報技術用語を分類しなさい",
+    "groups": {
+      "A": {
+        "name": "暗号化方式",
+        "choices": [
+          "AES",
+          "RSA"
+        ]
+      },
+      "B": {
+        "name": "ハッシュ関数",
+        "choices": [
+          "SHA-256",
+          "MD5"
+        ]
+      },
+      "C": {
+        "name": "通信プロトコル",
+        "choices": [
+          "TCP"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 35,
+    "type": "GROUP",
+    "question": "次の元素を電子配置のブロックによって分類しなさい",
+    "groups": {
+      "A": {
+        "name": "sブロック元素",
+        "choices": [
+          "リチウム",
+          "カルシウム"
+        ]
+      },
+      "B": {
+        "name": "pブロック元素",
+        "choices": [
+          "炭素",
+          "塩素"
+        ]
+      },
+      "C": {
+        "name": "dブロック元素",
+        "choices": [
+          "鉄"
+        ]
+      }
+    },
+    "difficulty": "HARD"
+  },
+  {
+    "id": 36,
+    "type": "GROUP",
+    "question": "次の生体分子を核酸塩基の種類によって分類しなさい",
+    "groups": {
+      "A": {
+        "name": "プリン塩基",
+        "choices": [
+          "アデニン",
+          "グアニン"
+        ]
+      },
+      "B": {
+        "name": "ピリミジン塩基",
+        "choices": [
+          "シトシン",
+          "チミン",
+          "ウラシル"
+        ]
+      }
+    },
+    "difficulty": "HARD"
+  },
+  {
+    "id": 37,
+    "type": "GROUP",
+    "question": "次の物理法則を関連する分野によって分類しなさい",
+    "groups": {
+      "A": {
+        "name": "電磁気学",
+        "choices": [
+          "アンペールの法則",
+          "ファラデーの法則"
+        ]
+      },
+      "B": {
+        "name": "熱力学",
+        "choices": [
+          "ボイルの法則",
+          "シャルルの法則"
+        ]
+      },
+      "C": {
+        "name": "光学",
+        "choices": [
+          "スネルの法則"
+        ]
+      }
+    },
+    "difficulty": "HARD"
+  },
+  {
+    "id": 38,
+    "type": "GROUP",
+    "question": "次の数学用語を代数的構造によって分類しなさい",
+    "groups": {
+      "A": {
+        "name": "群論",
+        "choices": [
+          "巡回群",
+          "対称群"
+        ]
+      },
+      "B": {
+        "name": "環論",
+        "choices": [
+          "イデアル",
+          "整域"
+        ]
+      },
+      "C": {
+        "name": "体論",
+        "choices": [
+          "有限体"
+        ]
+      }
+    },
+    "difficulty": "HARD"
+  },
+  {
+    "id": 39,
+    "type": "GROUP",
+    "question": "次の核反応を分類しなさい",
+    "groups": {
+      "A": {
+        "name": "核分裂",
+        "choices": [
+          "ウラン235の分裂",
+          "プルトニウム239の分裂"
+        ]
+      },
+      "B": {
+        "name": "核融合",
+        "choices": [
+          "重水素と三重水素",
+          "陽子陽子連鎖"
+        ]
+      }
+    },
+    "difficulty": "HARD"
+  },
+  {
+    "id": 40,
+    "type": "GROUP",
+    "question": "次のタンパク質を主な機能によって分類しなさい",
+    "groups": {
+      "A": {
+        "name": "構造タンパク質",
+        "choices": [
+          "コラーゲン",
+          "ケラチン"
+        ]
+      },
+      "B": {
+        "name": "輸送タンパク質",
+        "choices": [
+          "ヘモグロビン",
+          "トランスフェリン"
+        ]
+      },
+      "C": {
+        "name": "運動タンパク質",
+        "choices": [
+          "ミオシン"
+        ]
+      }
+    },
+    "difficulty": "HARD"
+  },
+  {
+    "id": 41,
+    "type": "GROUP",
+    "question": "次の数を正の数と負の数に分類しなさい",
+    "groups": {
+      "A": {
+        "name": "正の数",
+        "choices": [
+          "3",
+          "0.5",
+          "√9"
+        ]
+      },
+      "B": {
+        "name": "負の数",
+        "choices": [
+          "-7",
+          "-1/2"
+        ]
+      }
+    },
+    "difficulty": "EASY"
+  },
+  {
+    "id": 42,
+    "type": "GROUP",
+    "question": "次の生物を単細胞生物と多細胞生物に分類しなさい",
+    "groups": {
+      "A": {
+        "name": "単細胞生物",
+        "choices": [
+          "アメーバ",
+          "ゾウリムシ"
+        ]
+      },
+      "B": {
+        "name": "多細胞生物",
+        "choices": [
+          "ミミズ",
+          "クラゲ",
+          "ヒト"
+        ]
+      }
+    },
+    "difficulty": "EASY"
+  },
+  {
+    "id": 43,
+    "type": "GROUP",
+    "question": "次の物質を磁石に強く引きつけられるかどうかで分類しなさい",
+    "groups": {
+      "A": {
+        "name": "強く引きつけられる",
+        "choices": [
+          "鉄",
+          "ニッケル",
+          "コバルト"
+        ]
+      },
+      "B": {
+        "name": "強く引きつけられない",
+        "choices": [
+          "銅",
+          "アルミニウム"
+        ]
+      }
+    },
+    "difficulty": "EASY"
+  },
+  {
+    "id": 44,
+    "type": "GROUP",
+    "question": "次の図形を平面図形と立体図形に分類しなさい",
+    "groups": {
+      "A": {
+        "name": "平面図形",
+        "choices": [
+          "正六角形",
+          "円"
+        ]
+      },
+      "B": {
+        "name": "立体図形",
+        "choices": [
+          "円錐",
+          "球",
+          "正四面体"
+        ]
+      }
+    },
+    "difficulty": "EASY"
+  },
+  {
+    "id": 45,
+    "type": "GROUP",
+    "question": "次の動物を変温動物と恒温動物に分類しなさい",
+    "groups": {
+      "A": {
+        "name": "変温動物",
+        "choices": [
+          "トカゲ",
+          "メダカ",
+          "カエル"
+        ]
+      },
+      "B": {
+        "name": "恒温動物",
+        "choices": [
+          "スズメ",
+          "ネコ"
+        ]
+      }
+    },
+    "difficulty": "EASY"
+  },
+  {
+    "id": 46,
+    "type": "GROUP",
+    "question": "次の元素を常温・常圧での状態によって分類しなさい",
+    "groups": {
+      "A": {
+        "name": "固体",
+        "choices": [
+          "炭素",
+          "硫黄"
+        ]
+      },
+      "B": {
+        "name": "液体",
+        "choices": [
+          "水銀",
+          "臭素"
+        ]
+      },
+      "C": {
+        "name": "気体",
+        "choices": [
+          "ヘリウム"
+        ]
+      }
+    },
+    "difficulty": "EASY"
+  },
+  {
+    "id": 47,
+    "type": "GROUP",
+    "question": "次の数列を種類によって分類しなさい",
+    "groups": {
+      "A": {
+        "name": "等差数列",
+        "choices": [
+          "2,5,8,11",
+          "10,7,4,1"
+        ]
+      },
+      "B": {
+        "name": "等比数列",
+        "choices": [
+          "3,6,12,24",
+          "81,27,9,3"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 48,
+    "type": "GROUP",
+    "question": "次のホルモンを分泌する器官によって分類しなさい",
+    "groups": {
+      "A": {
+        "name": "膵臓",
+        "choices": [
+          "インスリン",
+          "グルカゴン"
+        ]
+      },
+      "B": {
+        "name": "甲状腺",
+        "choices": [
+          "チロキシン",
+          "カルシトニン"
+        ]
+      },
+      "C": {
+        "name": "副腎髄質",
+        "choices": [
+          "アドレナリン"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 49,
+    "type": "GROUP",
+    "question": "次の物理量をSI単位によって分類しなさい",
+    "groups": {
+      "A": {
+        "name": "ジュール",
+        "choices": [
+          "仕事",
+          "エネルギー"
+        ]
+      },
+      "B": {
+        "name": "ワット",
+        "choices": [
+          "仕事率",
+          "放射束"
+        ]
+      },
+      "C": {
+        "name": "ニュートン",
+        "choices": [
+          "力"
+        ]
       }
     },
     "difficulty": "NORMAL"
@@ -1124,20 +1220,26 @@
   {
     "id": 50,
     "type": "GROUP",
-    "question": "次の国を分類しなさい",
+    "question": "次の化合物を含まれる元素によって分類しなさい",
     "groups": {
       "A": {
-        "name": "内陸国",
+        "name": "窒素を含む",
         "choices": [
-          "ネパール",
-          "ボリビア"
+          "アンモニア",
+          "尿素"
         ]
       },
       "B": {
-        "name": "島国",
+        "name": "硫黄を含む",
         "choices": [
-          "日本",
-          "キューバ"
+          "硫酸",
+          "硫化水素"
+        ]
+      },
+      "C": {
+        "name": "リンを含む",
+        "choices": [
+          "リン酸"
         ]
       }
     },
@@ -1146,64 +1248,77 @@
   {
     "id": 51,
     "type": "GROUP",
-    "question": "次の作曲家を音楽史上の時代で分類しなさい",
+    "question": "次の地質時代を分類しなさい",
     "groups": {
       "A": {
-        "name": "バロック",
+        "name": "古生代",
         "choices": [
-          "バッハ",
-          "ヘンデル"
+          "カンブリア紀",
+          "デボン紀"
         ]
       },
       "B": {
-        "name": "古典派",
+        "name": "中生代",
         "choices": [
-          "モーツァルト",
-          "ハイドン"
+          "三畳紀",
+          "ジュラ紀"
+        ]
+      },
+      "C": {
+        "name": "新生代",
+        "choices": [
+          "第四紀"
         ]
       }
     },
-    "difficulty": "HARD"
+    "difficulty": "NORMAL"
   },
   {
     "id": 52,
     "type": "GROUP",
-    "question": "次の絵画を作者ごとに分類しなさい",
+    "question": "次の有機化合物を官能基によって分類しなさい",
     "groups": {
       "A": {
-        "name": "ゴッホ",
+        "name": "アルデヒド",
         "choices": [
-          "ひまわり",
-          "夜のカフェ"
+          "ホルムアルデヒド",
+          "アセトアルデヒド"
         ]
       },
       "B": {
-        "name": "モネ",
+        "name": "エステル",
         "choices": [
-          "睡蓮",
-          "印象・日の出"
+          "酢酸エチル",
+          "ギ酸メチル"
+        ]
+      },
+      "C": {
+        "name": "エーテル",
+        "choices": [
+          "ジエチルエーテル"
         ]
       }
     },
-    "difficulty": "HARD"
+    "difficulty": "NORMAL"
   },
   {
     "id": 53,
     "type": "GROUP",
-    "question": "次の歴史上の人物を時代で分類しなさい",
+    "question": "次のコンピュータ用語を分類しなさい",
     "groups": {
       "A": {
-        "name": "戦国時代",
+        "name": "プログラミング言語",
         "choices": [
-          "織田信長",
-          "武田信玄"
+          "Python",
+          "Java",
+          "C++"
         ]
       },
       "B": {
-        "name": "江戸時代",
+        "name": "データベース管理システム",
         "choices": [
-          "徳川吉宗",
-          "松平定信"
+          "MySQL",
+          "PostgreSQL"
         ]
       }
     },
@@ -1212,42 +1327,49 @@
   {
     "id": 54,
     "type": "GROUP",
-    "question": "次の出来事を起きた世紀で分類しなさい",
+    "question": "次の天体を銀河系内と銀河系外に分類しなさい",
     "groups": {
       "A": {
-        "name": "18世紀",
+        "name": "銀河系内",
         "choices": [
-          "産業革命",
-          "米独立"
+          "ベガ",
+          "アルタイル",
+          "プレアデス星団"
         ]
       },
       "B": {
-        "name": "19世紀",
+        "name": "銀河系外",
         "choices": [
-          "明治維新",
-          "南北戦争"
+          "アンドロメダ銀河",
+          "大マゼラン雲"
         ]
       }
     },
-    "difficulty": "HARD"
+    "difficulty": "NORMAL"
   },
   {
     "id": 55,
     "type": "GROUP",
-    "question": "次の単位を分類しなさい",
+    "question": "次の物質を磁気的性質によって分類しなさい",
     "groups": {
       "A": {
-        "name": "基本単位",
+        "name": "強磁性体",
         "choices": [
-          "メートル",
-          "ケルビン"
+          "鉄",
+          "コバルト"
         ]
       },
       "B": {
-        "name": "組立単位",
+        "name": "常磁性体",
         "choices": [
-          "ニュートン",
-          "ジュール"
+          "アルミニウム",
+          "白金"
+        ]
+      },
+      "C": {
+        "name": "反磁性体",
+        "choices": [
+          "銅"
         ]
       }
     },
@@ -1256,20 +1378,26 @@
   {
     "id": 56,
     "type": "GROUP",
-    "question": "次の情報技術用語を分類しなさい",
+    "question": "次の微生物をエネルギー獲得方式によって分類しなさい",
     "groups": {
       "A": {
-        "name": "暗号方式",
+        "name": "光合成独立栄養",
         "choices": [
-          "AES",
-          "RSA"
+          "アナベナ",
+          "シネコシスティス"
         ]
       },
       "B": {
-        "name": "通信規約",
+        "name": "化学合成独立栄養",
         "choices": [
-          "HTTP",
-          "SMTP"
+          "ニトロソモナス",
+          "ニトロバクター"
+        ]
+      },
+      "C": {
+        "name": "化学合成従属栄養",
+        "choices": [
+          "大腸菌"
         ]
       }
     },
@@ -1278,20 +1406,21 @@
   {
     "id": 57,
     "type": "GROUP",
-    "question": "次のデータ構造を分類しなさい",
+    "question": "次の数学的対象を集合の濃度によって分類しなさい",
     "groups": {
       "A": {
-        "name": "線形構造",
+        "name": "可算無限集合",
         "choices": [
-          "スタック",
-          "キュー"
+          "自然数全体",
+          "整数全体",
+          "有理数全体"
         ]
       },
       "B": {
-        "name": "非線形構造",
+        "name": "非可算無限集合",
         "choices": [
-          "木構造",
-          "グラフ"
+          "実数全体",
+          "無理数全体"
         ]
       }
     },
@@ -1300,20 +1429,21 @@
   {
     "id": 58,
     "type": "GROUP",
-    "question": "次のプログラミング言語を分類しなさい",
+    "question": "次の化学種をルイス酸とルイス塩基に分類しなさい",
     "groups": {
       "A": {
-        "name": "コンパイル型",
+        "name": "ルイス酸",
         "choices": [
-          "C言語",
-          "Rust"
+          "BF3",
+          "AlCl3",
+          "H+"
         ]
       },
       "B": {
-        "name": "インタプリタ型",
+        "name": "ルイス塩基",
         "choices": [
-          "Python",
-          "Ruby"
+          "NH3",
+          "OH-"
         ]
       }
     },
@@ -1322,174 +1452,26 @@
   {
     "id": 59,
     "type": "GROUP",
-    "question": "次の食材を分類しなさい",
+    "question": "次の細胞骨格を構成する主なタンパク質によって分類しなさい",
     "groups": {
       "A": {
-        "name": "豆類",
+        "name": "アクチン",
         "choices": [
-          "大豆",
-          "小豆"
+          "微絨毛",
+          "収縮環"
         ]
       },
       "B": {
-        "name": "穀類",
+        "name": "チューブリン",
         "choices": [
-          "小麦",
-          "大麦"
-        ]
-      }
-    },
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 60,
-    "type": "GROUP",
-    "question": "次の料理を発祥国ごとに分類しなさい",
-    "groups": {
-      "A": {
-        "name": "イタリア",
-        "choices": [
-          "リゾット",
-          "ラザニア"
+          "紡錘糸",
+          "繊毛"
         ]
       },
-      "B": {
-        "name": "スペイン",
+      "C": {
+        "name": "中間径フィラメント",
         "choices": [
-          "パエリア",
-          "ガスパチョ"
-        ]
-      }
-    },
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 61,
-    "type": "GROUP",
-    "question": "次の鉱物を分類しなさい",
-    "groups": {
-      "A": {
-        "name": "ケイ酸塩鉱物",
-        "choices": [
-          "石英",
-          "長石"
-        ]
-      },
-      "B": {
-        "name": "炭酸塩鉱物",
-        "choices": [
-          "方解石",
-          "菱苦土石"
-        ]
-      }
-    },
-    "difficulty": "HARD"
-  },
-  {
-    "id": 62,
-    "type": "GROUP",
-    "question": "次の血液型を分類しなさい",
-    "groups": {
-      "A": {
-        "name": "A型抗原あり",
-        "choices": [
-          "A型",
-          "AB型"
-        ]
-      },
-      "B": {
-        "name": "A型抗原なし",
-        "choices": [
-          "B型",
-          "O型"
-        ]
-      }
-    },
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 63,
-    "type": "GROUP",
-    "question": "次の元素を分類しなさい",
-    "groups": {
-      "A": {
-        "name": "アルカリ金属",
-        "choices": [
-          "リチウム",
-          "ナトリウム"
-        ]
-      },
-      "B": {
-        "name": "アルカリ土類金属",
-        "choices": [
-          "マグネシウム",
-          "カルシウム"
-        ]
-      }
-    },
-    "difficulty": "HARD"
-  },
-  {
-    "id": 64,
-    "type": "GROUP",
-    "question": "次の惑星を分類しなさい",
-    "groups": {
-      "A": {
-        "name": "内惑星",
-        "choices": [
-          "水星",
-          "金星"
-        ]
-      },
-      "B": {
-        "name": "外惑星",
-        "choices": [
-          "木星",
-          "土星"
-        ]
-      }
-    },
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 65,
-    "type": "GROUP",
-    "question": "次の文学作品を作者ごとに分類しなさい",
-    "groups": {
-      "A": {
-        "name": "シェイクスピア",
-        "choices": [
-          "ハムレット",
-          "マクベス"
-        ]
-      },
-      "B": {
-        "name": "ゲーテ",
-        "choices": [
-          "ファウスト",
-          "若きウェルテル"
-        ]
-      }
-    },
-    "difficulty": "HARD"
-  },
-  {
-    "id": 66,
-    "type": "GROUP",
-    "question": "次の惑星探査機を目的地ごとに分類しなさい",
-    "groups": {
-      "A": {
-        "name": "火星探査",
-        "choices": [
-          "バイキング",
-          "キュリオシティ"
-        ]
-      },
-      "B": {
-        "name": "金星探査",
-        "choices": [
-          "あかつき",
-          "ベネラ"
+          "核ラミナ"
         ]
       }
     },
